@@ -764,3 +764,224 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.22-00.17.56:970][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2019.10.22-00.17.56:994][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2019.10.22-00.17.57:017][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.22-00.19.03:058][783]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Mixed_prototype_Tilesets_TileMapAC91551744EA88950D23B3801E30F796.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Mixed_prototype_Tilesets_TileMap1.uasset'
+[2019.10.22-00.19.03:148][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.22-00.19.03:172][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.22-00.19.03:194][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.22-00.19.20:911][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
+[2019.10.22-00.19.20:920][ 63]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap3324EDA444E79DE99FEE33BF3E35D102.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.22-00.19.21:011][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.22-00.19.21:034][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.22-00.19.21:056][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.22-00.19.22:982][179]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.20.01:642][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.20.51:517][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.21.13:142][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.21.45:595][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.22.02:238][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.22.21:030][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.22.48:311][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.22.48:352][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
+[2019.10.22-00.22.48:514][670]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap73D0D83A4AA6B8A8C60E1D9E484885D9.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.22-00.23.11:598][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.24.30:460][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
+[2019.10.22-00.24.30:708][690]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap6BD24949400CD4800258E2B20C1F9D47.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.22-00.24.31:974][741]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.24.31:979][741]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.25.33:709][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.25.44:651][608]LogEditorViewport: Clicking Background
+[2019.10.22-00.25.50:386][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.26.00:102][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.26.00:183][365]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.26.00:187][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.26.00:188][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.26.00:188][365]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:26:00 PM)
+[2019.10.22-00.26.00:200][365]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.26.00:201][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001237s)
+[2019.10.22-00.26.00:202][365]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.26.00:202][365]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2019.10.22-00.26.00:202][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.002066s)
+[2019.10.22-00.26.00:231][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.22-00.26.00:232][365]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.26.00:248][365]LogInit: FAudioDevice initialized.
+[2019.10.22-00.26.00:284][365]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.26.00:287][365]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.26.00
+[2019.10.22-00.26.00:366][365]LogWorld: Bringing up level for play took: 0.079997
+[2019.10.22-00.26.00:396][365]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.10.22-00.26.00:479][365]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.765
+[2019.10.22-00.26.00:479][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.26.00:575][366]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.069615 > MaxSimulationTimeStep (0.050) for '2DSideScrollerCharacter_2', movement 'Walking'
+[2019.10.22-00.26.30:041][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.26.30:041][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.26.30:086][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.26.30:086][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.26.30:113][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.26.30:116][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.22-00.26.30:142][142]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.22-00.26.32:125][243]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.10.22-00.26.33:245][288]Cmd: DELETE
+[2019.10.22-00.26.33:245][288]Cmd: ACTOR DELETE
+[2019.10.22-00.26.33:247][288]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2019.10.22-00.26.33:314][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.22-00.26.33:315][288]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.10.22-00.26.36:650][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.26.37:794][515]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.26.48:961][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.26.49:041][921]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.26.49:071][921]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.26.50:262][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.26.50:266][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.26.50:266][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.26.50:266][980]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:26:50 PM)
+[2019.10.22-00.26.50:266][980]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.26.50:267][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000734s)
+[2019.10.22-00.26.50:267][980]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.26.50:268][980]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2019.10.22-00.26.50:268][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.001319s)
+[2019.10.22-00.26.50:292][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.22-00.26.50:293][980]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.26.50:308][980]LogInit: FAudioDevice initialized.
+[2019.10.22-00.26.50:340][980]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.26.50:342][980]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.26.50
+[2019.10.22-00.26.50:342][980]LogWorld: Bringing up level for play took: 0.001029
+[2019.10.22-00.26.50:354][980]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.64
+[2019.10.22-00.26.50:354][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.27.15:991][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.27.15:991][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.27.16:034][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.27.16:034][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.27.16:059][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.27.16:061][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.22-00.27.16:093][526]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.22-00.27.19:793][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.27.21:133][780]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.27.55:680][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.28.29:414][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.28.36:373][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.28.50:270][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.28.58:794][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.29.10:828][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.29.10:946][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
+[2019.10.22-00.29.11:084][639]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap2AF32A8F4435056885D683A59DA8DEF5.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.22-00.29.12:367][688]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.29.12:395][688]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.29.16:076][872]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.29.20:140][ 17]LogSlate: Window 'Rand_tilemap*' being destroyed
+[2019.10.22-00.29.20:169][ 17]LogSlate: Window 'Rand_tilemap*' being destroyed
+[2019.10.22-00.29.22:011][109]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.29.22:015][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.29.22:015][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.29.22:015][109]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:29:22 PM)
+[2019.10.22-00.29.22:015][109]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.29.22:016][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000836s)
+[2019.10.22-00.29.22:017][109]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.29.22:017][109]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.10.22-00.29.22:017][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.001485s)
+[2019.10.22-00.29.22:045][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.22-00.29.22:046][109]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.29.22:061][109]LogInit: FAudioDevice initialized.
+[2019.10.22-00.29.22:092][109]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.29.22:094][109]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.29.22
+[2019.10.22-00.29.22:094][109]LogWorld: Bringing up level for play took: 0.001035
+[2019.10.22-00.29.22:107][109]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.389
+[2019.10.22-00.29.22:107][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.29.40:320][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.29.40:320][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.29.40:364][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.29.40:364][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.29.40:388][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.29.40:390][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.22-00.29.40:424][210]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.22-00.29.42:804][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-00.29.46:083][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-00.29.53:651][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.29.54:920][992]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.30.05:256][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
+[2019.10.22-00.30.05:295][314]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap8990BDEA4A2B4194F5DB879EFC2A6A56.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.22-00.30.06:335][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.30.06:437][362]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.30.06:463][362]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.22-00.30.09:722][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.30.10:185][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.30.10:189][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.30.10:189][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.30.10:189][577]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:30:10 PM)
+[2019.10.22-00.30.10:189][577]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.30.10:190][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000787s)
+[2019.10.22-00.30.10:190][577]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.30.10:190][577]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.10.22-00.30.10:190][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.001420s)
+[2019.10.22-00.30.10:213][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.22-00.30.10:214][577]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.30.10:229][577]LogInit: FAudioDevice initialized.
+[2019.10.22-00.30.10:256][577]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.30.10:257][577]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.30.10
+[2019.10.22-00.30.10:258][577]LogWorld: Bringing up level for play took: 0.001039
+[2019.10.22-00.30.10:270][577]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.552
+[2019.10.22-00.30.10:270][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.30.22:528][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.30.22:528][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.30.22:572][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.30.22:572][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.30.22:598][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.30.22:601][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.22-00.30.22:632][324]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.22-00.30.24:891][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-00.30.29:628][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.31.02:046][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.22-00.31.02:136][369]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto136549B4B4FD95AA5573967BEA82F9509.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_test_Auto1.umap'
+[2019.10.22-00.31.02:145][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.129
+[2019.10.22-00.31.02:145][369]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2019.10.22-00.31.25:964][610]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.31.25:968][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.31.25:968][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.31.25:968][610]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:31:25 PM)
+[2019.10.22-00.31.25:968][610]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.31.25:969][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000809s)
+[2019.10.22-00.31.25:970][610]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.31.25:970][610]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.10.22-00.31.25:970][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.001501s)
+[2019.10.22-00.31.25:994][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.22-00.31.25:996][610]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.31.26:011][610]LogInit: FAudioDevice initialized.
+[2019.10.22-00.31.26:042][610]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.31.26:043][610]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.31.26
+[2019.10.22-00.31.26:044][610]LogWorld: Bringing up level for play took: 0.001080
+[2019.10.22-00.31.26:056][610]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.337
+[2019.10.22-00.31.26:057][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.31.51:312][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.31.51:312][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.31.51:358][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.31.51:358][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.31.51:396][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.31.51:400][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.22-00.31.51:425][132]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.22-00.31.53:294][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.31.53:370][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-00.31.53:374][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.31.53:374][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-00.31.53:375][234]PIE: New page: PIE session: Rand_test (Oct 21, 2019, 2:31:53 PM)
+[2019.10.22-00.31.53:375][234]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.10.22-00.31.53:376][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000835s)
+[2019.10.22-00.31.53:376][234]LogAIModule: Creating AISystem for world Rand_test
+[2019.10.22-00.31.53:376][234]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2019.10.22-00.31.53:376][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.001440s)
+[2019.10.22-00.31.53:400][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.22-00.31.53:401][234]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-00.31.53:416][234]LogInit: FAudioDevice initialized.
+[2019.10.22-00.31.53:446][234]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.22-00.31.53:447][234]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.10.21-19.31.53
+[2019.10.22-00.31.53:448][234]LogWorld: Bringing up level for play took: 0.001118
+[2019.10.22-00.31.53:460][234]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test -0.261
+[2019.10.22-00.31.53:460][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.32.10:991][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.32.10:991][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.32.11:033][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-00.32.11:033][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.10.22-00.32.11:076][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-00.32.11:078][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.22-00.32.11:101][287]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.22-00.32.13:352][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.32.14:352][455]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.10.22-00.32.19:418][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-00.34.02:375][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
