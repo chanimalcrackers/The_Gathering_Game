@@ -2103,3 +2103,165 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.10.23-20.44.57:625][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.23-20.44.57:631][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
 [2019.10.23-20.44.57:685][583]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.10.23-20.45.21:704][719]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (AndreTileMap)
+[2019.10.23-20.46.43:691][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.46.43:952][ 54]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/BP_Andre_Dude.BP_Andre_Dude
+[2019.10.23-20.51.55:308][787]LogSlate: Took 0.010517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.23-20.53.19:823][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset" SILENT=true
+[2019.10.23-20.53.19:857][331]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude5B15679B4B47F4CD554B91B810026E96.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset'
+[2019.10.23-20.53.36:275][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.55.06:351][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset" SILENT=true
+[2019.10.23-20.55.06:383][137]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_DudeEBB2A50E49FB917B71D0B7B91A47E64C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset'
+[2019.10.23-20.55.10:651][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.55.11:462][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-20.55.11:476][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.55.11:476][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.23-20.55.11:477][325]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude before play...
+[2019.10.23-20.55.11:674][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.23-20.55.11:674][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2019.10.23-20.55.11:674][325]PIE: New page: PIE session: AndreTestGround (Oct 23, 2019, 10:55:11 AM)
+[2019.10.23-20.55.11:674][325]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.23-20.55.11:676][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001004s)
+[2019.10.23-20.55.11:677][325]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.23-20.55.11:677][325]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2019.10.23-20.55.11:677][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002579s)
+[2019.10.23-20.55.11:712][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.23-20.55.11:726][325]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-20.55.11:767][325]LogInit: FAudioDevice initialized.
+[2019.10.23-20.55.11:798][325]LogLoad: Game class is 'Andre_GameMode_C'
+[2019.10.23-20.55.11:800][325]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.23-15.55.11
+[2019.10.23-20.55.11:801][325]LogWorld: Bringing up level for play took: 0.001316
+[2019.10.23-20.55.11:817][325]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.866
+[2019.10.23-20.55.11:817][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.55.16:856][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.55.16:856][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.55.16:888][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-20.55.16:888][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.55.16:927][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.55.16:932][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.23-20.55.16:987][628]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.10.23-20.55.21:332][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-20.55.57:019][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset" SILENT=true
+[2019.10.23-20.55.57:053][869]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude3A2947024FCEA54E6534ADB9D911CE34.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset'
+[2019.10.23-20.55.57:947][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.55.58:012][925]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.23-20.55.58:020][925]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.23-20.55.58:975][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.55.59:058][977]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-20.55.59:069][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.55.59:069][977]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.23-20.55.59:070][977]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude before play...
+[2019.10.23-20.55.59:108][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.23-20.55.59:108][977]LogPlayLevel: PlayLevel: Blueprint regeneration took 39 ms (1 blueprints)
+[2019.10.23-20.55.59:109][977]PIE: New page: PIE session: AndreTestGround (Oct 23, 2019, 10:55:59 AM)
+[2019.10.23-20.55.59:109][977]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.23-20.55.59:110][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000954s)
+[2019.10.23-20.55.59:110][977]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.23-20.55.59:110][977]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2019.10.23-20.55.59:110][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001599s)
+[2019.10.23-20.55.59:143][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.23-20.55.59:155][977]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-20.55.59:192][977]LogInit: FAudioDevice initialized.
+[2019.10.23-20.55.59:221][977]LogLoad: Game class is 'Andre_GameMode_C'
+[2019.10.23-20.55.59:223][977]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.23-15.55.59
+[2019.10.23-20.55.59:223][977]LogWorld: Bringing up level for play took: 0.000596
+[2019.10.23-20.55.59:237][977]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.286
+[2019.10.23-20.55.59:238][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.13:489][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.13:489][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.13:523][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-20.56.13:523][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.13:561][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.13:565][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.23-20.56.13:618][827]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.10.23-20.56.18:837][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.56.18:887][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-20.56.18:898][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.18:899][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-20.56.18:899][133]PIE: New page: PIE session: AndreTestGround (Oct 23, 2019, 10:56:18 AM)
+[2019.10.23-20.56.18:899][133]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.23-20.56.18:900][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001200s)
+[2019.10.23-20.56.18:901][133]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.23-20.56.18:901][133]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2019.10.23-20.56.18:901][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002364s)
+[2019.10.23-20.56.18:932][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.23-20.56.18:943][133]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-20.56.18:981][133]LogInit: FAudioDevice initialized.
+[2019.10.23-20.56.19:010][133]LogLoad: Game class is 'Andre_GameMode_C'
+[2019.10.23-20.56.19:012][133]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.23-15.56.19
+[2019.10.23-20.56.19:012][133]LogWorld: Bringing up level for play took: 0.000681
+[2019.10.23-20.56.19:025][133]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.074
+[2019.10.23-20.56.19:025][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.30:792][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.30:793][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.30:832][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-20.56.30:832][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.30:883][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.30:887][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.23-20.56.30:945][829]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.10.23-20.56.32:593][922]LogEditorViewport: Clicking Background
+[2019.10.23-20.56.38:043][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.56.38:127][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-20.56.38:143][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.38:143][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-20.56.38:143][235]PIE: New page: PIE session: AndreTestGround (Oct 23, 2019, 10:56:38 AM)
+[2019.10.23-20.56.38:143][235]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.23-20.56.38:144][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001152s)
+[2019.10.23-20.56.38:145][235]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.23-20.56.38:145][235]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2019.10.23-20.56.38:145][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001903s)
+[2019.10.23-20.56.38:182][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.23-20.56.38:196][235]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-20.56.38:244][235]LogInit: FAudioDevice initialized.
+[2019.10.23-20.56.38:280][235]LogLoad: Game class is 'Andre_GameMode_C'
+[2019.10.23-20.56.38:282][235]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.23-15.56.38
+[2019.10.23-20.56.38:282][235]LogWorld: Bringing up level for play took: 0.001550
+[2019.10.23-20.56.38:297][235]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround -0.653
+[2019.10.23-20.56.38:297][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.43:078][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.43:078][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.43:112][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-20.56.43:112][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.23-20.56.43:149][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-20.56.43:154][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.23-20.56.43:209][508]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.10.23-20.56.46:185][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.56.46:358][687]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/BP_Andre_Dude.BP_Andre_Dude
+[2019.10.23-20.57.41:559][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-20.57.45:893][559]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.10.23-20.58.02:507][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/ani_dark_elf_jump" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/ani_dark_elf_jump.uasset" SILENT=true
+[2019.10.23-20.58.02:517][549]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/ani_dark_elf_jump86273AF341EC015418ED3F849C99F941.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/ani_dark_elf_jump.uasset'
+[2019.10.23-20.58.02:710][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.23-20.58.02:749][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.23-20.58.02:783][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.23-21.01.40:644][843]LogSlate: Window 'Delete Variable' being destroyed
+[2019.10.23-21.10.33:403][907]BlueprintLog: New page: Compile BP_Andre_Dude
+[2019.10.23-21.10.33:588][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.10.23-21.13.19:001][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.10.23-21.13.19:173][519]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGround_Auto5507AC6FC4F27D025DB7805817DA9011D.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/AndreTestGround_Auto5.umap'
+[2019.10.23-21.13.19:176][519]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/AndreTestGround' took 0.215
+[2019.10.23-21.13.19:176][519]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2019.10.23-21.13.19:179][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2019.10.23-21.13.19:180][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2019.10.23-21.13.19:197][519]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/2DSideScrollerGameMode_Auto5017F197E404EBD356EAC968701C16C81.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto5.uasset'
+[2019.10.23-21.13.19:198][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/BluePrints/BP_Andre_Dude] ([1] browsable assets)...
+[2019.10.23-21.13.19:198][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/BluePrints/BP_Andre_Dude]
+[2019.10.23-21.13.19:198][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/BP_Andre_Dude_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.10.23-21.13.19:415][519]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude_Auto5241784744174FD36D0928CB54723DAF6.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/BP_Andre_Dude_Auto5.uasset'
+[2019.10.23-21.13.19:416][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/BluePrints/Andre_GameMode] ([1] browsable assets)...
+[2019.10.23-21.13.19:416][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/BluePrints/Andre_GameMode]
+[2019.10.23-21.13.19:416][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Andre_GameMode" FILE="D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/Andre_GameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.10.23-21.13.19:430][519]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Andre_GameMode_Auto595F5064C4AAD7E8015D577921CB5BE18.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/Andre_GameMode_Auto5.uasset'
+[2019.10.23-21.13.19:431][519]LogFileHelpers: Auto-saving content packages took 0.252
+[2019.10.23-21.14.13:207][604]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.23-21.14.36:882][105]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.23-21.14.45:083][158]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (31.855 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-21.16.13:831][517]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.23-21.16.13:839][517]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.23-21.16.32:582][518]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Andre/Data/AnimationState.AnimationState
+[2019.10.23-21.17.34:823][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Data/AnimationState" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Data/AnimationState.uasset" SILENT=true
+[2019.10.23-21.17.34:832][195]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AnimationState6B9D17E44741C9C0FAE4339ADC35D92A.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Data/AnimationState.uasset'
+[2019.10.23-21.17.37:265][340]LogSlate: Window 'AnimationState' being destroyed
+[2019.10.23-21.17.45:777][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/BP_Andre_Dude.BP_Andre_Dude
+[2019.10.23-21.18.19:458][745]BlueprintLog: New page: Compile BP_Andre_Dude
+[2019.10.23-21.18.19:645][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
