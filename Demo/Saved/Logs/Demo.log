@@ -1036,3 +1036,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-00.54.50:355][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.189
 [2019.10.24-00.54.50:355][814]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
 [2019.10.24-01.03.08:514][462]LogEditorViewport: Clicking Background
+[2019.10.24-01.04.04:866][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-01.04.39:786][835]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\TEMP.AD.000\Desktop\The_Gathering_Game\Artwork\Mixed_prototype_Tilesets2.png)
+[2019.10.24-01.04.39:788][835]LogTexture: Display: Building textures: Mixed_prototype_Tilesets2 (AutoDXT, 192X160)
