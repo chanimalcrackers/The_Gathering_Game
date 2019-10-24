@@ -1066,3 +1066,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-01.07.00:343][844]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
 [2019.10.24-01.07.15:583][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_tilemap" FILE="../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset" SILENT=true
 [2019.10.24-01.07.15:638][357]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemapF3ABEE7C47A245DC015CABAB49C382C3.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
+[2019.10.24-01.07.49:066][573]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.24-01.07.49:096][573]LogSlate: Window 'Rand_tilemap' being destroyed
