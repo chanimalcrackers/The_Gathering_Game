@@ -1068,3 +1068,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-01.07.15:638][357]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemapF3ABEE7C47A245DC015CABAB49C382C3.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_tilemap.uasset'
 [2019.10.24-01.07.49:066][573]LogSlate: Window 'Rand_tilemap' being destroyed
 [2019.10.24-01.07.49:096][573]LogSlate: Window 'Rand_tilemap' being destroyed
+[2019.10.24-01.15.22:338][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.10.24-01.15.22:501][760]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto374F66AC847203ADC8876E1AE2F51C819.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_test_Auto3.umap'
+[2019.10.24-01.15.22:513][760]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.271
+[2019.10.24-01.15.22:513][760]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2019.10.24-01.15.22:514][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet] ([1] browsable assets)...
+[2019.10.24-01.15.22:523][760]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet.Mixed_prototype_Tilesets2_TileSet]
+[2019.10.24-01.15.22:523][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet]
+[2019.10.24-01.15.22:541][760]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Mixed_prototype_Tilesets2_TileSe0A5F079546F4D4B5D91B2C8F65B04DD6.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet_Auto3.uasset'
+[2019.10.24-01.15.22:553][760]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.10.24-01.20.09:272][617]LogEditorViewport: Clicking Background
+[2019.10.24-01.20.43:186][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
