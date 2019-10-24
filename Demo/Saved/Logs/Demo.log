@@ -1039,3 +1039,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-01.04.04:866][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.24-01.04.39:786][835]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\TEMP.AD.000\Desktop\The_Gathering_Game\Artwork\Mixed_prototype_Tilesets2.png)
 [2019.10.24-01.04.39:788][835]LogTexture: Display: Building textures: Mixed_prototype_Tilesets2 (AutoDXT, 192X160)
+[2019.10.24-01.05.18:606][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.24-01.05.18:606][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.039
+[2019.10.24-01.05.18:608][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/charater/Mixed_prototype_Tilesets2] ([1] browsable assets)...
+[2019.10.24-01.05.18:612][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rand/charater/Mixed_prototype_Tilesets2.Mixed_prototype_Tilesets2]
+[2019.10.24-01.05.18:612][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/charater/Mixed_prototype_Tilesets2]
+[2019.10.24-01.05.18:629][239]LogSavePackage: Moving '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Mixed_prototype_Tilesets2_Auto2F9CEA67343798DEC5F137F83600E3FF2.tmp' to '../../../../Users/TEMP.AD.000/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/charater/Mixed_prototype_Tilesets2_Auto2.uasset'
+[2019.10.24-01.05.18:641][239]LogFileHelpers: Auto-saving content packages took 0.034
