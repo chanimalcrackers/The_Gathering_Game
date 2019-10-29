@@ -1640,3 +1640,853 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-00.20.37:073][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2019.10.29-00.20.37:117][455]LogPlayLevel: Display: Destroying online subsystem :Context_42
 [2019.10.29-00.20.38:252][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.23.02:675][736]BlueprintLog: New page: Compile BP_Andre_Dude
+[2019.10.29-00.23.02:862][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.10.29-00.23.04:344][803]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.23.04:359][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.23.04:359][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-00.23.04:359][803]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:23:04 PM)
+[2019.10.29-00.23.04:359][803]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.23.04:360][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001003s)
+[2019.10.29-00.23.04:361][803]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.23.04:361][803]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.10.29-00.23.04:361][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001713s)
+[2019.10.29-00.23.04:398][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.10.29-00.23.04:405][803]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.23.04:442][803]LogInit: FAudioDevice initialized.
+[2019.10.29-00.23.04:481][803]LogLoad: Game class is 'Andre_GameMode_C'
+[2019.10.29-00.23.04:482][803]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.23.04
+[2019.10.29-00.23.04:483][803]LogWorld: Bringing up level for play took: 0.001118
+[2019.10.29-00.23.04:496][803]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.951
+[2019.10.29-00.23.04:496][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.23.07:184][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.23.07:248][958]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.29-00.23.07:260][958]LogSlate: Window 'BP_Andre_Dude' being destroyed
+[2019.10.29-00.23.14:808][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.23.14:808][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.23.14:839][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.23.14:839][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.23.14:874][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.23.14:879][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.29-00.23.14:924][400]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.10.29-00.23.21:986][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.23.51:417][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.29-00.24.02:024][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.10.29-00.24.02:027][209]LogMetaData: Removing '/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.SKEL_BP_Andre_Dude2_C' ref from Metadata '/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude.PackageMetaData'
+[2019.10.29-00.24.02:027][209]LogMetaData: Removing '/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.BP_Andre_Dude2_C' ref from Metadata '/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude.PackageMetaData'
+[2019.10.29-00.24.02:065][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset" SILENT=true
+[2019.10.29-00.24.02:152][209]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude2DD78D0AF4B8EB27B88FB298D26E2511B.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset'
+[2019.10.29-00.24.02:315][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.29-00.24.02:351][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.29-00.24.02:383][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.29-00.24.05:702][406]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.10.29-00.24.20:968][293]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.24.20:976][293]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.24.29:399][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GITHUB\The_Gathering_Game\Art Assets\Main_Character Sprites\Main_Character_Idle_SLash_Jump.png)
+[2019.10.29-00.24.29:405][601]LogTexture: Display: Building textures: Main_Character_Idle_SLash_Jump (AutoDXT, 172X96)
+[2019.10.29-00.24.29:433][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GITHUB\The_Gathering_Game\Art Assets\Main_Character Sprites\Main_Character_Idle.png)
+[2019.10.29-00.24.29:436][601]LogTexture: Display: Building textures: Main_Character_Idle (AutoDXT, 192X32)
+[2019.10.29-00.24.41:647][330]LogTexture: Display: Building textures: Main_Character_Idle (BGRA8, 192X32)
+[2019.10.29-00.24.41:649][330]LogTexture: Display: Building textures: Main_Character_Idle_SLash_Jump (BGRA8, 172X96)
+[2019.10.29-00.24.52:554][958]LogSlate: Window 'Extract sprites' being destroyed
+[2019.10.29-00.24.56:020][155]LogSlate: Window 'Extract sprites' being destroyed
+[2019.10.29-00.25.10:528][ 19]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.10.29-00.25.24:047][829]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Actual_Sprite_Test/Ani_Main_Char_Idle.Ani_Main_Char_Idle
+[2019.10.29-00.25.34:192][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.25.44:850][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Ani_Main_Char_Idle" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Char_Idle.uasset" SILENT=true
+[2019.10.29-00.25.44:862][ 68]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Char_IdleE18E66BE43ED5528C32F6CA85CADAE07.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Char_Idle.uasset'
+[2019.10.29-00.25.47:305][214]LogSlate: Window 'Ani_Main_Char_Idle' being destroyed
+[2019.10.29-00.25.47:313][214]LogSlate: Window 'Ani_Main_Char_Idle' being destroyed
+[2019.10.29-00.26.00:963][ 30]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Andre/Actual_Sprite_Test/Main_Character_Idle_SLash_Jump_Sprite_2.Main_Character_Idle_SLash_Jump_Sprite_2
+[2019.10.29-00.26.01:147][ 30]LogRenderer: Reallocating scene render targets to support 1448x928 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-00.26.08:360][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.26.08:410][460]LogSlate: Window 'Main_Character_Idle_SLash_Jump_Sprite_2' being destroyed
+[2019.10.29-00.26.08:419][460]LogSlate: Window 'Main_Character_Idle_SLash_Jump_Sprite_2' being destroyed
+[2019.10.29-00.27.36:791][687]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.10.29-00.27.51:360][560]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Actual_Sprite_Test/Main_Character_Idle_SLash.Main_Character_Idle_SLash
+[2019.10.29-00.30.35:338][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-00.30.35:381][326]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash693582BA42CEF355388C3A8B344525C8.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Main_Character_Idle_SLash.uasset'
+[2019.10.29-00.30.36:027][364]LogSlate: Window 'Main_Character_Idle_SLash' being destroyed
+[2019.10.29-00.30.36:033][364]LogSlate: Window 'Main_Character_Idle_SLash' being destroyed
+[2019.10.29-00.30.56:646][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Main_Character_Idle_SLash" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Character_Idle_SLash.uasset" SILENT=true
+[2019.10.29-00.30.56:657][594]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash16F6C7664D8CD30E6F04FBABB48A9D1E.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Character_Idle_SLash.uasset'
+[2019.10.29-00.30.56:929][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.10.29-00.30.56:966][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.29-00.30.56:998][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.29-00.31.34:104][818]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Andre/Actual_Sprite_Test/Main_Character_Idle_SLash_Jump_Sprite_13.Main_Character_Idle_SLash_Jump_Sprite_13
+[2019.10.29-00.31.41:810][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.31.41:861][274]LogSlate: Window 'Main_Character_Idle_SLash_Jump_Sprite_13' being destroyed
+[2019.10.29-00.31.41:871][274]LogSlate: Window 'Main_Character_Idle_SLash_Jump_Sprite_13' being destroyed
+[2019.10.29-00.32.57:508][808]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.10.29-00.33.08:023][438]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Actual_Sprite_Test/Main_Character_Jump.Main_Character_Jump
+[2019.10.29-00.33.57:032][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-00.33.57:061][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Main_Character_Jump" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Main_Character_Jump.uasset" SILENT=true
+[2019.10.29-00.33.57:072][369]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Jump80B08F754332CD26F0865B99CF35F031.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Main_Character_Jump.uasset'
+[2019.10.29-00.33.59:476][513]LogSlate: Window 'Main_Character_Jump' being destroyed
+[2019.10.29-00.33.59:483][513]LogSlate: Window 'Main_Character_Jump' being destroyed
+[2019.10.29-00.34.12:462][287]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.10.29-00.34.51:004][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Main_Character_Hurt" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Main_Character_Hurt.uasset" SILENT=true
+[2019.10.29-00.34.51:014][595]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_HurtBA4F439741A3B27F2F098CBDAE59251B.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Main_Character_Hurt.uasset'
+[2019.10.29-00.34.51:260][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.29-00.34.51:298][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.29-00.34.51:328][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.29-00.35.12:021][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Ani_Main_Character_Jump_" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Character_Jump_.uasset" SILENT=true
+[2019.10.29-00.35.12:030][831]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_Jump_1EFC266045F6B58AFF9B80B600D4909C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Character_Jump_.uasset'
+[2019.10.29-00.35.12:190][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.29-00.35.12:233][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.29-00.35.12:264][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.29-00.35.20:873][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Ani_Main_Character_Hurt" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Character_Hurt.uasset" SILENT=true
+[2019.10.29-00.35.20:882][342]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_Hurt337CBD024BA2F9C5323B4CA523EC474F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Ani_Main_Character_Hurt.uasset'
+[2019.10.29-00.35.21:039][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.29-00.35.21:081][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.29-00.35.21:111][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.29-00.35.49:425][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Char_Idle" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Char_Idle.uasset" SILENT=true
+[2019.10.29-00.35.49:435][ 35]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Char_Idle514458B04C6E7F88320DF7957D2FBC9C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Char_Idle.uasset'
+[2019.10.29-00.35.49:453][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Character_Hurt" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Hurt.uasset" SILENT=true
+[2019.10.29-00.35.49:744][ 35]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_HurtAA7E088A40FA028CF929718F3C0BACA5.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Hurt.uasset'
+[2019.10.29-00.35.49:760][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Character_Jump_" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Jump_.uasset" SILENT=true
+[2019.10.29-00.35.49:769][ 35]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_Jump_90C9C3EC47E60A0DB10428992CF5669F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Jump_.uasset'
+[2019.10.29-00.35.50:102][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.29-00.35.50:134][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.29-00.35.50:161][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.29-00.35.50:198][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.29-00.35.50:225][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.29-00.36.19:592][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle.uasset" SILENT=true
+[2019.10.29-00.36.19:601][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle9AC70F174192D9C053F401B7DAACF0DE.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle.uasset'
+[2019.10.29-00.36.19:611][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_SLash_Jump" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump.uasset" SILENT=true
+[2019.10.29-00.36.19:621][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump7678ADA74FDE45F170822FB97C4C60D5.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump.uasset'
+[2019.10.29-00.36.19:655][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S2402BE3545BEE3AE57FE47BD1A9E87AE.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_0.uasset'
+[2019.10.29-00.36.19:685][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S1BC6AA2742A9B0B796B7B6B912C7121A.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_1.uasset'
+[2019.10.29-00.36.19:716][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SA5A14AE7427C125263D385A4FAC724A7.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_2.uasset'
+[2019.10.29-00.36.19:919][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S03AF235E4B9A26072D55CFAD6F4A279A.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_3.uasset'
+[2019.10.29-00.36.19:949][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S95242B784867014E7CFC22A9C4F45016.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_4.uasset'
+[2019.10.29-00.36.19:978][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S28FEF2374AF2F783A7AE3B90E6CCA736.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_5.uasset'
+[2019.10.29-00.36.20:006][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S4ABE85EF45B6399AB5613F8057F85888.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_6.uasset'
+[2019.10.29-00.36.20:033][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SCC0411B44D8E42E39CB30F9DCA279211.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_7.uasset'
+[2019.10.29-00.36.20:060][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S82987DD6412AB43FACB22B86271EEFCF.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_8.uasset'
+[2019.10.29-00.36.20:089][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S52E33EFE43FF602C3DB40EA97D832EB4.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_9.uasset'
+[2019.10.29-00.36.20:115][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S168BF2FD46ECFD4A5B23C1A607B83270.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_10.uasset'
+[2019.10.29-00.36.20:149][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S9AC863C7428D15C43F026F8B73C5EC4D.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_11.uasset'
+[2019.10.29-00.36.20:174][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S76274C0245AE0F1501A2B89FCCA728E8.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_12.uasset'
+[2019.10.29-00.36.20:200][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S07CA47244EB2EB3A9E58A49704C10E7C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_13.uasset'
+[2019.10.29-00.36.20:226][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S4C1F96ED4517531C1EDEBC90A23C9796.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_14.uasset'
+[2019.10.29-00.36.20:252][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S39DD860140CFAF338E751AAB8F5B1F49.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_15.uasset'
+[2019.10.29-00.36.20:281][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S4DCFE49E42D2F30949A1B5ABD1D12C8F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_16.uasset'
+[2019.10.29-00.36.20:310][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S064E75B84884299F31586E84727DE0C2.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_17.uasset'
+[2019.10.29-00.36.20:337][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SF7FF9E7646C40D564D098B85A3DD487F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_18.uasset'
+[2019.10.29-00.36.20:383][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S9C0D2AE844239AB5C74FFA87484D5C48.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_19.uasset'
+[2019.10.29-00.36.20:410][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S017BE2AF41585521A3F861968457C5B7.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_SLash_Jump_Sprite_20.uasset'
+[2019.10.29-00.36.20:425][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_0" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_0.uasset" SILENT=true
+[2019.10.29-00.36.20:435][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_0F2E2FAAE457CEA0C3BB37C8CA9ED5EF2.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_0.uasset'
+[2019.10.29-00.36.20:452][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_1" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_1.uasset" SILENT=true
+[2019.10.29-00.36.20:464][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_1ABFB1885401EFA64C06541B05B4A5AB2.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_1.uasset'
+[2019.10.29-00.36.20:478][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_2.uasset" SILENT=true
+[2019.10.29-00.36.20:495][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_28C6FD104484A186779FA06AE0C8F0682.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_2.uasset'
+[2019.10.29-00.36.20:511][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_3" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_3.uasset" SILENT=true
+[2019.10.29-00.36.20:521][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_3FF21435641474AE831E2B0BCAD5DB44A.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_3.uasset'
+[2019.10.29-00.36.20:539][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_4" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_4.uasset" SILENT=true
+[2019.10.29-00.36.20:548][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_4D8BE040B45EDCF27A070B1AE6A40A015.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_4.uasset'
+[2019.10.29-00.36.20:562][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Main_Character_Idle_Sprite_5" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_5.uasset" SILENT=true
+[2019.10.29-00.36.20:574][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_5460C644C4C82C24D252FF3A64D067ED9.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character_Idle_Sprite_5.uasset'
+[2019.10.29-00.36.23:223][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.10.29-00.36.23:254][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.29-00.36.23:285][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.29-00.36.23:309][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.29-00.36.23:341][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.10.29-00.36.23:370][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.29-00.36.23:397][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.29-00.36.23:432][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.29-00.36.23:464][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.29-00.36.23:494][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.29-00.36.23:521][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.29-00.36.23:553][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.29-00.36.23:585][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.29-00.36.23:613][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.29-00.36.23:646][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.29-00.36.23:678][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.29-00.36.23:711][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.29-00.36.23:734][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.29-00.36.23:767][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.29-00.36.23:795][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.29-00.36.23:822][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.29-00.36.23:859][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.29-00.36.23:888][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.29-00.36.23:922][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.29-00.36.23:954][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.29-00.36.23:981][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.29-00.36.24:009][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.29-00.36.24:039][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.29-00.36.24:067][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.29-00.36.24:098][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.29-00.36.24:133][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.10.29-00.36.24:152][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Character_Hurt" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Hurt.uasset" SILENT=true
+[2019.10.29-00.36.24:163][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_Hurt430226F24843E82EA6816BBE493AF9B2.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Hurt.uasset'
+[2019.10.29-00.36.24:167][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Main_Character_Idle_SLash" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Character_Idle_SLash.uasset" SILENT=true
+[2019.10.29-00.36.24:180][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash59E710F8400459A9AA119EBB59F1A4EA.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Character_Idle_SLash.uasset'
+[2019.10.29-00.36.24:184][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Character_Jump_" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Jump_.uasset" SILENT=true
+[2019.10.29-00.36.24:193][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Character_Jump_88B928FE400801FBAC9C5C84F37F3A9F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Character_Jump_.uasset'
+[2019.10.29-00.36.24:199][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Ani_Main_Char_Idle" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Char_Idle.uasset" SILENT=true
+[2019.10.29-00.36.24:207][588]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Ani_Main_Char_IdleBFED72A64CEC92E0C7AABC8D62107FDB.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Ani_Main_Char_Idle.uasset'
+[2019.10.29-00.37.17:282][754]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.10.29-00.38.22:400][620]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.10.29-00.38.22:583][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.29-00.38.37:099][370]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.10.29-00.38.37:303][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.29-00.38.39:579][489]LogEditorViewport: Clicking Background
+[2019.10.29-00.38.41:831][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.38.44:575][787]LogEditorViewport: Clicking Background
+[2019.10.29-00.38.48:720][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.38.54:809][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.29-00.39.03:115][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.29-00.39.03:116][892]LogMetaData: Removing '/Game/Andre/Actual_Sprite_Test/Andre_GameMode2.SKEL_Andre_GameMode2_C' ref from Metadata '/Game/Andre/Actual_Sprite_Test/Andre_GameMode.PackageMetaData'
+[2019.10.29-00.39.03:116][892]LogMetaData: Removing '/Game/Andre/Actual_Sprite_Test/Andre_GameMode2.Andre_GameMode2_C' ref from Metadata '/Game/Andre/Actual_Sprite_Test/Andre_GameMode.PackageMetaData'
+[2019.10.29-00.39.03:145][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Andre_GameMode2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Andre_GameMode2.uasset" SILENT=true
+[2019.10.29-00.39.03:157][892]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Andre_GameMode2B89E81844996C9F08BB6EA9E4C66F644.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Andre_GameMode2.uasset'
+[2019.10.29-00.39.03:322][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.29-00.39.03:360][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.29-00.39.03:395][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.29-00.39.14:625][555]LogEditorViewport: Clicking Background
+[2019.10.29-00.39.15:638][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-00.39.15:653][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-00.39.15:687][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.29-00.39.15:839][615]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGround0FB5A24B4E49E77CA3177D89B6162A4E.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.10.29-00.39.23:527][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.39.23:551][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.39.23:551][ 71]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.39.23:552][ 71]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude before play...
+[2019.10.29-00.39.23:569][ 71]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.39.23:752][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.29-00.39.23:752][ 71]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (2 blueprints)
+[2019.10.29-00.39.23:752][ 71]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:39:23 PM)
+[2019.10.29-00.39.23:752][ 71]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.39.23:753][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000987s)
+[2019.10.29-00.39.23:754][ 71]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.39.23:754][ 71]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.10.29-00.39.23:754][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001996s)
+[2019.10.29-00.39.23:788][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.10.29-00.39.23:795][ 71]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.39.23:833][ 71]LogInit: FAudioDevice initialized.
+[2019.10.29-00.39.23:863][ 71]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.39.23:866][ 71]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.39.23
+[2019.10.29-00.39.23:866][ 71]LogWorld: Bringing up level for play took: 0.000916
+[2019.10.29-00.39.23:880][ 71]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.335
+[2019.10.29-00.39.23:880][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.39.40:930][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.39.40:931][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.39.40:959][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.39.40:959][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.39.40:996][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.39.41:000][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.29-00.39.41:043][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.10.29-00.39.43:440][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.40.11:433][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.40.11:499][869]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.40.11:518][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.40.11:518][869]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.40.11:519][869]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.40.11:711][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.29-00.40.11:711][869]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2019.10.29-00.40.11:711][869]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:40:11 PM)
+[2019.10.29-00.40.11:711][869]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.40.11:712][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2019.10.29-00.40.11:712][869]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.40.11:713][869]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.10.29-00.40.11:713][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001886s)
+[2019.10.29-00.40.11:748][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.29-00.40.11:754][869]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.40.11:792][869]LogInit: FAudioDevice initialized.
+[2019.10.29-00.40.11:836][869]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.40.11:837][869]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.40.11
+[2019.10.29-00.40.11:838][869]LogWorld: Bringing up level for play took: 0.001298
+[2019.10.29-00.40.11:851][869]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.306
+[2019.10.29-00.40.11:851][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.40.22:311][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.40.22:311][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.40.22:339][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.40.22:339][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.40.22:377][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.40.22:382][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.29-00.40.22:426][406]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.10.29-00.40.24:540][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.40.45:284][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.41.52:762][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.42.08:189][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset" SILENT=true
+[2019.10.29-00.42.08:283][656]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude278E6AB4E42D70BE3776C3D846627F129.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset'
+[2019.10.29-00.42.32:845][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.43.17:866][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-00.44.44:463][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.45.11:303][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.45.11:404][ 23]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.45.11:412][ 23]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.45.14:798][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.45.14:867][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-00.45.14:904][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.29-00.45.15:064][224]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGroundA17223244BFA7671D8E630B289A996E9.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.10.29-00.45.16:442][304]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.10.29-00.45.24:918][761]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.45.24:943][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.45.24:943][761]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.45.24:944][761]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.45.25:151][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.10.29-00.45.25:151][761]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (1 blueprints)
+[2019.10.29-00.45.25:151][761]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:45:25 PM)
+[2019.10.29-00.45.25:151][761]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.45.25:152][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2019.10.29-00.45.25:153][761]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.45.25:153][761]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.10.29-00.45.25:153][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001677s)
+[2019.10.29-00.45.25:187][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.29-00.45.25:194][761]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.45.25:231][761]LogInit: FAudioDevice initialized.
+[2019.10.29-00.45.25:262][761]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.45.25:264][761]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.45.25
+[2019.10.29-00.45.25:265][761]LogWorld: Bringing up level for play took: 0.000626
+[2019.10.29-00.45.25:278][761]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround -0.267
+[2019.10.29-00.45.25:278][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.45.42:671][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.45.42:671][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.45.42:703][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.45.42:703][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.45.42:737][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.45.42:742][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.29-00.45.42:787][798]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.10.29-00.45.44:836][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.46.48:224][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.46.48:240][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.46.48:240][649]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.46.48:241][649]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.46.48:445][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.10.29-00.46.48:445][649]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2019.10.29-00.46.48:446][649]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:46:48 PM)
+[2019.10.29-00.46.48:446][649]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.46.48:447][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000931s)
+[2019.10.29-00.46.48:447][649]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.46.48:448][649]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.10.29-00.46.48:448][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002036s)
+[2019.10.29-00.46.48:479][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.29-00.46.48:485][649]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.46.48:523][649]LogInit: FAudioDevice initialized.
+[2019.10.29-00.46.48:560][649]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.46.48:562][649]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.46.48
+[2019.10.29-00.46.48:562][649]LogWorld: Bringing up level for play took: 0.001387
+[2019.10.29-00.46.48:576][649]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 1.031
+[2019.10.29-00.46.48:576][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.46.51:449][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.46.51:449][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.46.51:478][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.46.51:478][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.46.51:517][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.46.51:522][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.29-00.46.51:558][796]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.10.29-00.46.52:474][850]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.46.52:481][850]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-00.46.53:056][880]LogEditorViewport: Clicking Background
+[2019.10.29-00.46.53:989][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.46.54:022][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.46.54:043][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.46.54:043][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-00.46.54:043][938]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:46:54 PM)
+[2019.10.29-00.46.54:044][938]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.46.54:045][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2019.10.29-00.46.54:045][938]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.46.54:045][938]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.10.29-00.46.54:045][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001638s)
+[2019.10.29-00.46.54:080][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.29-00.46.54:087][938]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.46.54:123][938]LogInit: FAudioDevice initialized.
+[2019.10.29-00.46.54:155][938]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.46.54:159][938]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.46.54
+[2019.10.29-00.46.54:159][938]LogWorld: Bringing up level for play took: 0.001120
+[2019.10.29-00.46.54:174][938]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.63
+[2019.10.29-00.46.54:175][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.05:697][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.05:698][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.47.05:733][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.47.05:733][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.05:764][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.47.05:768][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.29-00.47.05:811][630]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.10.29-00.47.07:993][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.47.08:152][767]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.10.29-00.47.31:235][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.47.31:301][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.47.31:317][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.31:317][120]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.47.31:318][120]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.47.31:541][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.29-00.47.31:541][120]LogPlayLevel: PlayLevel: Blueprint regeneration took 224 ms (1 blueprints)
+[2019.10.29-00.47.31:541][120]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:47:31 PM)
+[2019.10.29-00.47.31:541][120]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.47.31:542][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001011s)
+[2019.10.29-00.47.31:543][120]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.47.31:543][120]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.10.29-00.47.31:543][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002139s)
+[2019.10.29-00.47.31:576][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.29-00.47.31:583][120]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.47.31:620][120]LogInit: FAudioDevice initialized.
+[2019.10.29-00.47.31:658][120]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.47.31:660][120]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.47.31
+[2019.10.29-00.47.31:661][120]LogWorld: Bringing up level for play took: 0.001074
+[2019.10.29-00.47.31:674][120]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.129
+[2019.10.29-00.47.31:674][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.32:764][166]Cmd: SELECT NONE
+[2019.10.29-00.47.33:714][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.33:715][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.47.33:749][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.47.33:749][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.33:789][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.47.33:794][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.10.29-00.47.33:827][225]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.10.29-00.47.35:878][348]LogEditorViewport: Clicking Background
+[2019.10.29-00.47.36:995][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.47.36:995][415]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.47.37:011][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.47.37:012][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-00.47.37:012][415]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:47:37 PM)
+[2019.10.29-00.47.37:012][415]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.47.37:013][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000862s)
+[2019.10.29-00.47.37:013][415]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.47.37:013][415]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.10.29-00.47.37:013][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.001485s)
+[2019.10.29-00.47.37:048][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.29-00.47.37:055][415]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.47.37:091][415]LogInit: FAudioDevice initialized.
+[2019.10.29-00.47.37:121][415]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.47.37:123][415]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.47.37
+[2019.10.29-00.47.37:123][415]LogWorld: Bringing up level for play took: 0.000697
+[2019.10.29-00.47.37:135][415]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround -0.409
+[2019.10.29-00.47.37:136][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.33:660][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.33:660][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.48.33:692][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.48.33:692][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.33:732][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.48.33:736][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.29-00.48.33:781][799]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.10.29-00.48.35:864][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.48.49:678][745]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.48.49:698][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.49:698][745]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.29-00.48.49:699][745]LogPlayLevel: [PlayLevel] Compiling BP_Andre_Dude2 before play...
+[2019.10.29-00.48.49:893][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.29-00.48.49:893][745]LogPlayLevel: PlayLevel: Blueprint regeneration took 195 ms (1 blueprints)
+[2019.10.29-00.48.49:893][745]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:48:49 PM)
+[2019.10.29-00.48.49:893][745]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.48.49:894][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001011s)
+[2019.10.29-00.48.49:895][745]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.48.49:896][745]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2019.10.29-00.48.49:896][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002567s)
+[2019.10.29-00.48.49:930][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.29-00.48.49:937][745]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.48.49:974][745]LogInit: FAudioDevice initialized.
+[2019.10.29-00.48.50:012][745]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.48.50:014][745]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.48.50
+[2019.10.29-00.48.50:015][745]LogWorld: Bringing up level for play took: 0.001107
+[2019.10.29-00.48.50:028][745]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.484
+[2019.10.29-00.48.50:028][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.54:367][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.54:368][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.48.54:401][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.48.54:401][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.54:438][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.48.54:444][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.10.29-00.48.54:481][979]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.10.29-00.48.56:412][ 94]LogEditorViewport: Clicking Background
+[2019.10.29-00.48.56:963][127]LogEditorViewport: Clicking Background
+[2019.10.29-00.48.58:234][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-00.48.58:284][206]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-00.48.58:300][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.48.58:300][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-00.48.58:301][206]PIE: New page: PIE session: AndreTestGround (Oct 28, 2019, 2:48:58 PM)
+[2019.10.29-00.48.58:301][206]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_AndreTestGround
+[2019.10.29-00.48.58:302][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2019.10.29-00.48.58:303][206]LogAIModule: Creating AISystem for world AndreTestGround
+[2019.10.29-00.48.58:303][206]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.10.29-00.48.58:303][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/AndreTestGround.AndreTestGround to /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround (0.002252s)
+[2019.10.29-00.48.58:334][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.29-00.48.58:341][206]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-00.48.58:376][206]LogInit: FAudioDevice initialized.
+[2019.10.29-00.48.58:404][206]LogLoad: Game class is 'Andre_GameMode2_C'
+[2019.10.29-00.48.58:406][206]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_AndreTestGround.AndreTestGround up for play (max tick rate 60) at 2019.10.28-19.48.58
+[2019.10.29-00.48.58:406][206]LogWorld: Bringing up level for play took: 0.000692
+[2019.10.29-00.48.58:419][206]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_AndreTestGround 0.875
+[2019.10.29-00.48.58:420][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.49.15:761][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.49.15:762][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.49.15:795][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-00.49.15:795][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround' with GeneratedClass '/Game/Andre/Levels/AndreTestGround.AndreTestGround_C' with ClassGeneratedBy '/Game/Andre/Levels/AndreTestGround.AndreTestGround:PersistentLevel.AndreTestGround'
+[2019.10.29-00.49.15:835][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-00.49.15:839][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.29-00.49.15:886][242]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.10.29-00.57.08:939][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-00.57.08:992][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.29-00.57.08:992][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/AndreTestGround' took 0.037
+[2019.10.29-00.57.08:995][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/BluePrints/BP_Andre_Dude] ([1] browsable assets)...
+[2019.10.29-00.57.08:995][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/BluePrints/BP_Andre_Dude]
+[2019.10.29-00.57.08:995][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/BP_Andre_Dude_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.10.29-00.57.09:082][615]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude_Auto530C0DB274D86C4F0C6D1A6BA651D5B71.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/BP_Andre_Dude_Auto5.uasset'
+[2019.10.29-00.57.09:083][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2] ([1] browsable assets)...
+[2019.10.29-00.57.09:083][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2]
+[2019.10.29-00.57.09:169][615]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude2_Auto5E63AC24E4CD9C68C30DF41A57028A04C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2_Auto5.uasset'
+[2019.10.29-00.57.09:170][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/Actual_Sprite_Test/Andre_GameMode2] ([1] browsable assets)...
+[2019.10.29-00.57.09:170][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/Actual_Sprite_Test/Andre_GameMode2]
+[2019.10.29-00.57.09:189][615]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Andre_GameMode2_Auto5149106BB461AEEA296A693AAF3BE6B75.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Actual_Sprite_Test/Andre_GameMode2_Auto5.uasset'
+[2019.10.29-00.57.09:189][615]LogFileHelpers: Auto-saving content packages took 0.195
+[2019.10.29-01.01.39:148][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-01.01.39:165][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-01.01.39:199][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.29-01.01.39:387][805]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGroundDFAD990B4FE0CCEC1944E29A82B24971.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.10.29-01.01.42:367][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.10.29-01.01.43:801][978]LogSlate: Window 'Save Content' being destroyed
+[2019.10.29-01.01.43:836][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/Andre_GameMode2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Andre_GameMode2.uasset" SILENT=true
+[2019.10.29-01.01.43:850][978]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Andre_GameMode24AE7E32F4AC6C92D62871AA6BB1CE6D3.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/Andre_GameMode2.uasset'
+[2019.10.29-01.01.43:861][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Actual_Sprite_Test/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset" SILENT=true
+[2019.10.29-01.01.43:934][978]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude23711C65448379AF193DE618712000FE7.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Actual_Sprite_Test/BP_Andre_Dude2.uasset'
+[2019.10.29-01.01.43:946][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/ani_dark_elf_die" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/ani_dark_elf_die.uasset" SILENT=true
+[2019.10.29-01.01.43:961][978]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/ani_dark_elf_die8D280B77468F713213E110BF3A99C4F7.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/ani_dark_elf_die.uasset'
+[2019.10.29-01.01.43:971][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/BP_Andre_Dude" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset" SILENT=true
+[2019.10.29-01.01.44:044][978]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude8F3C378948E7ABC4A6FB1991A716EDF2.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/BP_Andre_Dude.uasset'
+[2019.10.29-01.01.44:128][978]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.10.29-01.01.44:220][978]LogSlate: Window 'Demo - Unreal Editor' being destroyed
+[2019.10.29-01.01.44:222][978]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-01.01.44:504][979]Cmd: QUIT_EDITOR
+[2019.10.29-01.01.44:607][979]LogExit: Preparing to exit.
+[2019.10.29-01.01.45:420][979]LogExit: Editor shut down
+[2019.10.29-01.01.45:421][979]LogExit: Transaction tracking system shut down
+[2019.10.29-01.01.45:660][979]LogExit: Object subsystem successfully closed.
+[2019.10.29-01.01.45:684][979]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.29-01.01.45:690][979]LogD3D11RHI: Shutdown
+[2019.10.29-01.01.45:690][979]LogD3D11RHI: CleanupD3DDevice
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-01.01.45:691][979]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-01.01.45:840][979]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.10.29-01.01.45:871][979]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.10.29-01.01.45:872][979]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.10.29-01.01.45:872][979]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.10.29-01.01.45:872][979]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.29-01.01.45:873][979]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.29-01.01.45:874][979]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.29-01.01.45:875][979]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.29-01.01.47:430][979]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.29-01.01.47:431][979]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.29-01.01.47:484][979]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.29-01.01.47:491][979]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.29-01.01.47:491][979]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.29-01.01.47:492][979]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.29-01.01.47:492][979]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.29-01.01.47:493][979]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.29-01.01.47:497][979]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.29-01.01.47:522][979]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.29-01.01.47:523][979]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.29-01.01.47:624][979]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.29-01.01.47:725][979]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.29-01.01.47:725][979]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.29-01.01.47:726][979]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.29-01.01.47:728][979]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.29-01.01.47:728][979]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.29-01.01.47:728][979]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.29-01.01.47:728][979]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.29-01.01.47:729][979]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.29-01.01.47:730][979]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.29-01.01.47:730][979]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.29-01.01.47:731][979]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.29-01.01.47:733][979]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.29-01.01.47:740][979]LogDerivedDataCache: Shutdown
+[2019.10.29-01.01.47:740][979]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.29-01.01.47:741][979]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.29-01.01.47:743][979]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.29-01.01.47:743][979]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.29-01.01.47:743][979]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.29-01.01.47:743][979]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.29-01.01.47:743][979]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.29-01.01.47:745][979]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.29-01.01.47:746][979]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.29-01.01.47:750][979]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.29-01.01.47:750][979]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.29-01.01.47:783][979]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.29-01.01.47:784][979]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.29-01.01.47:784][979]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.29-01.01.47:785][979]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.29-01.01.47:785][979]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.29-01.01.47:801][979]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.29-01.01.47:801][979]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.29-01.01.47:801][979]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC9CDC89-4F6D-9242-B451-80B067C89141%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=337301f0408376cff46e8fb4e7557ba8%7Cb72ed7e688264e808ddd5912b067f359%7C5babb86e-87f4-420a-a973-5c2e6bcc0d92&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.29-01.01.47:836][979]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.29-01.01.47:838][979]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.29-01.01.47:843][979]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.29-01.01.47:849][979]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.29-01.01.47:850][979]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.29-01.01.47:852][979]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.29-01.01.47:865][979]LogExit: Exiting.
+[2019.10.29-01.01.47:901][979]Log file closed, 10/28/19 20:01:47
