@@ -847,3 +847,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.31-00.02.50:507][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/charater/Rand_test]
 [2019.10.31-00.02.50:533][495]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto1486D87D44BE3602C69CD5EA4A957CE19.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/charater/Rand_test_Auto1.uasset'
 [2019.10.31-00.02.50:542][495]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.10.31-00.03.50:509][476]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/trap_switch.trap_switch
+[2019.10.31-00.04.29:466][  3]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/jump_pad.jump_pad
+[2019.10.31-00.15.23:798][337]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/trap_switch.trap_switch
+[2019.10.31-00.17.20:757][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.10.31-00.17.20:757][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.046
+[2019.10.31-00.17.20:758][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rand/trap_switch] ([1] browsable assets)...
+[2019.10.31-00.17.20:758][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/trap_switch]
+[2019.10.31-00.17.20:758][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap_switch" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_switch_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-00.17.20:785][981]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_switch_Auto2F6C9B8FD4AB345168118C3B59836A339.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_switch_Auto2.uasset'
+[2019.10.31-00.17.20:792][981]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.10.31-00.43.11:383][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
