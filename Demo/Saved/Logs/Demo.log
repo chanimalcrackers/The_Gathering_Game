@@ -888,3 +888,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 	Asset Name: /Game/Rand/Background_Modular_Hills_1_Sprite_1.Background_Modular_Hills_1_Sprite_1
 	Asset Name: /Game/Rand/Background_Modular_Hills_1_Sprite_2.Background_Modular_Hills_1_Sprite_2
 [2019.10.31-01.26.23:451][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.31-01.26.50:214][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.31-01.26.50:364][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto350535BF54A08E188555DDFA350787A82.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_test_Auto3.umap'
+[2019.10.31-01.26.50:377][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.209
+[2019.10.31-01.26.50:377][772]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2019.10.31-01.26.50:378][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/Background_Modular_Hills_3] ([1] browsable assets)...
+[2019.10.31-01.26.50:381][772]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rand/Background_Modular_Hills_3.Background_Modular_Hills_3]
+[2019.10.31-01.26.50:381][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_3]
+[2019.10.31-01.26.50:393][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_3_Auto3BAF8DB6941541D69486566B4996C5638.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_3_Auto3.uasset'
+[2019.10.31-01.26.50:403][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/Background_Modular_Hills_2] ([1] browsable assets)...
+[2019.10.31-01.26.50:406][772]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rand/Background_Modular_Hills_2.Background_Modular_Hills_2]
+[2019.10.31-01.26.50:407][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_2]
+[2019.10.31-01.26.50:419][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_2_Auto325C1CA6A46DF0AF5A17FC7881CE04CD0.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_2_Auto3.uasset'
+[2019.10.31-01.26.50:429][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/Background_Modular_Hills_1] ([1] browsable assets)...
+[2019.10.31-01.26.50:435][772]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rand/Background_Modular_Hills_1.Background_Modular_Hills_1]
+[2019.10.31-01.26.50:435][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_1]
+[2019.10.31-01.26.50:451][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_1_Auto3CF2628B24788E037C4062EB23A9C7070.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_1_Auto3.uasset'
+[2019.10.31-01.26.50:463][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/Background_Modular_Hills_2_Sprite] ([1] browsable assets)...
+[2019.10.31-01.26.50:470][772]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Rand/Background_Modular_Hills_2_Sprite.Background_Modular_Hills_2_Sprite]
+[2019.10.31-01.26.50:470][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_2_Sprite]
+[2019.10.31-01.26.50:484][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_2_SpritBD837C8541BD78ED2FBAF681694D913D.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_2_Sprite_Auto3.uasset'
+[2019.10.31-01.26.50:496][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/Background_Modular_Hills_3_Sprite] ([1] browsable assets)...
+[2019.10.31-01.26.50:503][772]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Rand/Background_Modular_Hills_3_Sprite.Background_Modular_Hills_3_Sprite]
+[2019.10.31-01.26.50:503][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_3_Sprite]
+[2019.10.31-01.26.50:517][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_3_Sprit52D07FB64FCFB69F8877C2805315FDEA.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_3_Sprite_Auto3.uasset'
+[2019.10.31-01.26.50:528][772]LogFileHelpers: Auto-saving content packages took 0.151
