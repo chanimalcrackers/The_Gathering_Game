@@ -913,3 +913,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.31-01.26.50:503][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/Background_Modular_Hills_3_Sprite]
 [2019.10.31-01.26.50:517][772]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_3_Sprit52D07FB64FCFB69F8877C2805315FDEA.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/Background_Modular_Hills_3_Sprite_Auto3.uasset'
 [2019.10.31-01.26.50:528][772]LogFileHelpers: Auto-saving content packages took 0.151
+[2019.10.31-01.27.41:338][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.29.49:899][800]LogSlate: Window 'Extract sprites' being destroyed
+[2019.10.31-01.30.03:107][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.30.04:483][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.31-01.30.07:035][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.30.08:768][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.30.11:038][611]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Modular_Hills_1_Sprite_9)
+[2019.10.31-01.30.11:964][649]Cmd: DELETE
+[2019.10.31-01.30.11:964][649]Cmd: ACTOR DELETE
+[2019.10.31-01.30.11:967][649]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.10.31-01.30.12:033][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.31-01.30.12:033][649]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.10.31-01.30.12:708][681]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Modular_Hills_1_Sprite_11)
+[2019.10.31-01.30.13:503][714]Cmd: DELETE
+[2019.10.31-01.30.13:503][714]Cmd: ACTOR DELETE
+[2019.10.31-01.30.13:504][714]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.10.31-01.30.13:533][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.31-01.30.13:533][714]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.10.31-01.30.15:822][820]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Modular_Hills_1_Sprite_10)
+[2019.10.31-01.30.16:202][835]Cmd: DELETE
+[2019.10.31-01.30.16:202][835]Cmd: ACTOR DELETE
+[2019.10.31-01.30.16:203][835]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.10.31-01.30.16:231][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.31-01.30.16:231][835]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.10.31-01.30.52:715][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.30.52:821][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.31-01.30.52:851][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.31-01.30.52:994][486]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test1619F7BA41AC8D6C64ACB4A80D921362.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
