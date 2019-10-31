@@ -858,3 +858,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.31-00.17.20:785][981]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_switch_Auto2F6C9B8FD4AB345168118C3B59836A339.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_switch_Auto2.uasset'
 [2019.10.31-00.17.20:792][981]LogFileHelpers: Auto-saving content packages took 0.034
 [2019.10.31-00.43.11:383][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.31-01.23.34:952][942]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\TEMP.AD.001\Desktop\The_Gathering_Game\Art Assets\Background_Environment\Background_Modular_Hills_3.png)
+[2019.10.31-01.23.34:955][942]LogTexture: Display: Building textures: Background_Modular_Hills_3 (AutoDXT, 416X96)
+[2019.10.31-01.23.37:306][952]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\TEMP.AD.001\Desktop\The_Gathering_Game\Art Assets\Background_Environment\Background_Modular_Hills_2.png)
+[2019.10.31-01.23.37:309][952]LogTexture: Display: Building textures: Background_Modular_Hills_2 (AutoDXT, 352X128)
+[2019.10.31-01.23.39:273][971]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\TEMP.AD.001\Desktop\The_Gathering_Game\Art Assets\Background_Environment\Background_Modular_Hills_1.png)
+[2019.10.31-01.23.39:276][971]LogTexture: Display: Building textures: Background_Modular_Hills_1 (BGRA8, 288X257)
+[2019.10.31-01.23.45:628][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.23.54:209][527]LogTexture: Display: Building textures: Background_Modular_Hills_2 (BGRA8, 352X128)
+[2019.10.31-01.24.01:536][799]LogTexture: Display: Building textures: Background_Modular_Hills_3 (BGRA8, 416X96)
+[2019.10.31-01.24.17:276][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.24.34:189][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.24.39:999][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.25.41:575][343]LogSlate: Window 'Extract sprites' being destroyed
+[2019.10.31-01.25.45:496][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.25.47:571][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.25.53:572][808]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Modular_Hills_1_Sprite_3)
+[2019.10.31-01.26.00:042][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-01.26.00:263][ 79]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Rand/Background_Modular_Hills_1_Sprite_1.Background_Modular_Hills_1_Sprite_1
+[2019.10.31-01.26.05:958][234]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Rand/Background_Modular_Hills_1_Sprite_0.Background_Modular_Hills_1_Sprite_0
+[2019.10.31-01.26.07:718][273]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Rand/Background_Modular_Hills_1_Sprite_2.Background_Modular_Hills_1_Sprite_2
+[2019.10.31-01.26.15:627][483]LogSlate: Window 'Background_Modular_Hills_1_Sprite_2' being destroyed
+[2019.10.31-01.26.15:661][483]LogSlate: Window 'Background_Modular_Hills_1_Sprite_2' being destroyed
+[2019.10.31-01.26.15:661][483]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.31-01.26.20:087][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.31-01.26.21:678][627]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.31-01.26.21:682][627]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Rand/Background_Modular_Hills_1_Sprite_0.Background_Modular_Hills_1_Sprite_0
+	Asset Name: /Game/Rand/Background_Modular_Hills_1_Sprite_1.Background_Modular_Hills_1_Sprite_1
+	Asset Name: /Game/Rand/Background_Modular_Hills_1_Sprite_2.Background_Modular_Hills_1_Sprite_2
+[2019.10.31-01.26.23:451][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
