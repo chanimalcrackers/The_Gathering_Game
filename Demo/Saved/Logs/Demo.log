@@ -978,3 +978,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-01.10.33:346][461]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2019.11.05-01.10.39:465][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.05-01.10.40:590][718]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Rand/maps/Rand_tilemap.Rand_tilemap
+[2019.11.05-01.11.14:015][392]LogSlate: Window 'jump_pad' being destroyed
+[2019.11.05-01.11.17:778][527]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/trap_switch.trap_switch
+[2019.11.05-01.13.39:709][264]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.05-01.13.47:154][447]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.05-01.17.10:350][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.11.05-01.17.10:495][111]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto1F63ACE2343C8A63C980518B5434F84AD.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_test_Auto1.umap'
+[2019.11.05-01.17.10:507][111]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.195
+[2019.11.05-01.17.10:507][111]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2019.11.05-01.17.10:509][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rand/maps/Rand_tilemap] ([1] browsable assets)...
+[2019.11.05-01.17.10:509][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/maps/Rand_tilemap]
+[2019.11.05-01.17.10:558][111]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_tilemap_Auto1250B52B5492EF8FA03C399B27A68A16F.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_tilemap_Auto1.uasset'
+[2019.11.05-01.17.10:569][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/trap_switch] ([1] browsable assets)...
+[2019.11.05-01.17.10:596][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rand/trap_switch.trap_switch]
+[2019.11.05-01.17.10:596][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/trap_switch]
+[2019.11.05-01.17.10:596][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap_switch" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_switch_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.05-01.17.10:628][111]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_switch_Auto1D61514074B64D41AEC6DEEA0901525AD.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_switch_Auto1.uasset'
+[2019.11.05-01.17.10:636][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet] ([1] browsable assets)...
+[2019.11.05-01.17.10:645][111]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet.Mixed_prototype_Tilesets2_TileSet]
+[2019.11.05-01.17.10:645][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet]
+[2019.11.05-01.17.10:663][111]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Mixed_prototype_Tilesets2_TileSeF741D0BC4CCB15DD02A69FA6DC19BA1B.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet_Auto1.uasset'
+[2019.11.05-01.17.10:676][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rand/trap] ([1] browsable assets)...
+[2019.11.05-01.17.10:676][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/trap]
+[2019.11.05-01.17.10:676][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.05-01.17.10:688][111]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_Auto1873C3AF941090BFE37C47399FCD4C2AB.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap_Auto1.uasset'
+[2019.11.05-01.17.10:696][111]LogFileHelpers: Auto-saving content packages took 0.188
+[2019.11.05-01.19.11:305][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap_switch" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap_switch.uasset" SILENT=true
+[2019.11.05-01.19.11:334][700]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_switchF9C8A3F14BB1624DD9A52EAE58851057.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap_switch.uasset'
+[2019.11.05-01.19.12:116][731]BlueprintLog: New page: Compile trap_switch
+[2019.11.05-01.19.12:118][731]LogBlueprint: Error: [Compiler trap_switch] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.05-01.19.12:118][731]LogBlueprint: Error: [Compiler trap_switch] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.05-01.19.12:349][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.05-01.19.12:356][731]LogBlueprint: Warning: [Compiler trap_switch] [0914.58] Compile of trap_switch failed. 2 Fatal Issue(s) 0 Warning(s) [in 240 ms] (/Game/Rand/trap_switch.trap_switch)
+[2019.11.05-01.19.44:462][975]BlueprintLog: New page: Compile trap_switch
+[2019.11.05-01.19.44:615][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.05-01.19.50:938][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap_switch" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap_switch.uasset" SILENT=true
+[2019.11.05-01.19.50:966][236]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/trap_switch2940485A4E0FE0AAA0908FB5BB825DB7.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap_switch.uasset'
