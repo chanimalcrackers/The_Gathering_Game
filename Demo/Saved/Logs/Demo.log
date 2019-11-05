@@ -979,3 +979,612 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-01.22.59:365][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
 [2019.11.05-01.22.59:400][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
 [2019.11.05-01.22.59:515][386]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.05-01.23.59:341][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.11.05-01.23.59:512][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test_Auto28F8083C8484B77592FB39ABF661224CB.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Maps/Test_Auto2.umap'
+[2019.11.05-01.23.59:514][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Test' took 0.197
+[2019.11.05-01.23.59:515][589]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2019.11.05-01.23.59:516][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2019.11.05-01.23.59:516][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2019.11.05-01.23.59:610][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/BP_Dude_Auto2D9EB8B4E463E5CAC5FF9DBA891A4A9ED.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto2.uasset'
+[2019.11.05-01.23.59:612][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_0] ([1] browsable assets)...
+[2019.11.05-01.23.59:621][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_0.Main_Character_Idle_Sprite_0]
+[2019.11.05-01.23.59:622][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_0]
+[2019.11.05-01.23.59:635][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_0_Aut294506AC4AF24EDDBB1908907611FDC6.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_0_Auto2.uasset'
+[2019.11.05-01.23.59:636][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_1] ([1] browsable assets)...
+[2019.11.05-01.23.59:644][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_1.Main_Character_Idle_Sprite_1]
+[2019.11.05-01.23.59:644][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_1]
+[2019.11.05-01.23.59:657][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_1_Aut04DE55B5404BC5C59644A48F85397919.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_1_Auto2.uasset'
+[2019.11.05-01.23.59:658][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_2] ([1] browsable assets)...
+[2019.11.05-01.23.59:666][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_2.Main_Character_Idle_Sprite_2]
+[2019.11.05-01.23.59:666][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_2]
+[2019.11.05-01.23.59:679][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_2_Aut7577352E4246D392FD22C796D1E3A8D8.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_2_Auto2.uasset'
+[2019.11.05-01.23.59:681][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_3] ([1] browsable assets)...
+[2019.11.05-01.23.59:688][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_3.Main_Character_Idle_Sprite_3]
+[2019.11.05-01.23.59:688][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_3]
+[2019.11.05-01.23.59:702][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_3_Aut40A8E4FB44782230E2D9D0A2F279D16E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_3_Auto2.uasset'
+[2019.11.05-01.23.59:703][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_4] ([1] browsable assets)...
+[2019.11.05-01.23.59:712][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_4.Main_Character_Idle_Sprite_4]
+[2019.11.05-01.23.59:712][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_4]
+[2019.11.05-01.23.59:726][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_4_Aut7B991FDC4BE84EAAF311F98733081F54.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_4_Auto2.uasset'
+[2019.11.05-01.23.59:728][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_5] ([1] browsable assets)...
+[2019.11.05-01.23.59:736][589]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_5.Main_Character_Idle_Sprite_5]
+[2019.11.05-01.23.59:736][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_5]
+[2019.11.05-01.23.59:748][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_5_Aut64ED55A949074FB1B4FF729AFAD22E78.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle_Sprite_5_Auto2.uasset'
+[2019.11.05-01.23.59:749][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle1] ([1] browsable assets)...
+[2019.11.05-01.23.59:757][589]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle1.Main_Character_Idle1]
+[2019.11.05-01.23.59:757][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle1]
+[2019.11.05-01.23.59:768][589]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle1_Auto2E45D33094CBF307F07387F8ECBD3142F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Main_Character_Idle1_Auto2.uasset'
+[2019.11.05-01.23.59:769][589]LogFileHelpers: Auto-saving content packages took 0.253
+[2019.11.05-01.28.26:911][225]LogSlate: Window 'BP_Dude' being destroyed
+[2019.11.05-01.31.46:415][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle3BB3DB7A49AC3F80D44165AD36838D9B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle.uasset'
+[2019.11.05-01.31.46:442][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle14F8916794F323B8B0C6EC0981F241BEC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle1.uasset'
+[2019.11.05-01.31.46:469][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_039BBC60E474E956117ED1DA625D105CE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_0.uasset'
+[2019.11.05-01.31.46:496][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_1A090F61E49C2D8E39DF127A75D8E1C37.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_1.uasset'
+[2019.11.05-01.31.46:522][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_2A8F170FA44C912D374969E88C36D09C8.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_2.uasset'
+[2019.11.05-01.31.46:556][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_3CE218D8C48A4C5DE3D1FE3BA6340EE7D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_3.uasset'
+[2019.11.05-01.31.46:582][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_494274091456190BA8714ED974F0C8851.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_4.uasset'
+[2019.11.05-01.31.46:609][755]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_Sprite_5F89266D241B12757FD76E08047FB6BA4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Idle/Main_Character_Idle_Sprite_5.uasset'
+[2019.11.05-01.31.47:363][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.11.05-01.31.47:396][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.05-01.31.47:419][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.05-01.31.47:447][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.05-01.31.47:474][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.11.05-01.31.47:496][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.05-01.31.47:525][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.05-01.31.47:554][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.05-01.31.47:587][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.05-01.31.47:615][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.05-01.31.55:776][119]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\The_Gathering_Game\Art Assets\Main_Character Sprites\Main_Character_Death.png)
+[2019.11.05-01.31.55:778][119]LogTexture: Display: Building textures: Main_Character_Death (AutoDXT, 292X32)
+[2019.11.05-01.31.57:502][184]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death.Main_Character_Death
+[2019.11.05-01.31.57:536][184]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.11.05-01.31.57:536][184]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.11.05-01.32.02:724][471]LogSlate: Window 'Main_Character_Death' being destroyed
+[2019.11.05-01.32.08:997][828]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.32.19:582][454]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_4F96E40354CA21CBCBDE38FB59DBB4905.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_4.uasset'
+[2019.11.05-01.32.19:823][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.05-01.32.24:479][728]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.05-01.32.26:189][829]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_0.Main_Character_Death_Sprite_0
+[2019.11.05-01.32.26:357][829]LogRenderer: Reallocating scene render targets to support 1528x956 Format 10 NumSamples 1 (Frame:1).
+[2019.11.05-01.32.28:166][937]LogSlate: Window 'Main_Character_Death_Sprite_0' being destroyed
+[2019.11.05-01.32.29:853][ 35]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death1.Main_Character_Death1
+[2019.11.05-01.32.35:845][388]LogSlate: Window 'Main_Character_Death1' being destroyed
+[2019.11.05-01.33.13:729][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\The_Gathering_Game\Art Assets\Main_Character Sprites\Main_Character_Idle_SLash_Jump.png)
+[2019.11.05-01.33.13:741][888]LogTexture: Display: Building textures: Main_Character_Idle_SLash_Jump (AutoDXT, 172X96)
+[2019.11.05-01.33.19:604][187]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.33.26:581][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.05-01.33.27:768][592]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.05-01.33.27:825][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.11.05-01.33.30:298][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.05-01.33.32:195][737]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.05-01.33.32:257][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.05-01.33.34:359][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.05-01.33.35:586][860]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.05-01.33.35:644][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.05-01.33.55:742][ 35]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S92F0573F403B42F033A25691640749B6.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Main_Character_Idle_SLash_Jump_Sprite_20.uasset'
+[2019.11.05-01.33.55:862][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.05-01.33.55:892][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.05-01.33.55:921][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.11.05-01.34.00:104][281]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S9947E76D4B84B07E060E1D8A0D444662.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Knyctos_Char/Jump/Main_Character_Idle_SLash_Jump_Sprite_20.uasset'
+[2019.11.05-01.34.00:221][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.05-01.34.00:251][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.05-01.34.00:280][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.05-01.34.02:849][432]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.05-01.34.07:431][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.05-01.34.07:460][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.05-01.34.07:641][706]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/TestCB09C3764A3B6E7AD77BC7BFDEEF2F31.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
+[2019.11.05-01.34.11:144][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.34.11:169][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.34.11:169][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.05-01.34.11:173][913]LogPlayLevel: [PlayLevel] Compiling BP_Dude before play...
+[2019.11.05-01.34.11:320][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.11.05-01.34.11:320][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2019.11.05-01.34.11:320][913]PIE: New page: PIE session: Test (Nov 4, 2019, 1:34:11 PM)
+[2019.11.05-01.34.11:320][913]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.34.11:322][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2019.11.05-01.34.11:323][913]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.34.11:323][913]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.11.05-01.34.11:323][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002663s)
+[2019.11.05-01.34.11:349][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.05-01.34.11:356][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.34.11:382][913]LogInit: FAudioDevice initialized.
+[2019.11.05-01.34.11:390][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.34.11:423][913]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.34.11:425][913]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-19.34.11
+[2019.11.05-01.34.11:425][913]LogWorld: Bringing up level for play took: 0.001410
+[2019.11.05-01.34.11:440][913]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 1.102
+[2019.11.05-01.34.11:440][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.34.14:209][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.34.14:210][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.34.14:231][ 79]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.34.14:270][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.34.14:270][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.34.14:317][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.05-01.34.14:335][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.05-01.36.51:509][614]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\foeground_update.png)
+[2019.11.05-01.36.51:517][614]LogTexture: Display: Building textures: foeground_update (BGRA8, 1532X287)
+[2019.11.05-01.37.08:180][590]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.37.10:426][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.05-01.37.11:618][718]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.05-01.37.11:675][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.05-01.37.47:239][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.38.13:732][728]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\enemy_appear.jpg)
+[2019.11.05-01.38.13:747][728]LogTexture: Display: Building textures: enemy_appear (BGRA8, 1443X153)
+[2019.11.05-01.38.18:302][989]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.39.40:949][927]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.05-01.40.08:986][605]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.40.32:763][ 19]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.41.34:316][ 97]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.05-01.44.10:563][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.05-01.44.10:733][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test_Auto320F914204B9648221655B8BBBB2C4E1F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Maps/Test_Auto3.umap'
+[2019.11.05-01.44.10:738][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Test' took 0.202
+[2019.11.05-01.44.10:738][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.202
+[2019.11.05-01.44.10:740][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2019.11.05-01.44.10:740][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2019.11.05-01.44.10:850][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/BP_Dude_Auto3FF2ACDFB4A2BE69E31A334A1148DFC0B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto3.uasset'
+[2019.11.05-01.44.10:860][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death] ([1] browsable assets)...
+[2019.11.05-01.44.10:862][828]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death.Main_Character_Death]
+[2019.11.05-01.44.10:862][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death]
+[2019.11.05-01.44.10:870][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Auto3F24F4948480FCD5DC34AEFAC2399F3EB.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Auto3.uasset'
+[2019.11.05-01.44.10:872][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_0] ([1] browsable assets)...
+[2019.11.05-01.44.10:881][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_0.Main_Character_Death_Sprite_0]
+[2019.11.05-01.44.10:881][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_0]
+[2019.11.05-01.44.10:906][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_0_Au943B876D49531A48C6522A9A7369FFA2.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_0_Auto3.uasset'
+[2019.11.05-01.44.10:908][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_1] ([1] browsable assets)...
+[2019.11.05-01.44.10:924][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_1.Main_Character_Death_Sprite_1]
+[2019.11.05-01.44.10:925][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_1]
+[2019.11.05-01.44.10:949][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_1_Au9F476B044F44C2106D5124B2AAEA5760.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_1_Auto3.uasset'
+[2019.11.05-01.44.10:952][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_2] ([1] browsable assets)...
+[2019.11.05-01.44.10:967][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_2.Main_Character_Death_Sprite_2]
+[2019.11.05-01.44.10:967][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_2]
+[2019.11.05-01.44.10:981][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_2_AuA9FA68AC4E12C017FB4913A0830F349E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_2_Auto3.uasset'
+[2019.11.05-01.44.10:982][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_3] ([1] browsable assets)...
+[2019.11.05-01.44.10:989][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_3.Main_Character_Death_Sprite_3]
+[2019.11.05-01.44.10:990][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_3]
+[2019.11.05-01.44.11:002][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_3_AuCCF7B6A14DD82F0C3EED8E9DD75AA919.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_3_Auto3.uasset'
+[2019.11.05-01.44.11:003][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_5] ([1] browsable assets)...
+[2019.11.05-01.44.11:010][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_5.Main_Character_Death_Sprite_5]
+[2019.11.05-01.44.11:010][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_5]
+[2019.11.05-01.44.11:021][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_5_Au0FB803D1460A3BB1E73C488B19AA9DEE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_5_Auto3.uasset'
+[2019.11.05-01.44.11:023][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_6] ([1] browsable assets)...
+[2019.11.05-01.44.11:030][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_6.Main_Character_Death_Sprite_6]
+[2019.11.05-01.44.11:030][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_6]
+[2019.11.05-01.44.11:043][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_6_Au7AEAE7CF41C0DD803420A190CA7BE402.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_6_Auto3.uasset'
+[2019.11.05-01.44.11:044][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_7] ([1] browsable assets)...
+[2019.11.05-01.44.11:051][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_7.Main_Character_Death_Sprite_7]
+[2019.11.05-01.44.11:051][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_7]
+[2019.11.05-01.44.11:065][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_7_Au25833EAB4164F3AFA13980BBD40AE1BC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_7_Auto3.uasset'
+[2019.11.05-01.44.11:066][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_8] ([1] browsable assets)...
+[2019.11.05-01.44.11:073][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_8.Main_Character_Death_Sprite_8]
+[2019.11.05-01.44.11:073][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_8]
+[2019.11.05-01.44.11:084][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death_Sprite_8_AuDD49483C422299BD072894805B54906C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death_Sprite_8_Auto3.uasset'
+[2019.11.05-01.44.11:085][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death1] ([1] browsable assets)...
+[2019.11.05-01.44.11:092][828]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death1.Main_Character_Death1]
+[2019.11.05-01.44.11:092][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death1]
+[2019.11.05-01.44.11:103][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Death1_Auto3A7CD10914190D8A73E22F69CD511540E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Death/Main_Character_Death1_Auto3.uasset'
+[2019.11.05-01.44.11:104][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump] ([1] browsable assets)...
+[2019.11.05-01.44.11:107][828]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump.Main_Character_Idle_SLash_Jump]
+[2019.11.05-01.44.11:107][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump]
+[2019.11.05-01.44.11:115][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_AF27DBE2D4CF942D88F6934A2421FDF70.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Auto3.uasset'
+[2019.11.05-01.44.11:117][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_0] ([1] browsable assets)...
+[2019.11.05-01.44.11:124][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_0.Main_Character_Idle_SLash_Jump_Sprite_0]
+[2019.11.05-01.44.11:124][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_0]
+[2019.11.05-01.44.11:136][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SCD7325C2420A4952BBB88C970E585B45.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_0_Auto3.uasset'
+[2019.11.05-01.44.11:138][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_1] ([1] browsable assets)...
+[2019.11.05-01.44.11:145][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_1.Main_Character_Idle_SLash_Jump_Sprite_1]
+[2019.11.05-01.44.11:145][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_1]
+[2019.11.05-01.44.11:159][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S316E072C433678DCDD35FAA5B30B002C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_1_Auto3.uasset'
+[2019.11.05-01.44.11:161][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_3] ([1] browsable assets)...
+[2019.11.05-01.44.11:168][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_3.Main_Character_Idle_SLash_Jump_Sprite_3]
+[2019.11.05-01.44.11:168][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_3]
+[2019.11.05-01.44.11:181][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S850C2C8B418849B5F7C42CA9BB1E7C8A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_3_Auto3.uasset'
+[2019.11.05-01.44.11:184][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_4] ([1] browsable assets)...
+[2019.11.05-01.44.11:198][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_4.Main_Character_Idle_SLash_Jump_Sprite_4]
+[2019.11.05-01.44.11:198][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_4]
+[2019.11.05-01.44.11:218][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S841BA3DA4B8C917872E0F98634783543.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_4_Auto3.uasset'
+[2019.11.05-01.44.11:219][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_5] ([1] browsable assets)...
+[2019.11.05-01.44.11:226][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_5.Main_Character_Idle_SLash_Jump_Sprite_5]
+[2019.11.05-01.44.11:226][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_5]
+[2019.11.05-01.44.11:238][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SCAF3F45E441DF3B037ED1F80700B149A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_5_Auto3.uasset'
+[2019.11.05-01.44.11:239][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_6] ([1] browsable assets)...
+[2019.11.05-01.44.11:246][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_6.Main_Character_Idle_SLash_Jump_Sprite_6]
+[2019.11.05-01.44.11:246][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_6]
+[2019.11.05-01.44.11:259][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SA668BE5742A6BFE1C52F7FA4AEB36DE1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_6_Auto3.uasset'
+[2019.11.05-01.44.11:260][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_7] ([1] browsable assets)...
+[2019.11.05-01.44.11:267][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_7.Main_Character_Idle_SLash_Jump_Sprite_7]
+[2019.11.05-01.44.11:267][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_7]
+[2019.11.05-01.44.11:280][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SBCD04DD04346F55F9EF1A08FC8393ADD.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_7_Auto3.uasset'
+[2019.11.05-01.44.11:281][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_8] ([1] browsable assets)...
+[2019.11.05-01.44.11:289][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_8.Main_Character_Idle_SLash_Jump_Sprite_8]
+[2019.11.05-01.44.11:289][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_8]
+[2019.11.05-01.44.11:310][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S9FCC5C294B14D3BAFC16358BBBACCD8A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_8_Auto3.uasset'
+[2019.11.05-01.44.11:311][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_9] ([1] browsable assets)...
+[2019.11.05-01.44.11:319][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_9.Main_Character_Idle_SLash_Jump_Sprite_9]
+[2019.11.05-01.44.11:319][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_9]
+[2019.11.05-01.44.11:331][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S14680E354A7D65B9EDC8E0B5CEC4B9D1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_9_Auto3.uasset'
+[2019.11.05-01.44.11:332][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_10] ([1] browsable assets)...
+[2019.11.05-01.44.11:339][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_10.Main_Character_Idle_SLash_Jump_Sprite_10]
+[2019.11.05-01.44.11:339][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_10]
+[2019.11.05-01.44.11:353][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_SA98EFB1240940414187F64A1F4103A1C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_10_Auto3.uasset'
+[2019.11.05-01.44.11:354][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_11] ([1] browsable assets)...
+[2019.11.05-01.44.11:362][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_11.Main_Character_Idle_SLash_Jump_Sprite_11]
+[2019.11.05-01.44.11:362][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_11]
+[2019.11.05-01.44.11:374][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S459CB85D434DE143ADDC60938BF0883E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_11_Auto3.uasset'
+[2019.11.05-01.44.11:375][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_12] ([1] browsable assets)...
+[2019.11.05-01.44.11:383][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_12.Main_Character_Idle_SLash_Jump_Sprite_12]
+[2019.11.05-01.44.11:383][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_12]
+[2019.11.05-01.44.11:397][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S45C9369F4B16052B7B247EB9941201D0.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_12_Auto3.uasset'
+[2019.11.05-01.44.11:399][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_19] ([1] browsable assets)...
+[2019.11.05-01.44.11:406][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_19.Main_Character_Idle_SLash_Jump_Sprite_19]
+[2019.11.05-01.44.11:406][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_19]
+[2019.11.05-01.44.11:417][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S382ED5024BF615DBF1D265B02F707762.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_19_Auto3.uasset'
+[2019.11.05-01.44.11:419][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_14] ([1] browsable assets)...
+[2019.11.05-01.44.11:426][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_14.Main_Character_Idle_SLash_Jump_Sprite_14]
+[2019.11.05-01.44.11:426][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_14]
+[2019.11.05-01.44.11:439][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S9743619E43AA1F2D78AC7E8BBFFB06D5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_14_Auto3.uasset'
+[2019.11.05-01.44.11:440][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_18] ([1] browsable assets)...
+[2019.11.05-01.44.11:448][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_18.Main_Character_Idle_SLash_Jump_Sprite_18]
+[2019.11.05-01.44.11:448][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_18]
+[2019.11.05-01.44.11:460][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S6A52102940E0342E654D8C821DE4AD4E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_18_Auto3.uasset'
+[2019.11.05-01.44.11:462][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_16] ([1] browsable assets)...
+[2019.11.05-01.44.11:469][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_16.Main_Character_Idle_SLash_Jump_Sprite_16]
+[2019.11.05-01.44.11:469][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_16]
+[2019.11.05-01.44.11:482][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S2623566D4B733B0F6E701CB65604F452.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_16_Auto3.uasset'
+[2019.11.05-01.44.11:484][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_17] ([1] browsable assets)...
+[2019.11.05-01.44.11:491][828]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_17.Main_Character_Idle_SLash_Jump_Sprite_17]
+[2019.11.05-01.44.11:491][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_17]
+[2019.11.05-01.44.11:504][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_S67CECCF346F6360F40543C971F3A13EE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Attack/Main_Character_Idle_SLash_Jump_Sprite_17_Auto3.uasset'
+[2019.11.05-01.44.11:506][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Char/Jump/Main_Character_Idle_SLash_Jump] ([1] browsable assets)...
+[2019.11.05-01.44.11:513][828]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Demo/Sprites/Knyctos_Char/Jump/Main_Character_Idle_SLash_Jump.Main_Character_Idle_SLash_Jump]
+[2019.11.05-01.44.11:513][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Char/Jump/Main_Character_Idle_SLash_Jump]
+[2019.11.05-01.44.11:525][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Character_Idle_SLash_Jump_A84C2B5A046119D73ED65DC8661EE862F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Char/Jump/Main_Character_Idle_SLash_Jump_Auto3.uasset'
+[2019.11.05-01.44.11:528][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Knyctos_Enemy/NewFolder/enemy_appear] ([1] browsable assets)...
+[2019.11.05-01.44.11:529][828]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Knyctos_Enemy/NewFolder/enemy_appear.enemy_appear]
+[2019.11.05-01.44.11:529][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Knyctos_Enemy/NewFolder/enemy_appear]
+[2019.11.05-01.44.11:539][828]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/enemy_appear_Auto3A9FCA75D4A24CC6ECBB9BDAA9C0B0F30.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Knyctos_Enemy/NewFolder/enemy_appear_Auto3.uasset'
+[2019.11.05-01.44.11:541][828]LogFileHelpers: Auto-saving content packages took 0.802
+[2019.11.05-01.44.25:170][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.05-01.44.25:201][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.05-01.44.25:356][515]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test7ADB79EF412FE8EBC7AA1F8F81BFBFFA.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
+[2019.11.05-01.47.33:294][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.48.56:114][444]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.48.56:131][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.48.56:131][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.48.56:131][444]PIE: New page: PIE session: Test (Nov 4, 2019, 1:48:56 PM)
+[2019.11.05-01.48.56:131][444]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.48.56:133][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001975s)
+[2019.11.05-01.48.56:134][444]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.48.56:134][444]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.11.05-01.48.56:134][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002719s)
+[2019.11.05-01.48.56:161][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.05-01.48.56:169][444]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.48.56:194][444]LogInit: FAudioDevice initialized.
+[2019.11.05-01.48.56:203][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.48.56:231][444]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.48.56:233][444]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.11.04-19.48.56
+[2019.11.05-01.48.56:234][444]LogWorld: Bringing up level for play took: 0.001743
+[2019.11.05-01.48.56:249][444]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test -0.088
+[2019.11.05-01.48.56:250][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.49.16:849][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.49.16:849][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.49.16:865][910]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.49.16:896][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.49.16:897][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.49.16:936][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.05-01.49.16:948][911]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.05-01.54.52:998][346]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.54.53:016][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.54.53:017][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.54.53:017][346]PIE: New page: PIE session: Test (Nov 4, 2019, 1:54:53 PM)
+[2019.11.05-01.54.53:017][346]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.54.53:019][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002131s)
+[2019.11.05-01.54.53:019][346]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.54.53:020][346]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.11.05-01.54.53:020][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002861s)
+[2019.11.05-01.54.53:045][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.11.05-01.54.53:053][346]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.54.53:077][346]LogInit: FAudioDevice initialized.
+[2019.11.05-01.54.53:086][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.54.53:115][346]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.54.53:117][346]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.11.04-19.54.53
+[2019.11.05-01.54.53:118][346]LogWorld: Bringing up level for play took: 0.001528
+[2019.11.05-01.54.53:133][346]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 0.796
+[2019.11.05-01.54.53:134][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.03:589][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.03:589][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.55.03:606][592]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.55.03:642][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.55.03:643][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.03:680][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.05-01.55.03:692][593]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.05-01.55.04:397][677]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.55.04:413][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.04:413][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.55.04:413][677]PIE: New page: PIE session: Test (Nov 4, 2019, 1:55:04 PM)
+[2019.11.05-01.55.04:413][677]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.55.04:415][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001843s)
+[2019.11.05-01.55.04:416][677]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.55.04:416][677]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2019.11.05-01.55.04:416][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002383s)
+[2019.11.05-01.55.04:440][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.05-01.55.04:447][677]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.55.04:471][677]LogInit: FAudioDevice initialized.
+[2019.11.05-01.55.04:479][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.55.04:507][677]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.55.04:509][677]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.11.04-19.55.04
+[2019.11.05-01.55.04:509][677]LogWorld: Bringing up level for play took: 0.001340
+[2019.11.05-01.55.04:526][677]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 0.189
+[2019.11.05-01.55.04:527][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.15:508][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.15:509][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.55.15:525][985]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.55.15:559][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.55.15:560][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.55.15:593][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.05-01.55.15:646][987]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.05-01.55.34:149][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.05-01.56.07:385][683]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-01.56.22:637][363]BlueprintLog: New page: Compile Enemy
+[2019.11.05-01.56.22:781][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.05-01.56.23:749][461]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.56.23:767][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.23:768][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.56.23:768][461]PIE: New page: PIE session: Test (Nov 4, 2019, 1:56:23 PM)
+[2019.11.05-01.56.23:768][461]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.56.23:770][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2019.11.05-01.56.23:770][461]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.56.23:770][461]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2019.11.05-01.56.23:770][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002473s)
+[2019.11.05-01.56.23:795][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.05-01.56.23:801][461]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.56.23:825][461]LogInit: FAudioDevice initialized.
+[2019.11.05-01.56.23:833][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.56.23:861][461]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.56.23:863][461]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.11.04-19.56.23
+[2019.11.05-01.56.23:864][461]LogWorld: Bringing up level for play took: 0.001303
+[2019.11.05-01.56.23:880][461]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test -0.458
+[2019.11.05-01.56.23:880][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.24:964][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.24:964][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.56.24:980][560]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.56.25:017][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.56.25:018][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.25:055][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.05-01.56.25:072][561]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.11.05-01.56.26:792][727]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-01.56.32:984][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.56.33:075][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.56.33:092][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.33:092][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.56.33:092][457]PIE: New page: PIE session: Test (Nov 4, 2019, 1:56:33 PM)
+[2019.11.05-01.56.33:092][457]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.56.33:094][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001882s)
+[2019.11.05-01.56.33:095][457]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.56.33:095][457]LogPlayLevel: PIE: World Init took: (0.000430s)
+[2019.11.05-01.56.33:095][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002410s)
+[2019.11.05-01.56.33:126][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.11.05-01.56.33:132][457]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.56.33:156][457]LogInit: FAudioDevice initialized.
+[2019.11.05-01.56.33:163][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.56.33:196][457]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.56.33:198][457]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.11.04-19.56.33
+[2019.11.05-01.56.33:198][457]LogWorld: Bringing up level for play took: 0.001333
+[2019.11.05-01.56.33:213][457]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 0.876
+[2019.11.05-01.56.33:213][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.46:217][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.46:217][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.56.46:234][ 12]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.56.46:264][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.56.46:265][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.56.46:305][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.05-01.56.46:317][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.11.05-01.56.47:836][194]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2019.11.05-01.56.50:331][490]Cmd: DELETE
+[2019.11.05-01.56.50:331][490]Cmd: ACTOR DELETE
+[2019.11.05-01.56.50:343][490]LogEditorActor: Deleted Actor: Enemy_C
+[2019.11.05-01.56.50:369][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.05-01.56.50:369][490]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.11.05-01.56.52:272][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.56.52:460][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-01.56.56:979][201]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-01.56.58:192][332]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-01.57.09:041][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-01.57.21:136][900]LogEditorTransaction: Undo Delete current selection
+[2019.11.05-01.57.30:930][479]BlueprintLog: New page: Compile Enemy
+[2019.11.05-01.57.31:074][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.05-01.57.31:615][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Enemy" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset" SILENT=true
+[2019.11.05-01.57.31:668][510]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Enemy6C9177A74D90BF3A26905897E90D6223.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset'
+[2019.11.05-01.57.33:115][596]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-01.57.37:544][780]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Demo/Blueprint/Widget_HUD.Widget_HUD
+[2019.11.05-01.57.37:836][780]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.11.05-01.57.49:849][476]LogSlate: Window 'Widget_HUD' being destroyed
+[2019.11.05-01.57.51:706][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-01.57.51:723][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.57.51:723][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-01.57.51:723][584]PIE: New page: PIE session: Test (Nov 4, 2019, 1:57:51 PM)
+[2019.11.05-01.57.51:723][584]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-01.57.51:725][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001687s)
+[2019.11.05-01.57.51:725][584]LogAIModule: Creating AISystem for world Test
+[2019.11.05-01.57.51:725][584]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2019.11.05-01.57.51:725][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002287s)
+[2019.11.05-01.57.51:796][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.05-01.57.51:803][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-01.57.51:828][584]LogInit: FAudioDevice initialized.
+[2019.11.05-01.57.51:836][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.57.51:864][584]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-01.57.51:866][584]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-19.57.51
+[2019.11.05-01.57.51:867][584]LogWorld: Bringing up level for play took: 0.001210
+[2019.11.05-01.57.51:881][584]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test -0.456
+[2019.11.05-01.57.51:881][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.58.06:409][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.58.06:410][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-01.58.06:434][455]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-01.58.06:473][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-01.58.06:473][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-01.58.06:528][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.11.05-01.58.06:539][456]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.11.05-01.58.22:967][708]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-01.59.37:182][174]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-01.59.38:440][245]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform.Platform
+[2019.11.05-01.59.53:418][117]LogSlate: Window 'Platform' being destroyed
+[2019.11.05-01.59.54:868][198]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-01.59.57:495][323]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-01.59.58:600][384]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform.Platform
+[2019.11.05-02.00.09:192][986]LogSlate: Window 'Platform' being destroyed
+[2019.11.05-02.00.10:978][ 88]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.01.31:954][898]BlueprintLog: New page: Compile Enemy
+[2019.11.05-02.01.31:956][898]LogBlueprint: Warning: [Compiler Enemy] Could not find a variable named "Plat_Location" in 'Enemy_C'.
+Make sure 'Enemy_C' has been compiled for  Get Plat_Location
+[2019.11.05-02.01.31:956][898]LogBlueprint: Warning: [Compiler Enemy] Could not find a variable named "Start" in 'Enemy_C'.
+Make sure 'Enemy_C' has been compiled for  Get Start
+[2019.11.05-02.01.31:957][898]LogBlueprint: Error: [Compiler Enemy] The property associated with  Plat Location  could not be found in '/Game/Demo/Blueprint/Enemy.Enemy_C'
+[2019.11.05-02.01.31:957][898]LogBlueprint: Error: [Compiler Enemy] The property associated with  Start  could not be found in '/Game/Demo/Blueprint/Enemy.Enemy_C'
+[2019.11.05-02.01.32:125][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.05-02.01.32:130][898]LogBlueprint: Warning: [Compiler Enemy] [4613.08] Compile of Enemy failed. 2 Fatal Issue(s) 2 Warning(s) [in 175 ms] (/Game/Demo/Blueprint/Enemy.Enemy)
+[2019.11.05-02.01.32:513][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Enemy" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset" SILENT=true
+[2019.11.05-02.01.32:564][920]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Enemy435437A5416F4720038E69BD0EF1AA8A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset'
+[2019.11.05-02.01.36:498][154]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.01.38:528][270]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.02.10:036][ 94]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.02.11:282][164]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform.Platform
+[2019.11.05-02.02.21:453][749]LogSlate: Window 'Platform' being destroyed
+[2019.11.05-02.02.22:838][827]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.02.32:029][337]LogSlate: Took 0.012680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.05-02.03.09:348][536]BlueprintLog: New page: Compile Enemy
+[2019.11.05-02.03.09:350][536]LogBlueprint: Warning: [Compiler Enemy] Could not find a variable named "Start" in 'Enemy_C'.
+Make sure 'Enemy_C' has been compiled for  Get Start
+[2019.11.05-02.03.09:351][536]LogBlueprint: Error: [Compiler Enemy] The property associated with  Start  could not be found in '/Game/Demo/Blueprint/Enemy.Enemy_C'
+[2019.11.05-02.03.09:518][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.05-02.03.09:523][536]LogBlueprint: Warning: [Compiler Enemy] [4710.47] Compile of Enemy failed. 1 Fatal Issue(s) 1 Warning(s) [in 174 ms] (/Game/Demo/Blueprint/Enemy.Enemy)
+[2019.11.05-02.03.18:217][ 56]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.03.19:345][118]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform.Platform
+[2019.11.05-02.03.29:142][684]LogSlate: Window 'Platform' being destroyed
+[2019.11.05-02.03.30:511][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.03.37:149][130]BlueprintLog: New page: Compile Enemy
+[2019.11.05-02.03.37:295][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.05-02.03.38:844][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Enemy" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset" SILENT=true
+[2019.11.05-02.03.38:902][221]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Enemy0337A3FB43A3C36F608D03918929B121.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset'
+[2019.11.05-02.03.40:890][336]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.03.44:928][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-02.03.45:012][574]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-02.03.45:037][574]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.03.45:037][574]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.05-02.03.45:038][574]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2019.11.05-02.03.45:072][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.11.05-02.03.45:072][574]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2019.11.05-02.03.45:072][574]PIE: New page: PIE session: Test (Nov 4, 2019, 2:03:45 PM)
+[2019.11.05-02.03.45:072][574]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-02.03.45:074][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2019.11.05-02.03.45:074][574]LogAIModule: Creating AISystem for world Test
+[2019.11.05-02.03.45:074][574]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.11.05-02.03.45:074][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002433s)
+[2019.11.05-02.03.45:103][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.11.05-02.03.45:111][574]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-02.03.45:138][574]LogInit: FAudioDevice initialized.
+[2019.11.05-02.03.45:146][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.03.45:175][574]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-02.03.45:177][574]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-20.03.45
+[2019.11.05-02.03.45:178][574]LogWorld: Bringing up level for play took: 0.002070
+[2019.11.05-02.03.45:193][574]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 0.856
+[2019.11.05-02.03.45:193][574]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.03.57:430][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.03.57:430][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.03.57:446][308]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-02.03.57:478][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-02.03.57:479][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.03.57:517][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.05-02.03.57:534][309]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.11.05-02.03.59:745][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.04.09:924][ 26]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.04.12:140][154]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform.Platform
+[2019.11.05-02.04.35:476][530]LogSlate: Window 'Platform' being destroyed
+[2019.11.05-02.04.37:331][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.05.01:946][ 85]BlueprintLog: New page: Compile Enemy
+[2019.11.05-02.05.02:095][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.11.05-02.05.02:867][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/Enemy" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset" SILENT=true
+[2019.11.05-02.05.02:919][130]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Enemy21D59EC7476F59DB5FA8E6A1E8A7D057.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Blueprint/Enemy.uasset'
+[2019.11.05-02.05.04:017][194]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-02.05.04:044][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.04:044][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-02.05.04:044][194]PIE: New page: PIE session: Test (Nov 4, 2019, 2:05:04 PM)
+[2019.11.05-02.05.04:044][194]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-02.05.04:047][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2019.11.05-02.05.04:047][194]LogAIModule: Creating AISystem for world Test
+[2019.11.05-02.05.04:047][194]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.11.05-02.05.04:047][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002619s)
+[2019.11.05-02.05.04:078][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.05-02.05.04:083][194]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-02.05.04:108][194]LogInit: FAudioDevice initialized.
+[2019.11.05-02.05.04:115][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.05.04:146][194]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-02.05.04:149][194]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-20.05.04
+[2019.11.05-02.05.04:149][194]LogWorld: Bringing up level for play took: 0.001521
+[2019.11.05-02.05.04:169][194]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test -0.169
+[2019.11.05-02.05.04:169][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.09:718][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.09:718][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.05.09:736][524]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-02.05.09:772][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-02.05.09:772][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.09:808][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.11.05-02.05.09:832][525]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.11.05-02.05.11:387][617]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.05.12:960][706]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2019.11.05-02.05.17:677][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.05-02.05.17:728][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-02.05.17:750][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.17:750][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-02.05.17:750][990]PIE: New page: PIE session: Test (Nov 4, 2019, 2:05:17 PM)
+[2019.11.05-02.05.17:750][990]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-02.05.17:752][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2019.11.05-02.05.17:753][990]LogAIModule: Creating AISystem for world Test
+[2019.11.05-02.05.17:753][990]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2019.11.05-02.05.17:753][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002470s)
+[2019.11.05-02.05.17:785][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.05-02.05.17:791][990]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-02.05.17:814][990]LogInit: FAudioDevice initialized.
+[2019.11.05-02.05.17:822][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.05.17:854][990]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-02.05.17:856][990]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-20.05.17
+[2019.11.05-02.05.17:856][990]LogWorld: Bringing up level for play took: 0.001181
+[2019.11.05-02.05.17:871][990]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test -0.466
+[2019.11.05-02.05.17:871][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.21:495][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.21:495][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.05.21:514][206]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-02.05.21:550][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-02.05.21:551][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.05.21:589][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.05-02.05.21:607][207]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.11.05-02.05.23:047][293]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Enemy.Enemy
+[2019.11.05-02.06.04:926][777]BlueprintLog: New page: Compile Enemy
+[2019.11.05-02.06.05:114][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.05-02.06.18:289][526]LogSlate: Window 'Enemy' being destroyed
+[2019.11.05-02.06.24:921][919]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.05-02.06.24:947][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.06.24:947][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.05-02.06.24:947][919]PIE: New page: PIE session: Test (Nov 4, 2019, 2:06:24 PM)
+[2019.11.05-02.06.24:947][919]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Test
+[2019.11.05-02.06.24:949][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001985s)
+[2019.11.05-02.06.24:949][919]LogAIModule: Creating AISystem for world Test
+[2019.11.05-02.06.24:949][919]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2019.11.05-02.06.24:949][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Test.Test to /Game/Demo/Maps/UEDPIE_0_Test.Test (0.002521s)
+[2019.11.05-02.06.24:979][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.11.05-02.06.24:985][919]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.05-02.06.25:010][919]LogInit: FAudioDevice initialized.
+[2019.11.05-02.06.25:018][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.06.25:048][919]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.11.05-02.06.25:050][919]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.11.04-20.06.25
+[2019.11.05-02.06.25:051][919]LogWorld: Bringing up level for play took: 0.001912
+[2019.11.05-02.06.25:066][919]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Test 0.728
+[2019.11.05-02.06.25:067][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.06.28:553][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.06.28:554][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.05-02.06.28:584][127]LogSlate: Window 'Demo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.05-02.06.28:622][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.05-02.06.28:622][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Demo/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Demo/Maps/Test.Test:PersistentLevel.Test'
+[2019.11.05-02.06.28:667][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.11.05-02.06.28:678][128]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.11.05-02.06.29:994][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.05-02.06.30:022][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.05-02.06.30:192][206]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/TestB342D158442AE64F7BA1B6851FB7AE7D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
