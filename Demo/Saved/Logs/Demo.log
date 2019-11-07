@@ -817,3 +817,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.07-01.20.00:051][  5]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2019.11.07-01.20.04:428][143]LogSlate: Window 'game_spikes_wood_Sprite' being destroyed
 [2019.11.07-01.20.04:460][143]LogSlate: Window 'game_spikes_wood_Sprite' being destroyed
+[2019.11.07-01.20.38:955][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.07-01.20.46:778][659]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-01.21.30:008][471]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.07-01.22.03:007][594]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite_blood1279922B2428166B1335A419B19450DB1.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite_blood1.uasset'
+[2019.11.07-01.22.03:100][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.07-01.22.03:122][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.07-01.22.03:144][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.07-01.22.07:065][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.07-01.22.16:440][728]LogSlate: Window 'Replace References?' being destroyed
+[2019.11.07-01.22.16:443][728]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-01.22.17:524][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.07-01.22.19:631][728]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-01.22.19:677][728]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite_blood_BDD529F744F548F86B9931E85C3C0A4BA.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Blueprints/game_spikes_wood_Sprite_blood_B.uasset'
+[2019.11.07-01.22.19:720][728]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite_bloodB416518741E05A25C1E028901D0C87D3.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite_blood.uasset'
+[2019.11.07-01.22.23:823][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.07-01.22.34:595][888]LogSlate: Window 'Replace References?' being destroyed
+[2019.11.07-01.22.34:597][888]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-01.22.34:838][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.07-01.22.36:424][888]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-01.22.36:435][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap/game_spikes_wood_Sprite" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite.uasset" SILENT=true
+[2019.11.07-01.22.36:463][888]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite7254D303427A898B188CAF96BBE05869.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite.uasset'
+[2019.11.07-01.22.36:476][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap/game_spikes_wood_Sprite_b" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite_b.uasset" SILENT=true
+[2019.11.07-01.22.36:511][888]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite_bF478F99C419E12252B6961B14DA5424D.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/game_spikes_wood_Sprite_b.uasset'
+[2019.11.07-01.22.38:162][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.07-01.22.38:185][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.07-01.22.38:270][954]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test1A55AEA644088FA54E3FEC83CBB86422.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
