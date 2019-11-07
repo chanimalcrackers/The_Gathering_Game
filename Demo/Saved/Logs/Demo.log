@@ -803,3 +803,200 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.07-00.14.25:708][488]LogEditorActor: Deleted Actor: trap_switch_C
 [2019.11.07-00.14.25:744][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2019.11.07-00.14.25:744][488]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.11.07-00.15.22:997][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.15.37:887][459]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GITHUB/The_Gathering_Game/Art Assets/Main_Character Sprites/Main_Character_Forward_Mvmnt 36x34 pixel grid.png)
+[2019.11.07-00.15.37:896][459]LogTexture: Display: Building textures: Main_Character_Forward_Mvmnt_36x34_pixel_grid (BGRA8, 360X34)
+[2019.11.07-00.16.02:643][965]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.07-00.16.05:173][217]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.07-00.16.17:724][716]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Animations/Main_Char/ani_MC_walk.ani_MC_walk
+[2019.11.07-00.16.27:411][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.16.33:563][354]LogSlate: Window 'ani_MC_walk' being destroyed
+[2019.11.07-00.16.33:570][354]LogSlate: Window 'ani_MC_walk' being destroyed
+[2019.11.07-00.16.41:128][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.07-00.16.42:468][246]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-00.16.42:563][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.07-00.16.49:268][ 16]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.11.07-00.16.57:148][956]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Animations/Main_Char/ani_mc_walk.ani_mc_walk
+[2019.11.07-00.17.05:905][880]LogSlate: Window 'ani_mc_walk' being destroyed
+[2019.11.07-00.17.05:913][880]LogSlate: Window 'ani_mc_walk' being destroyed
+[2019.11.07-00.17.50:553][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x3E89BCD143CACCF37F561FBE25739521.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid.uasset'
+[2019.11.07-00.17.50:581][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x7F18A6EE4EAA893255583FA84878125C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_0.uasset'
+[2019.11.07-00.17.50:611][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x824B7F114B264FC06525678598B76814.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_1.uasset'
+[2019.11.07-00.17.50:647][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x30DBEE854FFAD700A341F293E638A0F4.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_2.uasset'
+[2019.11.07-00.17.50:673][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36xEAD3F3FD408FD9857E8E79B4AB597872.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_3.uasset'
+[2019.11.07-00.17.50:698][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36xC25B967747E91663C4DB5C9139C33BD0.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_4.uasset'
+[2019.11.07-00.17.50:728][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x6A864E5C4346CFCBE19A2692E50D48B5.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_5.uasset'
+[2019.11.07-00.17.50:755][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36xC8F430CE44546706CAA0458B051640E3.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_6.uasset'
+[2019.11.07-00.17.50:783][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36x5D919C8E495F6CC56A63ADB9B284C08F.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_7.uasset'
+[2019.11.07-00.17.50:815][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36xFD17A65941A703DE1017B4A29E88ACD5.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_8.uasset'
+[2019.11.07-00.17.50:845][158]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Main_Character_Forward_Mvmnt_36xF72AD0A84D3862C59DE1C6B7EC4A64F3.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Main_Character/Main_Character_Forward_Mvmnt_36x34_pixel_grid_Sprite_9.uasset'
+[2019.11.07-00.17.51:863][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.07-00.17.51:902][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.07-00.17.51:936][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.07-00.17.51:961][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.07-00.17.51:991][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.07-00.17.52:023][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.07-00.17.52:050][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.07-00.17.52:078][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.07-00.17.52:111][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.07-00.17.52:144][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.07-00.17.52:176][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.07-00.17.52:210][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.07-00.17.52:243][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.07-00.18.11:578][432]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.07-00.18.30:824][ 19]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.11.07-00.18.31:007][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.07-00.18.32:211][ 89]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.18.32:264][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.07-00.18.33:392][ 89]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-00.18.33:433][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Animations/Main_Char/ani_mc_walk" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Char/ani_mc_walk.uasset" SILENT=true
+[2019.11.07-00.18.33:442][ 89]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/ani_mc_walk66626F4042A958AAF5CA23B8FD264619.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Animations/Main_Char/ani_mc_walk.uasset'
+[2019.11.07-00.18.33:450][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset" SILENT=true
+[2019.11.07-00.18.33:552][ 89]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude2AA7BEEE045CC4DF755682A8D29EC70FA.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.11.07-00.18.33:561][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.07-00.18.33:592][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.07-00.18.33:805][ 89]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGround781D05FB4875D47B75C791BAC9D57AB3.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.11.07-00.18.33:843][ 89]LogFileHelpers: Saving map 'AndreTestGround' took 0.283
+[2019.11.07-00.26.08:651][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset" SILENT=true
+[2019.11.07-00.26.08:737][689]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude2FE782B374A304F49A720A4949F8A5A8D.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.11.07-00.26.09:837][752]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.26.09:842][752]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.31.11:293][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.07-00.31.11:293][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/AndreTestGround' took 0.036
+[2019.11.07-00.31.11:295][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Andre/Sprites/Props/market_tarp_Sprite] ([1] browsable assets)...
+[2019.11.07-00.31.11:306][175]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Andre/Sprites/Props/market_tarp_Sprite.market_tarp_Sprite]
+[2019.11.07-00.31.11:306][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/Sprites/Props/market_tarp_Sprite]
+[2019.11.07-00.31.11:321][175]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/market_tarp_Sprite_Auto2B59EA2474034DB69F587A48B8318A0A9.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Sprites/Props/market_tarp_Sprite_Auto2.uasset'
+[2019.11.07-00.31.11:321][175]LogFileHelpers: Auto-saving content packages took 0.027
+[2019.11.07-00.31.25:082][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.07-00.31.56:239][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.07-00.31.56:274][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.07-00.31.56:496][865]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGroundD2A043C945F02FA63CBF95BF883F7F5D.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.11.07-00.35.05:631][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.07-00.35.06:942][190]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-00.35.07:044][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.07-00.35.07:082][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.07-00.35.07:117][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.07-00.35.48:589][659]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.07-00.36.32:421][286]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Andre/Sprites/Environment/Background_Modular_Hills_1.Background_Modular_Hills_1
+[2019.11.07-00.36.32:441][286]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.11.07-00.36.32:441][286]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.07-00.36.39:756][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.36.39:806][692]LogSlate: Window 'Background_Modular_Hills_1' being destroyed
+[2019.11.07-00.36.39:814][692]LogSlate: Window 'Background_Modular_Hills_1' being destroyed
+[2019.11.07-00.37.17:125][905]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.07-00.39.04:147][496]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Powerup.Powerup
+[2019.11.07-00.39.17:888][282]LogSlate: Window 'Powerup' being destroyed
+[2019.11.07-00.39.17:898][282]LogSlate: Window 'Powerup' being destroyed
+[2019.11.07-00.39.35:789][340]LogBlueprint: Warning: [Compiler BP_potion] Input pin  New Param  specifying non-default value no longer exists on node  Health . Please refresh node or reset pin to default value to remove pin.
+[2019.11.07-00.39.35:791][340]LogBlueprint: Warning: [Compiler BP_potion] [2434.74] Compile of BP_potion successful, but with 1 Warning(s) [in 3 ms] (/Game/Demo/Blueprint/BP_potion.BP_potion)
+[2019.11.07-00.39.35:876][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.11.07-00.39.35:879][340]LogBlueprint: Warning: [Compiler BP_potion] Input pin  New Param  specifying non-default value no longer exists on node  Health . Please refresh node or reset pin to default value to remove pin.
+[2019.11.07-00.39.35:881][340]LogBlueprint: Warning: [Compiler BP_potion] [2434.83] Compile of BP_potion successful, but with 1 Warning(s) [in 4 ms] (/Game/Demo/Blueprint/BP_potion.BP_potion)
+[2019.11.07-00.40.00:848][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:848][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.BP_potion_C' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:848][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:ReceiveBeginPlay' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:848][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:ReceiveTick' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:Powerup' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:Box' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.SKEL_BP_potion_C:UserConstructionScript' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.BP_potion_C:Powerup' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:849][827]LogMetaData: Removing '/Game/Andre/BluePrints/interactables/BP_potion.BP_potion_C:Box' ref from Metadata '/Game/Demo/Blueprint/BP_potion.PackageMetaData'
+[2019.11.07-00.40.00:876][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/interactables/BP_potion" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset" SILENT=true
+[2019.11.07-00.40.00:898][827]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_potion9BA7021F48432D7738F0939C2F963519.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset'
+[2019.11.07-00.40.01:092][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.11.07-00.40.01:133][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.07-00.40.01:166][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.07-00.40.03:367][953]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_potion.BP_potion
+[2019.11.07-00.40.30:105][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/interactables/BP_potion" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset" SILENT=true
+[2019.11.07-00.40.30:139][472]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_potion26AF7FEE4924894C7F4999981ACF9BB7.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset'
+[2019.11.07-00.41.03:854][468]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.07-00.46.28:677][484]LogSlate: Took 0.011097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.07-00.46.42:869][300]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.11.07-00.46.43:062][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.11.07-00.49.05:149][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.07-00.49.05:150][698]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/AndreTestGround' took 0.041
+[2019.11.07-00.49.05:151][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2] ([1] browsable assets)...
+[2019.11.07-00.49.05:151][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2]
+[2019.11.07-00.49.05:245][698]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude2_Auto3D9F0E8304759C8715ED79E888591EAC6.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2_Auto3.uasset'
+[2019.11.07-00.49.05:246][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/BluePrints/interactables/jump_pad] ([1] browsable assets)...
+[2019.11.07-00.49.05:246][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/BluePrints/interactables/jump_pad]
+[2019.11.07-00.49.05:261][698]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/jump_pad_Auto3E3F7983B40429A4ADACD72AEE3B29EA5.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/BluePrints/interactables/jump_pad_Auto3.uasset'
+[2019.11.07-00.49.05:262][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Andre/Sprites/Environment/Background_Modular_Hills_1] ([1] browsable assets)...
+[2019.11.07-00.49.05:269][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Andre/Sprites/Environment/Background_Modular_Hills_1.Background_Modular_Hills_1]
+[2019.11.07-00.49.05:269][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/Sprites/Environment/Background_Modular_Hills_1]
+[2019.11.07-00.49.05:292][698]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_1_Auto3718162E44A51E723440E37BFA8B00A41.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Sprites/Environment/Background_Modular_Hills_1_Auto3.uasset'
+[2019.11.07-00.49.05:293][698]LogFileHelpers: Auto-saving content packages took 0.142
+[2019.11.07-00.49.38:831][684]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Andre/Sprites/Environment/Background_Modular_Hills_1.Background_Modular_Hills_1
+[2019.11.07-00.49.48:993][285]LogSlate: Window 'Background_Modular_Hills_1' being destroyed
+[2019.11.07-00.49.49:002][285]LogSlate: Window 'Background_Modular_Hills_1' being destroyed
+[2019.11.07-00.49.49:086][285]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.07-00.50.57:809][382]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.07-00.50.58:549][424]LogEditorViewport: Clicking Background
+[2019.11.07-00.51.04:019][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.51.17:475][479]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.07-00.52.26:032][477]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.11.07-00.52.26:222][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.07-00.52.34:749][897]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.52.38:373][ 98]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_potion.BP_potion
+[2019.11.07-00.52.57:043][180]BlueprintLog: New page: Compile BP_potion
+[2019.11.07-00.52.57:227][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.07-00.53.10:077][836]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion)
+[2019.11.07-00.53.16:951][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.07-00.53.16:965][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.07-00.53.17:003][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.07-00.53.17:228][243]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGroundB572C7484546343965270888523D6FD8.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.11.07-00.53.17:803][254]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.53.17:861][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.11.07-00.53.18:972][254]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-00.53.19:005][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/interactables/BP_potion" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset" SILENT=true
+[2019.11.07-00.53.19:044][254]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_potionF00F90AB475945775ABD05B61C5C8403.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset'
+[2019.11.07-00.53.19:052][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/interactables/jump_pad" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/jump_pad.uasset" SILENT=true
+[2019.11.07-00.53.19:068][254]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/jump_padD9D5A91B42557721E3647DB681BF1459.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/jump_pad.uasset'
+[2019.11.07-00.53.19:080][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset" SILENT=true
+[2019.11.07-00.53.19:165][254]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude28EEBB61F40A26EC424F8CAB73E6C2352.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.11.07-00.53.19:195][254]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/Background_Modular_Hills_116D949394E18E99733E8F7862B6A7D36.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/Background_Modular_Hills_1.uasset'
+[2019.11.07-00.53.19:201][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Sprites/Props/market_tarp_Sprite" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/market_tarp_Sprite.uasset" SILENT=true
+[2019.11.07-00.53.19:210][254]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/market_tarp_Sprite63963A7A44EAD701F678A08C8D5E890A.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/market_tarp_Sprite.uasset'
+[2019.11.07-00.53.37:708][598]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.07-00.53.44:174][984]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion)
+[2019.11.07-00.53.45:356][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.53.49:512][302]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.53.49:563][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.11.07-00.53.50:637][302]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-00.53.50:669][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/Levels/AndreTestGround" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.07-00.53.50:703][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.07-00.53.50:929][302]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/AndreTestGroundF47DBB2349EE3347B5AED3BD89D9C4FD.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/Levels/AndreTestGround.umap'
+[2019.11.07-00.53.50:967][302]LogFileHelpers: Saving map 'AndreTestGround' took 0.298
+[2019.11.07-00.54.10:637][461]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.54.10:690][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.07-00.54.34:703][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/interactables/BP_potion" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset" SILENT=true
+[2019.11.07-00.54.34:731][ 86]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_potion051C288C4B47B8BBFF58F38B774AF8B1.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_potion.uasset'
+[2019.11.07-00.54.38:190][291]LogSlate: Window 'BP_potion' being destroyed
+[2019.11.07-00.54.43:520][596]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.07-00.55.27:987][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset" SILENT=true
+[2019.11.07-00.55.28:080][154]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude26D3497C24EE5F0FBD4057E9811B33494.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.11.07-00.55.29:376][222]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.11.07-00.55.29:567][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.07-00.55.47:687][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2" FILE="D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset" SILENT=true
+[2019.11.07-00.55.47:773][232]LogSavePackage: Moving 'D:/GITHUB/The_Gathering_Game/Demo/Saved/BP_Andre_Dude222649307470B1A8384EC678081A1778C.tmp' to 'D:/GITHUB/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.11.07-00.55.49:985][354]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.55.49:993][354]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.55.51:329][425]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.55.51:392][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.07-00.56.05:586][586]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.56.05:646][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.07-00.56.22:153][754]LogTemp: Repeating last play command: Standalone Game
+[2019.11.07-00.56.22:203][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.07-00.57.56:401][503]LogEditorViewport: Clicking Background
+[2019.11.07-00.58.06:173][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-00.58.07:216][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/BP_Dude.BP_Dude
+[2019.11.07-00.59.08:701][776]LogSlate: Window 'BP_Dude' being destroyed
+[2019.11.07-00.59.08:710][776]LogSlate: Window 'BP_Dude' being destroyed
+[2019.11.07-00.59.26:431][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.07-00.59.46:160][937]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.11.07-00.59.46:355][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.07-00.59.48:024][  8]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.11.07-00.59.48:033][  8]LogSlate: Window 'BP_Andre_Dude2' being destroyed
