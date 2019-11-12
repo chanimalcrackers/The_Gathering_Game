@@ -2197,3 +2197,165 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-01.59.05:252][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.11.12-01.59.05:276][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2019.11.12-01.59.05:417][145]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test81D1DA324CECBC49D5CB75B1F943429F.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
+[2019.11.12-02.00.36:537][505]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.00.36:552][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.00.36:552][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.00.36:552][505]PIE: New page: PIE session: Rand_test (Nov 11, 2019, 2:00:36 PM)
+[2019.11.12-02.00.36:552][505]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.11.12-02.00.36:555][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001988s)
+[2019.11.12-02.00.36:555][505]LogAIModule: Creating AISystem for world Rand_test
+[2019.11.12-02.00.36:555][505]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.11.12-02.00.36:555][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.003033s)
+[2019.11.12-02.00.36:587][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.11.12-02.00.36:589][505]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.00.36:604][505]LogInit: FAudioDevice initialized.
+[2019.11.12-02.00.36:632][505]LogLoad: Game class is 'Rand_test_C'
+[2019.11.12-02.00.36:634][505]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.11.11-20.00.36
+[2019.11.12-02.00.36:634][505]LogWorld: Bringing up level for play took: 0.001457
+[2019.11.12-02.00.36:647][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Health Bar". Blueprint:  BP_Andre_Dude2 Function:  Execute Ubergraph BP Andre Dude 2 Graph:  EventGraph Node:  Add to Viewport
+[2019.11.12-02.00.36:647][505]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0.107
+[2019.11.12-02.00.36:647][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.00.48:448][188]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door_2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0091
+[2019.11.12-02.00.48:448][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.00.48:448][188]LogScript: Warning: Accessed None
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door_2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0072
+[2019.11.12-02.00.48:448][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.00.50:732][320]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0091
+[2019.11.12-02.00.50:732][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.00.50:732][320]LogScript: Warning: Accessed None
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0072
+[2019.11.12-02.00.50:732][320]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.00.53:957][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.00.53:957][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.00.54:003][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.00.54:003][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.00.54:032][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.00.54:037][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.12-02.00.54:043][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.00.54:083][512]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.11.12-02.00.55:772][579]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.00.55:799][579]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.00.58:393][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.00.58:441][695]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.00.58:454][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.00.58:454][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.00.58:454][695]PIE: New page: PIE session: Rand_test (Nov 11, 2019, 2:00:58 PM)
+[2019.11.12-02.00.58:454][695]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.11.12-02.00.58:456][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001857s)
+[2019.11.12-02.00.58:456][695]LogAIModule: Creating AISystem for world Rand_test
+[2019.11.12-02.00.58:457][695]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.11.12-02.00.58:457][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.002532s)
+[2019.11.12-02.00.58:482][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.12-02.00.58:483][695]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.00.58:501][695]LogInit: FAudioDevice initialized.
+[2019.11.12-02.00.58:525][695]LogLoad: Game class is 'Rand_test_C'
+[2019.11.12-02.00.58:527][695]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.11.11-20.00.58
+[2019.11.12-02.00.58:527][695]LogWorld: Bringing up level for play took: 0.001421
+[2019.11.12-02.00.58:540][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Health Bar". Blueprint:  BP_Andre_Dude2 Function:  Execute Ubergraph BP Andre Dude 2 Graph:  EventGraph Node:  Add to Viewport
+[2019.11.12-02.00.58:540][695]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test 0
+[2019.11.12-02.00.58:540][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.01.08:323][252]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door_2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0091
+[2019.11.12-02.01.08:324][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.01.08:324][252]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.01.10:026][350]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0091
+[2019.11.12-02.01.10:026][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.01.10:026][350]LogScript: Warning: Accessed None
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0072
+[2019.11.12-02.01.10:026][350]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.01.12:429][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.01.12:430][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.01.12:470][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.01.12:470][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.01.12:519][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.01.12:522][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.12-02.01.12:529][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.01.12:569][494]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.11.12-02.01.13:804][542]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.01.13:830][542]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.01.29:112][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.02.16:948][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.12-02.02.16:949][130]LogMetaData: Removing '/Game/Rand/trap/BP_trap_spike_fall.BP_trap_spike_fall_C' ref from Metadata '/Game/Rand/trap/spike_fall_BP.PackageMetaData'
+[2019.11.12-02.02.16:949][130]LogMetaData: Removing '/Game/Rand/trap/BP_trap_spike_fall.SKEL_BP_trap_spike_fall_C' ref from Metadata '/Game/Rand/trap/spike_fall_BP.PackageMetaData'
+[2019.11.12-02.02.16:949][130]LogMetaData: Removing '/Game/Rand/trap/BP_trap_spike_fall.BP_trap_spike_fall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Rand/trap/spike_fall_BP.PackageMetaData'
+[2019.11.12-02.02.16:961][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap/BP_trap_spike_fall" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/BP_trap_spike_fall.uasset" SILENT=true
+[2019.11.12-02.02.16:988][130]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_trap_spike_fallC6D0E4934FBE02D0AA02AB90D1749D9B.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/BP_trap_spike_fall.uasset'
+[2019.11.12-02.02.17:001][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/trap/spike_fall_BP" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/spike_fall_BP.uasset" SILENT=true
+[2019.11.12-02.02.17:029][130]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/spike_fall_BP9B6B958A4F45A4CE3B20D384AD9FA1A0.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/trap/spike_fall_BP.uasset'
+[2019.11.12-02.08.32:509][649]LogEditorViewport: Clicking on Actor (LMB): trap_switch_C (trap_switch)
+[2019.11.12-02.08.35:532][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.08.35:599][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.08.35:612][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.08.35:612][788]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.12-02.08.35:614][788]LogPlayLevel: [PlayLevel] Compiling game_spikes_wood_Sprite_B1 before play...
+[2019.11.12-02.08.35:650][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.12-02.08.35:650][788]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2019.11.12-02.08.35:650][788]PIE: New page: PIE session: Rand_test (Nov 11, 2019, 2:08:35 PM)
+[2019.11.12-02.08.35:651][788]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.11.12-02.08.35:653][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001869s)
+[2019.11.12-02.08.35:653][788]LogAIModule: Creating AISystem for world Rand_test
+[2019.11.12-02.08.35:653][788]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2019.11.12-02.08.35:653][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.002613s)
+[2019.11.12-02.08.35:678][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.12-02.08.35:679][788]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.08.35:695][788]LogInit: FAudioDevice initialized.
+[2019.11.12-02.08.35:723][788]LogLoad: Game class is 'Rand_test_C'
+[2019.11.12-02.08.35:724][788]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.11.11-20.08.35
+[2019.11.12-02.08.35:725][788]LogWorld: Bringing up level for play took: 0.001400
+[2019.11.12-02.08.35:738][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Health Bar". Blueprint:  BP_Andre_Dude2 Function:  Execute Ubergraph BP Andre Dude 2 Graph:  EventGraph Node:  Add to Viewport
+[2019.11.12-02.08.35:738][788]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test -0.811
+[2019.11.12-02.08.35:738][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.08.41:680][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.08.41:680][132]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.08.42:135][158]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0091
+[2019.11.12-02.08.42:135][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Andre_Dude_2". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.08.42:135][158]LogScript: Warning: Accessed None
+	Door_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.Door2
+	Function /Game/Rand/key_door/Door.Door_C:ExecuteUbergraph_Door:0072
+[2019.11.12-02.08.42:136][158]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Door Function:  Execute Ubergraph Door Graph:  ForEachLoop Node:  Branch
+[2019.11.12-02.08.50:674][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.08.50:674][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.50:716][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.08.50:716][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-02.08.50:748][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.08.50:752][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.12-02.08.50:759][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-02.08.50:798][655]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.11.12-02.08.52:521][724]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.08.52:548][724]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.09.51:857][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.12-02.09.52:000][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test_Auto3009628F9450B3840D87F598B3A359739.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/maps/Rand_test_Auto3.umap'
+[2019.11.12-02.09.52:011][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.179
+[2019.11.12-02.09.52:011][429]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.179
+[2019.11.12-02.09.52:012][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rand/trap/game_spikes_wood_Sprite_B1] ([1] browsable assets)...
+[2019.11.12-02.09.52:012][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/trap/game_spikes_wood_Sprite_B1]
+[2019.11.12-02.09.52:051][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_spikes_wood_Sprite_B1_Auto3E1008125435D5EC2CB64FEA86C995AE7.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/trap/game_spikes_wood_Sprite_B1_Auto3.uasset'
+[2019.11.12-02.09.52:062][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/key_door/game_key_pic] ([1] browsable assets)...
+[2019.11.12-02.09.52:063][429]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rand/key_door/game_key_pic.game_key_pic]
+[2019.11.12-02.09.52:063][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/key_door/game_key_pic]
+[2019.11.12-02.09.52:072][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_key_pic_Auto3CE8496AE4F52AAD09CED58AC48E1D01E.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/key_door/game_key_pic_Auto3.uasset'
+[2019.11.12-02.09.52:082][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/key_door/game_key_pic_Sprite_0] ([1] browsable assets)...
+[2019.11.12-02.09.52:089][429]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Rand/key_door/game_key_pic_Sprite_0.game_key_pic_Sprite_0]
+[2019.11.12-02.09.52:089][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/key_door/game_key_pic_Sprite_0]
+[2019.11.12-02.09.52:101][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_key_pic_Sprite_0_Auto3DC1FA6504CE80BC83A6CD3B7E756662A.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/key_door/game_key_pic_Sprite_0_Auto3.uasset'
+[2019.11.12-02.09.52:113][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/key_door/game_key_pic_Sprite_1] ([1] browsable assets)...
+[2019.11.12-02.09.52:119][429]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Rand/key_door/game_key_pic_Sprite_1.game_key_pic_Sprite_1]
+[2019.11.12-02.09.52:119][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/key_door/game_key_pic_Sprite_1]
+[2019.11.12-02.09.52:133][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_key_pic_Sprite_1_Auto3559CEE4448B1867D923505AD502A1518.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/key_door/game_key_pic_Sprite_1_Auto3.uasset'
+[2019.11.12-02.09.52:143][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rand/key_door/game_key_pic_Sprite_2] ([1] browsable assets)...
+[2019.11.12-02.09.52:150][429]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Rand/key_door/game_key_pic_Sprite_2.game_key_pic_Sprite_2]
+[2019.11.12-02.09.52:150][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/key_door/game_key_pic_Sprite_2]
+[2019.11.12-02.09.52:164][429]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/game_key_pic_Sprite_2_Auto3D55C735148B400750D324E8FB59078AD.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/key_door/game_key_pic_Sprite_2_Auto3.uasset'
+[2019.11.12-02.09.52:175][429]LogFileHelpers: Auto-saving content packages took 0.163
