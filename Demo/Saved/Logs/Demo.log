@@ -796,3 +796,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-00.22.22:172][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.11.12-00.22.22:203][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
 [2019.11.12-00.22.22:359][379]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test0FB76F8948DFFFF0DEC400AAF2C92547.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
+[2019.11.12-00.23.09:217][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/key_bp.key_bp
+[2019.11.12-00.24.04:997][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.24.08:853][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.24.29:790][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.24.32:709][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.24.35:911][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.24.47:561][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.24.53:043][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.24.57:400][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.25.04:839][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.25.38:378][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.30.00:073][870]BlueprintLog: New page: Compile key_bp
+[2019.11.12-00.30.00:229][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.12-00.30.01:565][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/key_door/key_bp" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/key_bp.uasset" SILENT=true
+[2019.11.12-00.30.01:587][932]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/key_bp8F906F6D47886105C5256386612948F8.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/key_bp.uasset'
+[2019.11.12-00.30.08:804][301]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.12-00.30.55:598][836]LogEditorViewport: Clicking Background
+[2019.11.12-00.30.56:579][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.30.56:812][876]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/Door.Door
+[2019.11.12-00.31.12:128][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.32.26:620][544]LogTexture: Display: Building textures: Background_Modular_Hills_2 (BGRA8, 352X128)
+[2019.11.12-00.32.28:142][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.32.37:250][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.32.44:267][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.32.57:389][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.33.26:808][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.33.36:297][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.33.54:472][710]BlueprintLog: New page: Compile Door
+[2019.11.12-00.33.54:664][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.12-00.33.55:627][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/key_door/Door" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/Door.uasset" SILENT=true
+[2019.11.12-00.33.55:645][740]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/DoorE7ABF84248C6F90E3847E69E28CD895E.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/Door.uasset'
+[2019.11.12-00.34.58:108][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.11.12-00.34.58:108][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Rand/maps/Rand_test' took 0.040
+[2019.11.12-00.34.58:111][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Rand/key_door/Door] ([1] browsable assets)...
+[2019.11.12-00.34.58:111][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rand/key_door/Door]
+[2019.11.12-00.34.58:141][463]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Door_Auto1444121AA40DC2D7A7AF215AE944FAFE5.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Rand/key_door/Door_Auto1.uasset'
+[2019.11.12-00.34.58:149][463]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.11.12-00.40.05:285][947]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.12-00.40.36:875][476]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.12-00.41.32:229][354]BlueprintLog: New page: Compile Door
+[2019.11.12-00.41.32:389][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.12-00.41.33:687][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/key_door/Door" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/Door.uasset" SILENT=true
+[2019.11.12-00.41.33:725][414]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Door215ECB5341FA5EAF2E1009B21AE37639.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/Door.uasset'
+[2019.11.12-00.41.43:883][208]BlueprintLog: New page: Compile key_bp
+[2019.11.12-00.41.44:035][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.11.12-00.41.44:460][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/key_door/key_bp" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/key_bp.uasset" SILENT=true
+[2019.11.12-00.41.44:493][226]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/key_bpBC352F0C4FF4C762DEB708B42C59C66B.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/key_bp.uasset'
+[2019.11.12-00.41.48:492][394]LogSlate: Window 'Door' being destroyed
+[2019.11.12-00.41.48:495][394]LogSlate: Window 'Door' being destroyed
+[2019.11.12-00.41.48:564][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.12-00.41.59:738][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.42.16:838][839]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Rand_tilemap)
+[2019.11.12-00.42.17:386][864]LogEditorViewport: Clicking on Actor (LMB): key_bp_C (key_bp)
+[2019.11.12-00.42.21:484][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.42.30:764][520]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2019.11.12-00.42.36:089][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.42.36:150][763]LogTemp: Repeating last play command: Standalone Game
+[2019.11.12-00.42.36:198][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.11.12-00.42.38:601][763]LogSlate: Window 'Save Content' being destroyed
+[2019.11.12-00.42.38:607][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.42.38:611][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/key_door/open_door" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/open_door.uasset" SILENT=true
+[2019.11.12-00.42.38:624][763]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/open_door199A702A48B4796F2E8A74995B5D31DA.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/key_door/open_door.uasset'
+[2019.11.12-00.42.38:635][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-00.42.38:659][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.12-00.42.38:801][763]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test7575148C43B51E5840A01C9FF5EA8B42.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
+[2019.11.12-00.42.38:842][763]LogFileHelpers: Saving map 'Rand_test' took 0.208
+[2019.11.12-00.42.44:587][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.42.45:754][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-00.42.45:755][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-00.42.45:755][110]PIE: New page: PIE session: Rand_test (Nov 11, 2019, 12:42:45 PM)
+[2019.11.12-00.42.45:767][110]LogPlayLevel: Creating play world package: /Game/Rand/maps/UEDPIE_0_Rand_test
+[2019.11.12-00.42.45:769][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001455s)
+[2019.11.12-00.42.45:769][110]LogAIModule: Creating AISystem for world Rand_test
+[2019.11.12-00.42.45:769][110]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.11.12-00.42.45:770][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Rand/maps/Rand_test.Rand_test to /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test (0.002245s)
+[2019.11.12-00.42.45:804][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.11.12-00.42.45:805][110]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-00.42.45:824][110]LogInit: FAudioDevice initialized.
+[2019.11.12-00.42.45:824][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.42.45:864][110]LogLoad: Game class is 'Rand_test_C'
+[2019.11.12-00.42.45:866][110]LogWorld: Bringing World /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test up for play (max tick rate 0) at 2019.11.11-18.42.45
+[2019.11.12-00.42.45:867][110]LogWorld: Bringing up level for play took: 0.001492
+[2019.11.12-00.42.45:884][110]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.12-00.42.45:888][110]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.12-00.42.45:889][110]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.12-00.42.45:890][110]LogScript: Warning: Accessed None trying to read property Health Bar
+	BP_Andre_Dude2_C /Game/Rand/maps/UEDPIE_0_Rand_test.Rand_test:PersistentLevel.BP_Andre_Dude2_C_0
+	Function /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2_C:ExecuteUbergraph_BP_Andre_Dude2:048B
+[2019.11.12-00.42.45:890][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Health Bar". Blueprint:  BP_Andre_Dude2 Function:  Execute Ubergraph BP Andre Dude 2 Graph:  EventGraph Node:  Add to Viewport
+[2019.11.12-00.42.45:891][110]PIE: Play in editor start time for /Game/Rand/maps/UEDPIE_0_Rand_test -0.561
+[2019.11.12-00.42.45:891][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-00.42.59:511][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-00.42.59:511][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-00.42.59:554][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-00.42.59:554][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel' has LevelScriptBlueprint '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test' with GeneratedClass '/Game/Rand/maps/Rand_test.Rand_test_C' with ClassGeneratedBy '/Game/Rand/maps/Rand_test.Rand_test:PersistentLevel.Rand_test'
+[2019.11.12-00.42.59:600][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-00.42.59:636][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.11.12-00.42.59:643][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.12-00.42.59:679][877]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.12-00.43.01:997][967]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-00.43.02:024][967]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-00.43.03:820][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.43.04:190][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-00.43.04:240][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.11.12-00.43.04:370][ 49]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test5BEA62E84BC6FD135A91D682574232B3.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
