@@ -1145,3 +1145,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-00.53.22:023][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2019.11.12-00.53.22:030][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.11.12-00.53.22:064][162]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.12-00.53.45:229][409]LogSlate: Window 'Door' being destroyed
+[2019.11.12-00.53.45:255][409]LogSlate: Window 'Door' being destroyed
+[2019.11.12-00.53.46:904][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.53.46:969][482]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-00.53.46:994][482]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-00.53.48:772][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-00.53.48:905][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.12-00.53.48:932][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.12-00.53.49:084][571]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_test79ABDBB140D878564D0AE4B2EB993199.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
