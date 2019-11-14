@@ -685,3 +685,125 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.14-00.13.29:245][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.11.14-00.13.29:270][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2019.11.14-00.13.29:382][829]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/TestBBAB2ACF4815082ABA9EEAAA5F3C6479.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
+[2019.11.14-00.14.37:992][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-00.14.48:149][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-00.14.48:233][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/turtorial" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/turtorial.uasset" SILENT=true
+[2019.11.14-00.14.48:313][955]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/turtorialF2B564F0466ED7DAA4D566B123C86230.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/turtorial.uasset'
+[2019.11.14-00.14.53:208][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:208][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:208][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:208][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:213][179]LogTexture: Display: Building textures: spike_fall (BGRA8, 128X32)
+[2019.11.14-00.14.53:213][179]LogTexture: Display: Building textures: Mixed_prototype_Tilesets (BGRA8, 192X158)
+[2019.11.14-00.14.53:213][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:213][179]LoadErrors: Failed to load /Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet.Mixed_prototype_Tilesets2_TileSet Referenced by PaperTileLayer_0
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:214][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:215][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:216][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:217][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:218][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:219][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:220][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:221][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:222][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:223][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:223][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:223][179]LogLinker: Warning: Can't find file '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet'
+[2019.11.14-00.14.53:223][179]LogLinker: Warning: Can't find file for asset '/Game/Rand/charater/Mixed_prototype_Tilesets2_TileSet' while loading NULL.
+[2019.11.14-00.14.53:253][179]LogAIModule: Creating AISystem for world Rand_test
+[2019.11.14-00.14.53:258][179]LogAssetEditorManager: Opening Asset editor for World /Game/Rand/maps/Rand_test.Rand_test
+[2019.11.14-00.14.53:285][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.14-00.14.56:145][179]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-00.14.56:187][179]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Tileset_Update_TileSet4647CC3F401A27EE06E03BA57A1F5800.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/TileSets/Tileset_Update_TileSet.uasset'
+[2019.11.14-00.14.56:201][179]Cmd: MAP LOAD FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-00.14.56:201][179]LightingResults: New page: Lighting Build
+[2019.11.14-00.14.56:203][179]LoadErrors: New page: Loading map: Rand_test.umap
+[2019.11.14-00.14.56:203][179]MapCheck: New page: Map Check
+[2019.11.14-00.14.56:203][179]LightingResults: New page: Lighting Build
+[2019.11.14-00.14.56:226][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.14-00.14.56:231][179]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-00.14.56:254][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.14-00.14.56:287][179]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-00.14.56:288][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2019.11.14-00.14.56:288][179]LogFileHelpers: Loading map 'Rand_test' took 0.088
+[2019.11.14-00.14.58:580][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rand/maps/Rand_test" FILE="../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-00.14.58:603][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.14-00.14.58:713][290]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/Rand_testDB65F5AB421F1DE83EB815B5CDAD6D7A.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Rand/maps/Rand_test.umap'
