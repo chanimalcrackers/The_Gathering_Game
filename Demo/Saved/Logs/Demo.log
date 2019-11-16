@@ -825,3 +825,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.16-22.08.40:676][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.16-22.08.54:324][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.16-22.08.56:369][469]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMapE479AE6F42F18ACA5D6EA0887F25FBA3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.09.52:729][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-22.20.56:758][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-22.20.56:802][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.16-22.20.56:802][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Test' took 0.026
+[2019.11.16-22.20.56:804][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Sprites/Environment/KnyctosTileMap] ([1] browsable assets)...
+[2019.11.16-22.20.56:804][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Environment/KnyctosTileMap]
+[2019.11.16-22.20.58:433][780]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap_Auto2F42AEEA240DE4BCC13A946AC977DFE34.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Environment/KnyctosTileMap_Auto2.uasset'
+[2019.11.16-22.20.58:434][780]LogFileHelpers: Auto-saving content packages took 1.631
+[2019.11.16-22.21.26:256][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-22.21.32:411][802]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.32:411][802]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.32:680][816]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.32:680][816]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.32:862][825]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.32:862][825]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.33:045][834]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.33:045][834]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.33:191][841]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.33:192][841]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.33:344][849]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.33:344][849]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.33:667][867]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.33:667][867]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.34:030][887]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.34:030][887]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.39:240][169]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.39:240][169]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.39:423][178]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.39:423][178]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.39:607][187]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.39:607][187]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.39:776][195]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.39:776][195]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.21.39:955][204]Cmd: TRANSACTION UNDO
+[2019.11.16-22.21.39:955][204]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.41:884][911]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.41:884][911]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.42:152][925]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.42:152][925]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.42:402][938]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.42:402][938]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.42:746][957]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.42:746][957]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.42:948][968]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.42:948][968]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.43:118][977]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.43:118][977]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.43:321][988]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.43:321][988]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.43:483][996]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.43:483][996]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.43:669][  6]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.43:669][  6]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.43:997][ 24]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.43:997][ 24]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.57:195][790]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.57:195][790]LogEditorTransaction: Undo Cut Layer
+[2019.11.16-22.22.58:764][883]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.58:764][883]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.22.59:121][903]Cmd: TRANSACTION UNDO
+[2019.11.16-22.22.59:121][903]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:006][406]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:006][406]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:190][415]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:190][415]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:357][423]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:357][423]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:523][431]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:523][431]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:654][437]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:654][437]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:818][445]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:818][445]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.25.55:949][451]Cmd: TRANSACTION UNDO
+[2019.11.16-22.25.55:949][451]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.26.02:934][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.26.10:873][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.26.13:367][311]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMapBEF2569E4916065C7986F793D836745C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.26.18:017][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.26.18:132][594]LogSlate: Window 'KnyctosTileMap' being destroyed
+[2019.11.16-22.26.21:660][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.30.39:350][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.30.42:034][404]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap.KnyctosTileMap
+[2019.11.16-22.31.42:077][943]Cmd: TRANSACTION UNDO
+[2019.11.16-22.31.42:077][943]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.31.48:706][333]Cmd: TRANSACTION UNDO
+[2019.11.16-22.31.48:706][333]LogEditorTransaction: Undo Tile Painting
+[2019.11.16-22.33.00:870][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.33.03:851][643]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap4CA3B3114FB62E9DCA48268151B1ED67.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.33.30:202][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.16-22.33.30:353][143]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test_Auto38E2AF0A04122009DFF814AB3FCAD9C85.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Maps/Test_Auto3.umap'
+[2019.11.16-22.33.30:355][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/Test' took 0.190
+[2019.11.16-22.33.30:356][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2019.11.16-22.34.05:912][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.34.07:690][278]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMapA912A6634DCAF66A020B3CB25CED9265.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.34.19:323][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.34.21:112][970]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap3D44B3694BD71244C79AD3BDA2111913.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.46.37:827][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-22.46.45:865][800]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap2505B2414A5AAD70AAD5B79E303F0388.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.16-22.46.46:705][886]LogSlate: Window 'KnyctosTileMap' being destroyed
+[2019.11.16-22.46.48:623][103]LogTemp: Repeating last play command: Standalone Game
+[2019.11.16-22.46.48:668][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.16-22.46.50:206][103]LogSlate: Window 'Save Content' being destroyed
+[2019.11.16-22.46.50:210][103]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.11.16-22.46.50:210][103]PIE: Warning: PIE failed because map save was canceled
+[2019.11.16-22.46.51:779][280]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-22.46.51:783][280]LogSlate: Window 'Message Log' being destroyed
+[2019.11.16-22.46.52:573][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.16-22.46.52:597][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.16-22.46.52:745][370]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test4BA484114BB96CD8853B66976FFA43BA.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
