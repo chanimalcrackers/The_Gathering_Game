@@ -1119,3 +1119,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.17-00.17.38:808][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Test" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.11.17-00.17.38:840][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2019.11.17-00.17.39:001][653]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Test25117218412E6C6ABB0E4F9D9B99C2DE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Maps/Test.umap'
+[2019.11.17-00.20.51:670][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.20.51:844][830]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap.KnyctosTileMap
+[2019.11.17-00.20.55:662][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.21.11:101][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.21.13:134][923]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMapBB3466754935756991C91FBD9BD2AF33.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap.uasset'
+[2019.11.17-00.21.14:160][984]LogSlate: Window 'KnyctosTileMap' being destroyed
