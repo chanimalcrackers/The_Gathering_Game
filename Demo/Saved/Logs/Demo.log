@@ -860,3 +860,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-01.47.09:479][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.19-01.47.09:640][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2019.11.19-01.47.11:624][ 17]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialF0661EC04F6781F8BB31C48789C41941.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.19-01.47.42:328][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.47.42:411][311]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.47.42:460][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.19-01.48.17:707][626]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mixed_prototype_Tilesets2_TileMap1)
+[2019.11.19-01.48.18:442][667]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mixed_prototype_Tilesets2_TileMap1)
+[2019.11.19-01.48.20:647][798]LogEditorViewport: Clicking Background
+[2019.11.19-01.48.30:172][369]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mixed_prototype_Tilesets2_TileMap1)
+[2019.11.19-01.48.31:551][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.48.38:447][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.48.43:176][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.48.43:317][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.19-01.48.45:307][149]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialCD10C20D44F70F8ED8D10F852F4B5268.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.19-01.48.46:108][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.48.46:208][200]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.48.46:257][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.19-01.49.08:741][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.49.08:856][407]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.49.08:910][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.19-01.49.43:273][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.49.43:358][635]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.49.43:407][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.19-01.51.09:364][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.51.09:448][ 48]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.51.09:503][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.19-01.51.57:895][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.51.57:994][331]LogTemp: Repeating last play command: Standalone Game
+[2019.11.19-01.51.58:048][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.19-01.52.55:515][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.52.57:976][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.52.59:953][258]LogEditorViewport: Clicking on Actor (LMB): BP_jump_pad_C (BP_jump_pad2)
+[2019.11.19-01.53.02:852][430]LogEditorViewport: Clicking on Actor (LMB): BP_jump_pad_C (BP_jump_pad3)
+[2019.11.19-01.53.12:202][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.53.12:346][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.19-01.53.14:401][994]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial71C76AFC44A78C4DC57AFD834CFB4D09.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
