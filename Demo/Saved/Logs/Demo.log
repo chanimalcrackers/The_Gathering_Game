@@ -810,3 +810,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-01.07.26:255][153]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial8EB2947341A5C47861DB59AFF4A749EB.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
 [2019.11.21-01.07.30:255][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
 [2019.11.21-01.07.32:255][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.21-01.12.12:372][260]LogEditorViewport: Clicking Background
+[2019.11.21-01.12.20:089][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-01.12.23:893][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_door.BP_door
+[2019.11.21-01.15.04:595][464]LogSlate: Window 'Create Blueprint' being destroyed
+[2019.11.21-01.15.04:610][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_Door_deny.BP_Door_deny
+[2019.11.21-01.15.10:417][649]BlueprintLog: New page: Compile BP_Door_deny
+[2019.11.21-01.15.10:583][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.21-01.15.11:338][672]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_Door_deny9A0ABCC14235B628B305A8A57CF93DE8.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_Door_deny.uasset'
+[2019.11.21-01.15.20:342][336]BlueprintLog: New page: Compile BP_door
+[2019.11.21-01.15.20:516][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.21-01.15.20:996][358]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_door8325E09E48CA7DE1A82C1E8E282BDEBE.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_door.uasset'
+[2019.11.21-01.15.25:637][592]LogSlate: Window 'BP_Door_deny' being destroyed
+[2019.11.21-01.15.25:640][592]LogSlate: Window 'BP_Door_deny' being destroyed
+[2019.11.21-01.15.25:716][592]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-01.15.27:397][685]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-01.15.27:411][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.15.27:411][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-01.15.27:412][685]PIE: New page: PIE session: level_tutorial (Nov 20, 2019, 1:15:27 PM)
+[2019.11.21-01.15.27:424][685]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_level_tutorial
+[2019.11.21-01.15.27:608][685]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-01.15.27:785][685]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.176 s
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: 
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: Ensure condition failed: !(bDuplicateForPIE && DupObjectInfo.DuplicatedObject->HasAnyFlags(RF_Standalone)) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2088]
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: 
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: Stack: 
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff772a5869 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff771ebb8f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff771eae3e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5c90c238 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5dec27e7 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5c908bb3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5c92ab24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5c942c7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5c41fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fff5cc3c836 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007ff7ed076bb1 UE4Editor.exe!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007ff7ed08554c UE4Editor.exe!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007ff7ed0855ca UE4Editor.exe!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007ff7ed09316c UE4Editor.exe!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007ff7ed095b8e UE4Editor.exe!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fffa2642784 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: [Callstack] 0x00007fffa2d00c31 ntdll.dll!UnknownFunction []
+[2019.11.21-01.15.27:785][685]LogOutputDevice: Error: 
+[2019.11.21-01.15.27:796][685]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.21-01.15.28:124][685]LogStats:                    SendNewReport -  0.328 s
+[2019.11.21-01.15.28:124][685]LogStats:             FDebug::EnsureFailed -  0.515 s
+[2019.11.21-01.15.28:125][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.701176s)
+[2019.11.21-01.15.28:126][685]LogAIModule: Creating AISystem for world level_tutorial
+[2019.11.21-01.15.28:126][685]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.11.21-01.15.28:126][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/level_tutorial.level_tutorial to /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial (0.702235s)
+[2019.11.21-01.15.28:162][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.21-01.15.28:163][685]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-01.15.28:179][685]LogInit: FAudioDevice initialized.
+[2019.11.21-01.15.28:222][685]LogLoad: Game class is 'Rand_test_C'
+[2019.11.21-01.15.28:231][685]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial up for play (max tick rate 0) at 2019.11.20-19.15.28
+[2019.11.21-01.15.28:234][685]LogWorld: Bringing up level for play took: 0.010379
+[2019.11.21-01.15.28:251][685]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.21-01.15.28:255][685]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.21-01.15.28:255][685]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.21-01.15.28:257][685]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_level_tutorial 0.492
+[2019.11.21-01.15.28:257][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.15.28:598][686]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079481 > MaxSimulationTimeStep (0.050) for 'BP_Andre_Dude2_C_0', movement 'Walking'
+[2019.11.21-01.15.36:270][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.15.36:270][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.15.36:316][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-01.15.36:316][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.15.36:349][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.15.36:400][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.11.21-01.15.36:436][152]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.21-01.15.54:302][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-01.15.57:379][305]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_Door_deny.BP_Door_deny
+[2019.11.21-01.15.57:759][306]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.783 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.21-01.16.22:187][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-01.17.02:396][844]BlueprintLog: New page: Compile BP_Door_deny
+[2019.11.21-01.17.02:632][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.11.21-01.17.03:058][861]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_Door_deny7A831CDF458EAFDD633C50805C83539D.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_Door_deny.uasset'
+[2019.11.21-01.17.05:836][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-01.17.05:853][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.05:854][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-01.17.05:854][  6]PIE: New page: PIE session: level_tutorial (Nov 20, 2019, 1:17:05 PM)
+[2019.11.21-01.17.05:854][  6]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_level_tutorial
+[2019.11.21-01.17.06:045][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190809s)
+[2019.11.21-01.17.06:045][  6]LogAIModule: Creating AISystem for world level_tutorial
+[2019.11.21-01.17.06:046][  6]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.11.21-01.17.06:046][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/level_tutorial.level_tutorial to /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial (0.191561s)
+[2019.11.21-01.17.06:076][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.11.21-01.17.06:077][  6]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-01.17.06:093][  6]LogInit: FAudioDevice initialized.
+[2019.11.21-01.17.06:120][  6]LogLoad: Game class is 'Rand_test_C'
+[2019.11.21-01.17.06:127][  6]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial up for play (max tick rate 0) at 2019.11.20-19.17.06
+[2019.11.21-01.17.06:129][  6]LogWorld: Bringing up level for play took: 0.008504
+[2019.11.21-01.17.06:143][  6]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_level_tutorial 0.376
+[2019.11.21-01.17.06:143][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.14:559][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.14:559][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.17.14:601][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-01.17.14:601][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.14:635][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.17.14:639][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.21-01.17.14:696][519]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.21-01.17.18:529][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-01.17.22:402][844]BlueprintLog: New page: Compile BP_Door_deny
+[2019.11.21-01.17.22:568][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.11.21-01.17.22:905][856]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_Door_deny0A7867DA4F6D7AD167BCC0B5167525C1.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_Door_deny.uasset'
+[2019.11.21-01.17.25:454][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-01.17.26:542][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-01.17.26:600][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-01.17.26:618][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.26:618][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-01.17.26:618][ 39]PIE: New page: PIE session: level_tutorial (Nov 20, 2019, 1:17:26 PM)
+[2019.11.21-01.17.26:618][ 39]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_level_tutorial
+[2019.11.21-01.17.26:812][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193618s)
+[2019.11.21-01.17.26:812][ 39]LogAIModule: Creating AISystem for world level_tutorial
+[2019.11.21-01.17.26:812][ 39]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.11.21-01.17.26:813][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/level_tutorial.level_tutorial to /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial (0.194274s)
+[2019.11.21-01.17.26:845][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.21-01.17.26:846][ 39]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-01.17.26:861][ 39]LogInit: FAudioDevice initialized.
+[2019.11.21-01.17.26:890][ 39]LogLoad: Game class is 'Rand_test_C'
+[2019.11.21-01.17.26:897][ 39]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial up for play (max tick rate 0) at 2019.11.20-19.17.26
+[2019.11.21-01.17.26:900][ 39]LogWorld: Bringing up level for play took: 0.009019
+[2019.11.21-01.17.26:913][ 39]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_level_tutorial 1.145
+[2019.11.21-01.17.26:913][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.36:649][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.36:649][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.17.36:693][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-01.17.36:693][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.11.21-01.17.36:738][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-01.17.36:743][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.21-01.17.36:777][632]LogPlayLevel: Display: Destroying online subsystem :Context_18
