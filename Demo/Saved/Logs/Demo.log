@@ -777,3 +777,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-00.57.01:799][173]LogSlate: Window 'BP_key' being destroyed
 [2019.11.21-00.57.01:802][173]LogSlate: Window 'BP_key' being destroyed
 [2019.11.21-00.57.01:803][173]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-01.01.57:694][761]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.21-01.04.22:685][219]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.21-01.06.08:300][656]LogSlate: Window 'Extract sprites' being destroyed
+[2019.11.21-01.06.30:218][133]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_rockDE2D6B6E427545B58843CF9BF3367C32.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/TileSets/platform_rock.uasset'
+[2019.11.21-01.06.30:408][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.21-01.06.30:442][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.21-01.06.30:466][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.21-01.06.39:248][704]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_grass_0476DFC33434E31ABE2E25CA920D724BF.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/TileSets/platform_grass_0.uasset'
+[2019.11.21-01.06.39:395][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.21-01.06.39:422][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.21-01.06.39:446][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.21-01.06.49:104][322]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_house_0B413ECB5406B93A523F264ABFBED629B.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/TileSets/platform_house_0.uasset'
+[2019.11.21-01.06.49:247][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.21-01.06.49:274][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.11.21-01.06.49:299][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.21-01.06.57:175][895]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_house_1712359654DCE198567A9A6A828702591.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Environment/TileSets/platform_house_1.uasset'
+[2019.11.21-01.06.57:321][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.21-01.06.57:349][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.21-01.06.57:375][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.21-01.07.21:406][  5]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_grass_03BBF706245459F503DFEB9A72909852F.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/platforms/platform_grass_0.uasset'
+[2019.11.21-01.07.21:439][  5]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_house_01C42D0BC49C724D7CBB4EBB9937A9954.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/platforms/platform_house_0.uasset'
+[2019.11.21-01.07.21:471][  5]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_house_1FFD8EA594207DB846EAFF58603AE4315.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/platforms/platform_house_1.uasset'
+[2019.11.21-01.07.21:504][  5]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/platform_rock5CBC7D4342FE71CB2F4CE2A07BA2B981.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Sprites/Props/platforms/platform_rock.uasset'
+[2019.11.21-01.07.21:936][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.21-01.07.21:963][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.21-01.07.21:991][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.21-01.07.22:019][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.21-01.07.22:045][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.21-01.07.22:074][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.21-01.07.24:795][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.21-01.07.26:255][153]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial8EB2947341A5C47861DB59AFF4A749EB.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.21-01.07.30:255][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.21-01.07.32:255][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
