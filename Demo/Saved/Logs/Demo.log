@@ -688,3 +688,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-00.44.13:825][192]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2019.11.21-00.44.16:837][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2019.11.21-00.44.18:286][332]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial533295624696CB7F49C0E092B4A4D947.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.21-00.45.02:163][808]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/open_door.open_door
+[2019.11.21-00.45.03:203][836]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/Door.Door
+[2019.11.21-00.45.07:163][994]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_Open_Door.BP_Open_Door
+[2019.11.21-00.45.08:698][ 46]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_door.BP_door
+[2019.11.21-00.45.29:331][129]BlueprintLog: New page: Compile BP_Open_Door
+[2019.11.21-00.45.29:507][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.21-00.45.29:950][146]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_Open_Door9B4B3D06420D2ADE09A86C90BD5986A8.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_Open_Door.uasset'
+[2019.11.21-00.45.44:569][115]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Box)  and was replaced as a Custom Event!
+[2019.11.21-00.46.12:433][112]BlueprintLog: New page: Compile BP_door
+[2019.11.21-00.46.12:609][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.21-00.46.13:006][125]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/BP_door43B15A88472C38ACC7506B9246FEB267.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/interactables/BP_door.uasset'
+[2019.11.21-00.46.24:862][698]LogSlate: Window 'BP_door' being destroyed
+[2019.11.21-00.46.24:865][698]LogSlate: Window 'BP_door' being destroyed
+[2019.11.21-00.46.24:937][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-00.46.25:003][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-00.46.25:079][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
