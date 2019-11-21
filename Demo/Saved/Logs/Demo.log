@@ -704,3 +704,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.21-00.46.24:937][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2019.11.21-00.46.25:003][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2019.11.21-00.46.25:079][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-00.47.23:906][172]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.21-00.47.24:359][220]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.21-00.47.34:445][391]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.21-00.49.36:313][865]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.21-00.51.03:750][569]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.21-00.51.07:754][ 39]Cmd: ACTOR SELECT ALL
+[2019.11.21-00.51.26:786][605]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/Door.Door
+[2019.11.21-00.51.42:863][305]LogSlate: Window 'Door' being destroyed
+[2019.11.21-00.51.42:867][305]LogSlate: Window 'Door' being destroyed
+[2019.11.21-00.51.52:292][758]Cmd: DELETE
+[2019.11.21-00.51.52:292][758]Cmd: ACTOR DELETE
+[2019.11.21-00.51.52:303][758]LogEditorActor: Deleted Actor: Door_C
+[2019.11.21-00.51.52:303][758]LogEditorActor: Deleted Actor: Door_C
+[2019.11.21-00.51.52:304][758]LogEditorActor: Deleted Actor: Door_C
+[2019.11.21-00.51.52:337][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.21-00.51.52:337][758]LogEditorActor: Deleted 3 Actors (0.045 secs)
+[2019.11.21-00.51.58:047][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-00.51.59:639][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.21-00.52.06:994][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.52.15:519][ 42]LogEditorViewport: Clicking Background
+[2019.11.21-00.52.16:528][154]LogEditorViewport: Clicking on Actor (LMB): BP_door_C (BP_door2)
+[2019.11.21-00.52.25:642][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.52.36:485][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.53.05:044][873]LogEditorViewport: Clicking Background
+[2019.11.21-00.53.12:711][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.53.12:831][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.11.21-00.53.14:315][795]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial4D72B87A4610F0D536631D8E9D455E59.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.21-00.53.36:042][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.53.36:247][138]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/interactables/BP_key.BP_key
+[2019.11.21-00.53.47:311][679]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/key_door/key_bp1.key_bp1
+[2019.11.21-00.54.09:347][890]Cmd: DELETE
+[2019.11.21-00.54.09:347][890]Cmd: ACTOR DELETE
+[2019.11.21-00.54.09:358][890]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.54.09:358][890]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.54.09:359][890]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.54.09:359][890]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.54.09:395][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.21-00.54.09:396][890]LogEditorActor: Deleted 4 Actors (0.048 secs)
+[2019.11.21-00.54.10:915][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.54.32:387][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.54.37:691][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.54.41:744][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.54.49:263][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.11:415][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.14:537][370]Cmd: DELETE
+[2019.11.21-00.55.14:537][370]Cmd: ACTOR DELETE
+[2019.11.21-00.55.14:547][370]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.55.14:548][370]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.55.14:548][370]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.55.14:549][370]LogEditorActor: Deleted Actor: key_bp1_C
+[2019.11.21-00.55.14:581][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.21-00.55.14:582][370]LogEditorActor: Deleted 4 Actors (0.044 secs)
+[2019.11.21-00.55.25:549][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.30:396][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.37:242][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.51:364][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.55.57:248][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.56.05:341][232]LogEditorViewport: Clicking Background
+[2019.11.21-00.56.06:332][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.56.08:036][383]Cmd: DELETE
+[2019.11.21-00.56.08:036][383]Cmd: ACTOR DELETE
+[2019.11.21-00.56.08:046][383]LogEditorActor: Deleted Actor: jump_pad_C
+[2019.11.21-00.56.08:047][383]LogEditorActor: Deleted Actor: jump_pad_C
+[2019.11.21-00.56.08:081][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.21-00.56.08:081][383]LogEditorActor: Deleted 2 Actors (0.045 secs)
+[2019.11.21-00.56.16:988][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.56.22:229][165]LogEditorViewport: Clicking Background
+[2019.11.21-00.56.55:782][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-00.56.55:902][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.21-00.56.57:325][ 34]LogSavePackage: Moving '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1EC7360C467AB09C48858BB8BD436D29.tmp' to '../../../../Users/TEMP.AD.001/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.11.21-00.57.01:799][173]LogSlate: Window 'BP_key' being destroyed
+[2019.11.21-00.57.01:802][173]LogSlate: Window 'BP_key' being destroyed
+[2019.11.21-00.57.01:803][173]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
