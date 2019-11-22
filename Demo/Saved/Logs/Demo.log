@@ -682,3 +682,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-16.03.43:227][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-16.04.19:008][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-16.04.23:000][ 67]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1C3D51D0145ED8A1FB5522AA00A46CA2A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.22-16.06.08:041][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-16.06.28:289][ 33]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.28:289][ 33]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.28:621][ 51]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.28:621][ 51]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.29:789][119]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.29:790][119]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.29:991][130]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.29:991][130]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:143][138]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:143][138]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:294][146]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:294][146]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:463][155]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:463][155]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:598][162]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:598][162]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:716][168]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:717][168]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.30:920][179]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.30:920][179]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.31:089][188]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.31:089][188]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.31:206][194]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.31:206][194]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.31:374][203]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.31:374][203]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.31:628][217]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.31:628][217]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.31:812][227]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.31:812][227]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.32:329][257]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.32:329][257]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.32:546][269]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.32:547][269]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.32:764][281]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.32:764][281]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.32:965][292]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.32:965][292]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.33:181][304]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.33:181][304]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.33:382][315]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.33:382][315]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.33:584][326]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.33:584][326]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.33:769][336]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.33:769][336]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.33:955][346]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.33:955][346]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:124][355]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:124][355]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:308][365]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:308][365]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:477][374]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:477][374]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:647][383]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:647][383]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:815][392]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:815][392]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.34:982][401]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.34:982][401]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.35:201][413]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.35:202][413]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.35:386][423]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.35:386][423]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.35:606][435]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.35:606][435]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.35:940][454]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.35:940][454]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.36:276][473]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.36:276][473]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.36:644][494]Cmd: TRANSACTION UNDO
+[2019.11.22-16.06.36:644][494]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-16.06.39:620][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-16.06.44:050][683]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap191657F224D0CBC64E8F14791DD533436.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.22-16.06.46:189][810]LogSlate: Window 'KnyctosTileMap1' being destroyed
+[2019.11.22-16.06.48:408][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.22-16.06.50:534][934]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial3A8D1A634B5656416BA544BC66FE3CEB.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
