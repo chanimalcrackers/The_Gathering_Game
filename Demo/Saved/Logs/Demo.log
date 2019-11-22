@@ -786,3 +786,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-02.47.32:443][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-02.47.47:552][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.22-02.47.52:326][ 30]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1937C7915499D7C0261178BBC78D21550.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.22-02.48.27:991][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.17:918][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.24:721][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.31:311][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.38:341][874]Cmd: TRANSACTION UNDO
+[2019.11.22-02.49.38:341][874]LogEditorTransaction: Undo Tile Paint Bucket
+[2019.11.22-02.49.40:150][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.50.37:183][345]Cmd: TRANSACTION UNDO
+[2019.11.22-02.50.37:183][345]LogEditorTransaction: Undo Tile Painting
+[2019.11.22-02.52.19:571][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.52.53:530][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.53.01:066][286]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap12F472D8A46E9C4DA327957AC9A0225B2.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.22-02.53.08:681][354]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1632209134CBFB983CFF77F94F05E27B7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
