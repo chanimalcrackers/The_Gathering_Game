@@ -711,3 +711,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.25-14.24.34:888][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.25-14.24.50:473][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.25-14.24.55:443][130]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1A44CB79147B2D736E1EE56A826CEBEF9.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.25-14.26.30:860][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-14.26.33:917][  0]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap13B049D3748D548D1BE2EA3842296D2B4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.25-14.26.35:071][ 68]LogSlate: Window 'KnyctosTileMap1' being destroyed
+[2019.11.25-14.26.35:077][ 68]LogSlate: Window 'KnyctosTileMap1' being destroyed
