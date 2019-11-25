@@ -737,3 +737,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.25-16.34.54:489][674]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/MenuGameModeE13CA193420EC597832A019AD2104A55.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/MenuGameMode.uasset'
 [2019.11.25-16.35.47:217][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2019.11.25-16.35.47:387][102]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_MapFCFB42414430D35509A7E199E0C50880.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
+[2019.11.25-16.41.31:708][650]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.11.25-16.41.32:609][650]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.25-16.41.49:284][625]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.25-16.41.49:288][625]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.25-16.41.55:361][816]LogTemp: Repeating last play command: Standalone Game
+[2019.11.25-16.41.55:454][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.11.25-16.42.10:944][ 58]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.11.25-16.42.25:880][854]LogEditorTransaction: Undo Move Widgets
+[2019.11.25-16.42.34:190][350]LogSlate: Window 'Main_Menu' being destroyed
+[2019.11.25-16.42.36:003][455]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.11.25-16.42.38:379][575]LogEditorTransaction: Undo Edit Game Default Map
+[2019.11.25-16.42.40:512][703]BlueprintLog: New page: Compile Main_Menu
+[2019.11.25-16.42.40:740][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.11.25-16.42.41:264][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
+[2019.11.25-16.42.41:296][733]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_MenuCFDFB7BD4CB1975107093CB758673EC4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
+[2019.11.25-16.42.41:886][768]LogSlate: Window 'Main_Menu' being destroyed
+[2019.11.25-16.42.42:636][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.25-16.42.42:796][808]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_Map78D6EF2443339FABACB6ABA069D0D00A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
