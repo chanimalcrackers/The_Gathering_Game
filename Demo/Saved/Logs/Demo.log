@@ -702,3 +702,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.25-16.21.19:109][936]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap105F94572444D7D1A27120295A85E2A88.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
 [2019.11.25-16.21.46:084][248]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1FB14F78A413DD29BB206738DB7694907.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
 [2019.11.25-16.21.47:172][311]LogSlate: Window 'KnyctosTileMap1' being destroyed
+[2019.11.25-16.24.49:986][421]LogEditorViewport: Clicking Background
+[2019.11.25-16.24.52:776][586]LogEditorViewport: Clicking Background
+[2019.11.25-16.24.56:529][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-16.24.57:621][876]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.11.25-16.24.57:879][876]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.25-16.24.58:617][876]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.11.25-16.25.01:280][  4]LogSlate: Took 0.001318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.25-16.27.39:949][ 48]LogEditorTransaction: Undo Resize Node
+[2019.11.25-16.27.50:795][695]BlueprintLog: New page: Compile Main_Menu
+[2019.11.25-16.27.50:858][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.11.25-16.27.51:597][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
+[2019.11.25-16.27.51:630][738]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu8F492D334B78BAD43E9B0BAA2413CDAF.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
+[2019.11.25-16.27.53:919][873]LogSlate: Window 'Main_Menu' being destroyed
+[2019.11.25-16.27.55:514][966]LogTemp: Repeating last play command: Standalone Game
+[2019.11.25-16.27.55:591][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.11.25-16.28.05:398][ 97]LogTemp: Repeating last play command: Standalone Game
+[2019.11.25-16.28.05:459][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.25-16.34.25:311][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.25-16.34.42:812][112]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2019.11.25-16.34.42:835][112]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/menu/MenuGameMode.MenuGameMode
+[2019.11.25-16.34.46:359][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.25-16.34.46:427][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.11.25-16.34.46:427][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/menu/Main_Menu_Map' took 0.033
+[2019.11.25-16.34.46:428][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/menu/MenuGameMode] ([1] browsable assets)...
+[2019.11.25-16.34.46:428][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/menu/MenuGameMode]
+[2019.11.25-16.34.46:440][290]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/MenuGameMode_Auto1C9010FCD414A9B7CBA10389960D13DB4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/menu/MenuGameMode_Auto1.uasset'
+[2019.11.25-16.34.46:441][290]LogFileHelpers: Auto-saving content packages took 0.014
+[2019.11.25-16.34.50:550][536]LogSlate: Window 'MenuGameMode' being destroyed
+[2019.11.25-16.34.52:916][674]LogTemp: Repeating last play command: Standalone Game
+[2019.11.25-16.34.52:975][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.25-16.34.54:461][674]LogSlate: Window 'Save Content' being destroyed
+[2019.11.25-16.34.54:476][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/MenuGameMode" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/MenuGameMode.uasset" SILENT=true
+[2019.11.25-16.34.54:489][674]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/MenuGameModeE13CA193420EC597832A019AD2104A55.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/MenuGameMode.uasset'
+[2019.11.25-16.35.47:217][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.11.25-16.35.47:387][102]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_MapFCFB42414430D35509A7E199E0C50880.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
