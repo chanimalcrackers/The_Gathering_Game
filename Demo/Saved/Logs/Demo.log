@@ -717,3 +717,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-00.29.03:290][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
 [2019.11.26-00.29.03:316][955]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu55B680FA41F6E06F6238E39D822629D1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
 [2019.11.26-00.29.04:087][999]LogSlate: Window 'Main_Menu' being destroyed
+[2019.11.26-00.30.51:399][748]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.11.26-00.30.51:426][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.11.26-00.30.51:427][748]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-00.30.51:427][748]LightingResults: New page: Lighting Build
+[2019.11.26-00.30.51:428][748]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.11.26-00.30.51:428][748]MapCheck: New page: Map Check
+[2019.11.26-00.30.51:428][748]LightingResults: New page: Lighting Build
+[2019.11.26-00.30.51:459][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.11.26-00.30.51:469][748]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.11.26-00.30.51:471][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-00.30.51:502][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.11.26-00.30.51:545][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-00.30.51:546][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2019.11.26-00.30.51:547][748]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.121
+[2019.11.26-00.30.54:418][ 77]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map:PersistentLevel.Main_Menu_Map
+[2019.11.26-00.31.10:793][901]LogSlate: Window 'Main_Menu_Map' being destroyed
+[2019.11.26-00.39.28:749][565]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap1.KnyctosTileMap1
+[2019.11.26-00.39.37:352][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.39.59:417][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.40.28:368][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.40.37:731][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.41.21:752][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.26-00.41.21:752][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/menu/Main_Menu_Map' took 0.030
+[2019.11.26-00.41.21:753][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Sprites/Environment/KnyctosTileMap1] ([1] browsable assets)...
+[2019.11.26-00.41.21:753][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Environment/KnyctosTileMap1]
+[2019.11.26-00.41.24:610][902]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1_Auto278DCB66A45D9B7D07A34FBA89403C769.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Environment/KnyctosTileMap1_Auto2.uasset'
+[2019.11.26-00.41.24:620][902]LogFileHelpers: Auto-saving content packages took 2.868
+[2019.11.26-00.44.03:577][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.44.06:232][169]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap10024747E479B51ACACA927A877B461D5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.26-00.44.12:367][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.44.55:385][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.45.53:791][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.46.04:163][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.46.25:056][ 56]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.25:057][ 56]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.25:292][ 74]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.25:293][ 74]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.25:539][ 91]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.25:539][ 91]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.38:348][501]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.38:348][501]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.38:726][531]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.38:726][531]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.43:878][ 90]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.43:878][ 90]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.46.44:204][114]Cmd: TRANSACTION UNDO
+[2019.11.26-00.46.44:204][114]LogEditorTransaction: Undo Tile Painting
+[2019.11.26-00.49.21:174][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-00.49.25:014][747]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1CC73CC534BF5D6BE957CBFB32303DF5A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.26-00.49.34:451][810]LogSlate: Window 'KnyctosTileMap1' being destroyed
