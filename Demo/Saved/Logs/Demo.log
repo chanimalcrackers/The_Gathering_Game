@@ -664,3 +664,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-00.14.33:812][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.26-00.15.05:158][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.26-00.15.08:204][841]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap1565930FE4DC0B5C0156CFEA7B6F237DA.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap1.uasset'
+[2019.11.26-00.16.09:844][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/GameModes/Andre_GameMode2.Andre_GameMode2
+[2019.11.26-00.16.28:744][ 91]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/menu/MenuGameMode.MenuGameMode
+[2019.11.26-00.18.23:886][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.11.26-00.18.24:463][933]LogSlate: Took 0.013586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.26-00.21.57:760][406]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.11.26-00.21.57:760][406]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial' took 0.067
+[2019.11.26-00.21.57:761][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/menu/Main_Menu] ([1] browsable assets)...
+[2019.11.26-00.21.57:761][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/menu/Main_Menu]
+[2019.11.26-00.21.57:791][406]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_Auto1E85EF48D48E77FDB611FD89D344A4199.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/menu/Main_Menu_Auto1.uasset'
+[2019.11.26-00.21.57:792][406]LogFileHelpers: Auto-saving content packages took 0.032
+[2019.11.26-00.24.44:224][334]BlueprintLog: New page: Compile Main_Menu
+[2019.11.26-00.24.44:268][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.26-00.24.50:800][720]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.26-00.24.51:649][767]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.26-00.24.52:831][834]LogSlate: Window 'Main_Menu' being destroyed
+[2019.11.26-00.24.58:386][159]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.11.26-00.24.58:388][159]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.11.26-00.24.58:444][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.11.26-00.25.00:686][159]LogSlate: Window 'Save Content' being destroyed
+[2019.11.26-00.25.00:694][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
+[2019.11.26-00.25.00:720][159]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu48318CA14FD09A9B8AC11C91E0D806B7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
+[2019.11.26-00.25.00:723][159]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-00.25.00:723][159]LightingResults: New page: Lighting Build
+[2019.11.26-00.25.00:724][159]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.11.26-00.25.00:726][159]MapCheck: New page: Map Check
+[2019.11.26-00.25.00:726][159]LightingResults: New page: Lighting Build
+[2019.11.26-00.25.00:771][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.26-00.25.00:778][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-00.25.00:806][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.26-00.25.00:845][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-00.25.00:846][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2019.11.26-00.25.00:846][159]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.124
+[2019.11.26-00.25.03:711][321]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map:PersistentLevel.Main_Menu_Map
+[2019.11.26-00.26.27:510][807]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.11.26-00.27.36:399][885]BlueprintLog: New page: Compile Main_Menu_Map
+[2019.11.26-00.27.36:585][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.26-00.27.37:260][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.26-00.27.37:437][922]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_MapF0B93205412E756111747696CE5F9137.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
+[2019.11.26-00.27.37:483][922]LogFileHelpers: Saving map 'Main_Menu_Map' took 0.258
+[2019.11.26-00.28.05:176][542]BlueprintLog: New page: Compile Main_Menu_Map
+[2019.11.26-00.28.05:342][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.26-00.28.05:820][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.26-00.28.05:982][567]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_MapA51534A24E17B1FAF462DE8ABA7A9528.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
+[2019.11.26-00.28.06:028][567]LogFileHelpers: Saving map 'Main_Menu_Map' took 0.241
+[2019.11.26-00.28.11:840][912]LogSlate: Window 'Main_Menu_Map' being destroyed
+[2019.11.26-00.28.13:333][998]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.11.26-00.28.53:954][410]BlueprintLog: New page: Compile Main_Menu
+[2019.11.26-00.28.54:127][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.26-00.28.54:632][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
+[2019.11.26-00.28.54:662][439]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu16C22F3647991B9B640239B521A26C39.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
+[2019.11.26-00.29.03:290][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/Main_Menu" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset" SILENT=true
+[2019.11.26-00.29.03:316][955]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu55B680FA41F6E06F6238E39D822629D1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu.uasset'
+[2019.11.26-00.29.04:087][999]LogSlate: Window 'Main_Menu' being destroyed
