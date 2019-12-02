@@ -775,3 +775,139 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.02-15.07.06:586][621]LogEditorTransaction: Undo Tile Painting
 [2019.12.02-15.07.30:517][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.02-15.07.35:607][ 46]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap27546EB9A40DD82521E2BE195BD91520F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap2.uasset'
+[2019.12.02-15.10.01:651][917]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap2E0C7BB1D4DE1DCEDFE960596483EE9B0.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap2.uasset'
+[2019.12.02-15.22.29:876][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.22.56:981][437]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap24029CBF14E2DEFD6A5B49581CC64F778.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap2.uasset'
+[2019.12.02-15.23.01:501][705]LogSlate: Window 'KnyctosTileMap2' being destroyed
+[2019.12.02-15.24.24:441][423]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\The_Gathering_Game\Art Assets\Background_Environment\Tileset_Update_ver.2.png)
+[2019.12.02-15.24.24:455][423]LogTexture: Display: Building textures: Tileset_Update_ver_2 (AutoDXT, 384X480)
+[2019.12.02-15.24.29:216][696]LogTexture: Display: Building textures: Tileset_Update_ver_2 (BGRA8, 384X480)
+[2019.12.02-15.24.36:075][ 99]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Demo/Sprites/Tileset_Update_ver_2_TileSet.Tileset_Update_ver_2_TileSet
+[2019.12.02-15.24.36:217][ 99]LogRenderer: Reallocating scene render targets to support 1916x960 Format 10 NumSamples 1 (Frame:1).
+[2019.12.02-15.25.44:841][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.02-15.25.44:842][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial1' took 0.043
+[2019.12.02-15.25.44:843][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Tileset_Update_ver_2] ([1] browsable assets)...
+[2019.12.02-15.25.44:851][191]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Demo/Sprites/Tileset_Update_ver_2.Tileset_Update_ver_2]
+[2019.12.02-15.25.44:851][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Tileset_Update_ver_2]
+[2019.12.02-15.25.44:876][191]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Tileset_Update_ver_2_Auto1A4A896BA42371551D0CBFEB644954B5F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Tileset_Update_ver_2_Auto1.uasset'
+[2019.12.02-15.25.44:877][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Sprites/Tileset_Update_ver_2_TileSet] ([1] browsable assets)...
+[2019.12.02-15.25.44:890][191]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Demo/Sprites/Tileset_Update_ver_2_TileSet.Tileset_Update_ver_2_TileSet]
+[2019.12.02-15.25.44:890][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Sprites/Tileset_Update_ver_2_TileSet]
+[2019.12.02-15.25.44:925][191]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Tileset_Update_ver_2_TileSet_AutBF7CDE604D757B7E1DFB40826A15F277.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Sprites/Tileset_Update_ver_2_TileSet_Auto1.uasset'
+[2019.12.02-15.25.44:927][191]LogFileHelpers: Auto-saving content packages took 0.084
+[2019.12.02-15.28.54:843][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.29.36:314][815]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Tileset_Update_ver_2_TileSet0E0CC25A422F5633B05604AEE35E62A1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Tileset_Update_ver_2_TileSet.uasset'
+[2019.12.02-15.29.37:442][881]LogSlate: Window 'Tileset_Update_ver_2_TileSet' being destroyed
+[2019.12.02-15.29.39:061][973]LogEditorViewport: Clicking on Actor (LMB): jump_pad_C (jump_pad3)
+[2019.12.02-15.29.49:261][560]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B14)
+[2019.12.02-15.30.36:646][393]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.30.38:361][490]LogEditorViewport: Clicking Background
+[2019.12.02-15.30.39:512][556]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.30.40:177][591]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.30.40:214][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.30.41:135][646]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-15.30.41:140][646]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap2.KnyctosTileMap2
+[2019.12.02-15.32.52:688][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.32.52:772][487]LogSlate: Window 'KnyctosTileMap2' being destroyed
+[2019.12.02-15.32.54:468][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.32.56:277][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform_long.Platform_long
+[2019.12.02-15.32.56:550][691]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.02-15.32.59:858][829]LogSlate: Took 0.005039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.02-15.34.42:098][955]LogSlate: Window 'Platform_long' being destroyed
+[2019.12.02-15.34.45:484][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.34.45:642][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform_long.Platform_long
+[2019.12.02-15.35.02:106][124]LogEditorTransaction: Undo Mouse Drag
+[2019.12.02-15.35.03:360][197]LogEditorTransaction: Undo Add Key(s)
+[2019.12.02-15.35.09:583][568]LogSlate: Window 'Platform_long' being destroyed
+[2019.12.02-15.35.11:643][685]LogEditorViewport: Clicking Background
+[2019.12.02-15.35.16:564][972]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.35.17:832][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.35.19:726][153]LogEditorViewport: Clicking Background
+[2019.12.02-15.35.21:050][229]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B28)
+[2019.12.02-15.35.23:830][386]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B26)
+[2019.12.02-15.35.27:671][609]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.35.28:826][672]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B30)
+[2019.12.02-15.35.30:805][787]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.35.33:138][919]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B27)
+[2019.12.02-15.35.33:983][965]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B26)
+[2019.12.02-15.35.35:318][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B28)
+[2019.12.02-15.35.36:375][102]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B29)
+[2019.12.02-15.35.37:464][164]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.35.40:103][312]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B31)
+[2019.12.02-15.35.41:207][375]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B32)
+[2019.12.02-15.35.42:180][430]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B33)
+[2019.12.02-15.35.43:103][482]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B34)
+[2019.12.02-15.35.44:342][552]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B41)
+[2019.12.02-15.35.45:401][611]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B43)
+[2019.12.02-15.35.46:526][675]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B42)
+[2019.12.02-15.35.47:558][733]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B44)
+[2019.12.02-15.35.48:668][796]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B35)
+[2019.12.02-15.35.49:907][867]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B36)
+[2019.12.02-15.35.50:630][907]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B37)
+[2019.12.02-15.35.51:648][965]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B38)
+[2019.12.02-15.35.52:387][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B39)
+[2019.12.02-15.35.53:059][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B40)
+[2019.12.02-15.36.04:087][668]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.04:167][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.36.07:026][836]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.07:515][862]Cmd: TRANSACTION UNDO
+[2019.12.02-15.36.07:515][862]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.02-15.36.07:963][888]Cmd: TRANSACTION UNDO
+[2019.12.02-15.36.07:963][888]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.12.02-15.36.09:938][  4]LogEditorViewport: Clicking on Actor (context menu): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B30)
+[2019.12.02-15.36.09:981][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.36.14:132][248]LogEditorViewport: Clicking Background
+[2019.12.02-15.36.17:231][429]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.18:520][500]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.19:975][584]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.21:322][661]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.21:366][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.36.22:095][705]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.36.23:584][786]LogEditorViewport: Clicking Background
+[2019.12.02-15.36.47:891][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.36.47:959][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.02-15.36.48:332][240]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1_Auto2AFB1E6314D3DED558C08899E8598B300.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/level_tutorial1_Auto2.umap'
+[2019.12.02-15.36.48:335][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial1' took 0.432
+[2019.12.02-15.36.48:335][240]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.432
+[2019.12.02-15.36.48:337][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/Platform_long] ([1] browsable assets)...
+[2019.12.02-15.36.48:337][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/Platform_long]
+[2019.12.02-15.36.48:367][240]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Platform_long_Auto2C21F276F481F091350717F96B5F01F9B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Demo/Blueprint/Platform_long_Auto2.uasset'
+[2019.12.02-15.36.48:368][240]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.12.02-15.37.54:362][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.37.54:535][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform_long.Platform_long
+[2019.12.02-15.38.23:062][318]LogSlate: Window 'Platform_long' being destroyed
+[2019.12.02-15.38.28:727][646]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.38.29:747][702]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-15.38.30:544][747]LogEditorViewport: Clicking on Actor (LMB): BP_enmy_buffWolf2_C (BP_enmy_buffWolf)
+[2019.12.02-15.38.35:497][ 27]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B12)
+[2019.12.02-15.38.40:190][300]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B13)
+[2019.12.02-15.38.41:370][367]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B14)
+[2019.12.02-15.38.42:407][426]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B15)
+[2019.12.02-15.38.43:271][474]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B16)
+[2019.12.02-15.38.44:790][561]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B17)
+[2019.12.02-15.38.45:652][609]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B18)
+[2019.12.02-15.38.46:721][670]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B19)
+[2019.12.02-15.38.47:914][738]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B20)
+[2019.12.02-15.38.48:919][795]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B21)
+[2019.12.02-15.38.49:941][853]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B22)
+[2019.12.02-15.38.51:116][920]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B23)
+[2019.12.02-15.38.52:173][980]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B24)
+[2019.12.02-15.38.59:912][439]LogEditorViewport: Clicking on Actor (context menu): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B23)
+[2019.12.02-15.38.59:960][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.40.16:456][987]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B74)
+[2019.12.02-15.40.21:271][261]Cmd: TRANSACTION UNDO
+[2019.12.02-15.40.21:271][261]LogEditorTransaction: Undo Move Actors
+[2019.12.02-15.40.24:673][455]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B76)
+[2019.12.02-15.40.26:032][533]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B75)
+[2019.12.02-15.40.27:504][618]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B73)
+[2019.12.02-15.40.28:458][672]LogEditorViewport: Clicking on Actor (context menu): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B73)
+[2019.12.02-15.40.28:494][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.40.34:500][ 25]LogEditorViewport: Clicking on Actor (LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B77)
+[2019.12.02-15.40.35:410][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B78)
+[2019.12.02-15.40.36:564][142]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B79)
+[2019.12.02-15.40.37:358][186]LogEditorViewport: Clicking on Actor (CTRL LMB): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B80)
+[2019.12.02-15.40.38:108][228]LogEditorViewport: Clicking on Actor (context menu): game_spikes_wood_Sprite_B1_C (game_spikes_wood_Sprite_B80)
+[2019.12.02-15.40.38:154][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-15.40.51:107][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.40.51:235][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.02-15.40.51:581][  0]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial114DF92AE496E7D68EFA6D598BCA0E9CA.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
