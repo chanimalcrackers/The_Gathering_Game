@@ -713,3 +713,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.02-14.38.09:253][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.02-14.38.09:391][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2019.12.02-14.38.09:691][220]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1B824DFCA4135FF447B1BF8843115444C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.02-14.38.42:813][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.38.43:941][531]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap2.KnyctosTileMap2
+[2019.12.02-14.38.54:529][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.39.03:363][673]LogSlate: Window 'KnyctosTileMap2' being destroyed
+[2019.12.02-14.39.04:465][734]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.02-14.39.11:995][180]LogEditorViewport: Clicking Background
+[2019.12.02-14.39.26:087][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-14.40.35:401][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-14.40.39:098][363]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0003 seconds. Added 15 classes and 2 folders.
+[2019.12.02-14.40.39:106][363]LogInit: Transaction tracking system initialized
+[2019.12.02-14.40.39:107][363]EditorErrors: New page: Matinee Initialization
+[2019.12.02-14.40.48:438][913]LogSlate: Window 'MatineeActor' being destroyed
+[2019.12.02-14.40.58:962][538]Cmd: DELETE
+[2019.12.02-14.40.58:962][538]Cmd: ACTOR DELETE
+[2019.12.02-14.40.58:977][538]LogEditorActor: Deleted Actor: MatineeActor
+[2019.12.02-14.40.59:002][538]LogExit: Transaction tracking system shut down
+[2019.12.02-14.40.59:004][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.02-14.40.59:005][538]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.02-14.41.18:603][691]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-14.41.19:379][732]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-14.41.19:420][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-14.41.38:525][878]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-14.41.38:534][878]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap2.KnyctosTileMap2
+[2019.12.02-14.41.47:422][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.47.32:795][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.47.36:211][290]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap252A946364E85EBFE32BC0188D4B05925.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap2.uasset'
+[2019.12.02-14.47.36:607][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.47.36:747][320]LogSlate: Window 'KnyctosTileMap2' being destroyed
+[2019.12.02-14.47.37:970][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.47.38:086][396]LogTemp: Repeating last play command: Standalone Game
+[2019.12.02-14.47.38:133][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.02-14.47.39:706][396]LogSlate: Window 'Save Content' being destroyed
+[2019.12.02-14.47.39:715][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-14.47.39:745][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.12.02-14.47.40:037][396]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial16B848CA640E2AA59910BD8B4DA3B402C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.02-14.47.40:085][396]LogFileHelpers: Saving map 'level_tutorial1' took 0.365
+[2019.12.02-14.50.40:317][118]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap2)
+[2019.12.02-14.50.40:377][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.02-14.50.41:307][173]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.02-14.50.41:313][173]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap2.KnyctosTileMap2
+[2019.12.02-14.50.47:665][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.51.20:504][496]Cmd: TRANSACTION UNDO
+[2019.12.02-14.51.20:504][496]LogEditorTransaction: Undo Tile Painting
+[2019.12.02-14.52.49:324][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.52.49:851][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.57.38:403][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.02-14.57.38:403][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial1' took 0.025
+[2019.12.02-14.57.44:015][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-14.59.42:064][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.00.04:098][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.00.38:661][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.00.49:150][458]Cmd: TRANSACTION UNDO
+[2019.12.02-15.00.49:150][458]LogEditorTransaction: Undo Tile Paint Bucket
+[2019.12.02-15.00.51:912][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.05.12:669][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.05.15:227][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.05.27:751][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.05.50:167][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.07.06:585][621]Cmd: TRANSACTION UNDO
+[2019.12.02-15.07.06:586][621]LogEditorTransaction: Undo Tile Painting
+[2019.12.02-15.07.30:517][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-15.07.35:607][ 46]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap27546EB9A40DD82521E2BE195BD91520F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap2.uasset'
