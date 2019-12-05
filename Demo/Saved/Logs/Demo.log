@@ -824,3 +824,215 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-19.10.00:444][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.05-19.10.00:561][426]LogSlate: Window 'P_Sparks' being destroyed
 [2019.12.05-19.10.00:565][426]LogCascade: Quitting Cascade. FXSystem=0x00000211373D4DC0
+[2019.12.05-19.13.42:376][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.05-19.13.44:889][265]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.05-19.13.45:804][320]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks2)
+[2019.12.05-19.13.46:309][349]Cmd: DELETE
+[2019.12.05-19.13.46:309][349]Cmd: ACTOR DELETE
+[2019.12.05-19.13.46:320][349]LogEditorActor: Deleted Actor: Emitter
+[2019.12.05-19.13.46:349][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.12.05-19.13.46:349][349]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.12.05-19.13.47:139][396]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks)
+[2019.12.05-19.13.47:460][413]Cmd: DELETE
+[2019.12.05-19.13.47:460][413]Cmd: ACTOR DELETE
+[2019.12.05-19.13.47:461][413]LogEditorActor: Deleted Actor: Emitter
+[2019.12.05-19.13.47:488][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.05-19.13.47:489][413]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.12.05-19.13.48:292][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.13.48:326][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2019.12.05-19.13.48:326][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2019.12.05-19.13.48:326][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading NULL.
+[2019.12.05-19.13.48:327][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2019.12.05-19.13.48:328][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2019.12.05-19.13.48:329][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading NULL.
+[2019.12.05-19.13.48:329][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.48:329][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.48:332][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.48:332][463]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2019.12.05-19.13.48:332][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.48:332][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2019.12.05-19.13.48:332][463]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2019.12.05-19.13.48:332][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_radial_ramp'
+[2019.12.05-19.13.48:333][463]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp Referenced by ParticleModuleRequired_3
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_radial_ramp' while loading NULL.
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2019.12.05-19.13.48:333][463]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2019.12.05-19.13.48:333][463]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2019.12.05-19.13.48:333][463]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2019.12.05-19.13.50:087][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.13.50:371][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2019.12.05-19.13.50:371][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading NULL.
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.50:372][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading NULL.
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.50:373][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.50:378][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Heat_Distortion'
+[2019.12.05-19.13.50:378][584]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion Referenced by ParticleModuleRequired_0
+[2019.12.05-19.13.50:378][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Heat_Distortion' while loading NULL.
+[2019.12.05-19.13.50:378][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.13.50:378][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.13.50:379][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2019.12.05-19.13.50:379][584]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV Referenced by ParticleModuleRequired_2
+[2019.12.05-19.13.50:379][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2019.12.05-19.13.50:379][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.13.50:379][584]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_3
+[2019.12.05-19.13.50:379][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.13.50:379][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.13.50:380][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.13.50:380][584]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Fire_SubUV'
+[2019.12.05-19.13.50:380][584]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV Referenced by ParticleModuleRequired_5
+[2019.12.05-19.13.50:380][584]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Fire_SubUV' while loading NULL.
+[2019.12.05-19.13.53:141][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.13.53:240][754]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-19.13.53:287][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.05-19.13.54:400][754]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-19.13.54:446][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.05-19.13.54:600][754]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryA8970EA04E9254B7C146CB90BC945D46.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.05-19.13.54:653][754]LogFileHelpers: Saving map 'Victory' took 0.237
+[2019.12.05-19.13.54:660][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particle/P_Sparks" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Particle/P_Sparks.uasset" SILENT=true
+[2019.12.05-19.13.54:697][754]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/P_Sparks9EEE15734D3EAE402A23E7967F399522.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Particle/P_Sparks.uasset'
+[2019.12.05-19.17.34:268][149]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.05-19.17.38:484][376]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.05-19.17.43:975][685]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.12.05-19.17.44:124][685]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.12.05-19.17.44:156][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.05-19.17.44:169][685]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-19.17.44:169][685]LightingResults: New page: Lighting Build
+[2019.12.05-19.17.44:170][685]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.12.05-19.17.44:170][685]MapCheck: New page: Map Check
+[2019.12.05-19.17.44:170][685]LightingResults: New page: Lighting Build
+[2019.12.05-19.17.44:195][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.05-19.17.44:197][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-19.17.44:223][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.05-19.17.44:267][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-19.17.44:268][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.12.05-19.17.44:268][685]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.112
+[2019.12.05-19.17.49:364][986]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map:PersistentLevel.Main_Menu_Map
+[2019.12.05-19.18.06:169][971]LogSlate: Window 'Main_Menu_Map' being destroyed
+[2019.12.05-19.18.11:798][305]LogAIModule: Creating AISystem for world Victory
+[2019.12.05-19.18.11:800][305]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/Victory/Victory.Victory
+[2019.12.05-19.18.11:828][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.05-19.18.11:829][305]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-19.18.11:829][305]LightingResults: New page: Lighting Build
+[2019.12.05-19.18.11:830][305]LoadErrors: New page: Loading map: Victory.umap
+[2019.12.05-19.18.11:830][305]MapCheck: New page: Map Check
+[2019.12.05-19.18.11:830][305]LightingResults: New page: Lighting Build
+[2019.12.05-19.18.11:861][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.05-19.18.11:863][305]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-19.18.11:894][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.05-19.18.11:939][305]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-19.18.11:940][305]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2019.12.05-19.18.11:940][305]LogFileHelpers: Loading map 'Victory' took 0.111
+[2019.12.05-19.18.12:939][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.18.15:505][511]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/Levels/Victory/Victory.Victory:PersistentLevel.Victory
+[2019.12.05-19.18.47:660][380]LogEditorTransaction: Undo Add Node
+[2019.12.05-19.18.48:073][404]LogEditorTransaction: Undo Delete current selection
+[2019.12.05-19.18.48:970][457]LogEditorTransaction: Undo Move Node
+[2019.12.05-19.18.49:329][478]LogEditorTransaction: Undo Add Node
+[2019.12.05-19.18.49:769][504]LogEditorTransaction: Undo Delete current selection
+[2019.12.05-19.28.11:986][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.05-19.28.12:177][223]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Auto3DA586B844D019F61AC240DB53A3E4AA2.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/Victory/Victory_Auto3.umap'
+[2019.12.05-19.28.12:188][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/Victory/Victory' took 0.239
+[2019.12.05-19.28.12:188][223]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2019.12.05-19.37.49:460][828]BlueprintLog: New page: Compile Victory
+[2019.12.05-19.37.49:651][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.05-19.38.01:684][528]BlueprintLog: New page: Compile Victory
+[2019.12.05-19.38.01:872][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.05-19.38.02:376][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.05-19.38.02:568][555]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory967C7193496DFEF2A7C965A08E2A8B54.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.05-19.38.02:617][555]LogFileHelpers: Saving map 'Victory' took 0.276
+[2019.12.05-19.38.03:215][589]LogSlate: Window 'Victory' being destroyed
+[2019.12.05-19.38.04:423][659]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-19.38.04:487][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.05-19.38.20:987][ 74]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion2)
+[2019.12.05-19.48.02:466][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.05-19.48.02:654][944]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Auto4275A534E4E2015CDF3162E81A31A9E40.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/Victory/Victory_Auto4.umap'
+[2019.12.05-19.48.02:657][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/Victory/Victory' took 0.218
+[2019.12.05-19.48.02:657][944]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.218
+[2019.12.05-21.30.52:289][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.30.52:356][505]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-21.30.52:409][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.05-21.30.53:672][505]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-21.30.53:721][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.05-21.30.53:902][505]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory388FD03149A9433BFBA785B513C76771.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.05-21.30.53:951][505]LogFileHelpers: Saving map 'Victory' took 0.263
+[2019.12.05-21.31.12:216][195]LogAIModule: Creating AISystem for world level_tutorial1
+[2019.12.05-21.31.12:246][195]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/level_tutorial1.level_tutorial1
+[2019.12.05-21.31.12:278][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.05-21.31.12:280][195]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-21.31.12:280][195]LightingResults: New page: Lighting Build
+[2019.12.05-21.31.12:280][195]LoadErrors: New page: Loading map: level_tutorial1.umap
+[2019.12.05-21.31.12:281][195]MapCheck: New page: Map Check
+[2019.12.05-21.31.12:281][195]LightingResults: New page: Lighting Build
+[2019.12.05-21.31.12:310][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.05-21.31.12:347][195]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-21.31.12:382][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.05-21.31.12:422][195]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-21.31.12:422][195]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.12.05-21.31.12:422][195]LogFileHelpers: Loading map 'level_tutorial1' took 0.143
+[2019.12.05-21.31.14:132][290]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-21.31.14:176][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.05-21.44.33:622][785]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.05-21.44.35:297][863]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.05-21.44.35:375][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-21.44.36:073][905]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-21.44.36:082][905]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.05-21.44.36:296][905]LogRenderer: Reallocating scene render targets to support 1208x960 Format 10 NumSamples 1 (Frame:1).
+[2019.12.05-21.44.43:951][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.44.53:420][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.44.58:392][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.01:644][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.05:998][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.13:954][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.28:407][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.28:493][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.05-21.45.30:185][890]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap6930859342947C067E6328B90AD2FC6E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.05-21.45.30:759][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-21.45.40:355][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.40:442][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.05-21.45.42:068][274]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap99E4A309491111E7EFB5538355502416.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.05-21.45.42:647][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-21.45.42:725][301]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.05-21.45.50:078][679]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion)
+[2019.12.05-21.46.31:812][702]LogEditorViewport: Clicking on Actor (LMB): jump_pad_C (jump_pad)
+[2019.12.05-21.46.48:208][435]LogEditorViewport: Clicking on Actor (LMB): jump_pad_C (jump_pad4)
+[2019.12.05-21.46.48:838][465]LogEditorViewport: Clicking on Actor (LMB): jump_pad_C (jump_pad4)
+[2019.12.05-21.46.49:728][509]LogEditorViewport: Clicking on Actor (LMB): jump_pad_C (jump_pad4)
+[2019.12.05-21.47.20:467][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-21.47.20:513][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.05-21.47.20:850][246]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1_Auto5F4BB4206441F8064E111F590AE24FA98.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/level_tutorial1_Auto5.umap'
+[2019.12.05-21.47.20:854][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial1' took 0.373
+[2019.12.05-21.47.20:854][246]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2019.12.05-22.00.01:005][584]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion2)
+[2019.12.05-22.00.04:155][732]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion2)
+[2019.12.05-22.00.16:167][308]LogEditorViewport: Clicking on Actor (LMB): key_bp1_C (key_bp3)
+[2019.12.05-22.00.18:904][470]LogEditorViewport: Clicking Background
+[2019.12.05-22.00.19:694][517]LogEditorViewport: Clicking on Actor (LMB): key_bp1_C (key_bp3)
+[2019.12.05-22.00.28:343][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-22.00.28:477][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.05-22.00.28:863][ 38]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1017958A74E3E0A4C93975BA904AEDAE1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
