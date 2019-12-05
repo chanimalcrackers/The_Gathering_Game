@@ -708,3 +708,194 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-01.36.27:793][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2019.12.05-01.36.27:950][ 82]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_Map4E5A0A934BDEF90E495F6C874665D1CF.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
 [2019.12.05-01.36.27:996][ 82]LogFileHelpers: Saving map 'Main_Menu_Map' took 0.228
+[2019.12.05-01.39.39:134][ 10]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.12.05-01.39.39:159][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.05-01.39.39:160][ 10]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-01.39.39:160][ 10]LightingResults: New page: Lighting Build
+[2019.12.05-01.39.39:160][ 10]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.12.05-01.39.39:161][ 10]MapCheck: New page: Map Check
+[2019.12.05-01.39.39:161][ 10]LightingResults: New page: Lighting Build
+[2019.12.05-01.39.39:187][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.05-01.39.39:196][ 10]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.12.05-01.39.39:197][ 10]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-01.39.39:225][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.05-01.39.39:268][ 10]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-01.39.39:268][ 10]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.12.05-01.39.39:269][ 10]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.110
+[2019.12.05-01.39.40:863][102]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/menu/Main_Menu.Main_Menu
+[2019.12.05-01.39.42:557][179]LogSlate: Window 'Main_Menu' being destroyed
+[2019.12.05-01.39.45:064][325]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map:PersistentLevel.Main_Menu_Map
+[2019.12.05-01.39.45:374][326]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.05-01.41.31:095][582]BlueprintLog: New page: Compile Main_Menu_Map
+[2019.12.05-01.41.31:267][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.05-01.41.31:725][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.05-01.41.31:898][606]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_MapD5A48AA94B98CE581220BEAD19CFD35E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
+[2019.12.05-01.41.31:942][606]LogFileHelpers: Saving map 'Main_Menu_Map' took 0.248
+[2019.12.05-01.41.39:052][ 31]LogSlate: Window 'Main_Menu_Map' being destroyed
+[2019.12.05-01.41.39:946][ 82]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.41.39:999][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.05-01.43.09:677][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-01.43.12:736][  8]LogAIModule: Creating AISystem for world level_tutorial1
+[2019.12.05-01.43.12:769][  8]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/level_tutorial1.level_tutorial1
+[2019.12.05-01.43.12:803][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.05-01.43.12:804][  8]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-01.43.12:804][  8]LightingResults: New page: Lighting Build
+[2019.12.05-01.43.12:805][  8]LoadErrors: New page: Loading map: level_tutorial1.umap
+[2019.12.05-01.43.12:805][  8]MapCheck: New page: Map Check
+[2019.12.05-01.43.12:805][  8]LightingResults: New page: Lighting Build
+[2019.12.05-01.43.12:832][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.05-01.43.12:871][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-01.43.12:904][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.05-01.43.12:950][  8]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-01.43.12:950][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.12.05-01.43.12:950][  8]LogFileHelpers: Loading map 'level_tutorial1' took 0.146
+[2019.12.05-01.43.15:628][157]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall_C (BP_trap_spike_fall)
+[2019.12.05-01.43.18:158][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-01.43.22:453][543]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rand/trap/BP_trap_spike_fall.BP_trap_spike_fall
+[2019.12.05-01.43.31:352][ 50]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Platform_long.Platform_long
+[2019.12.05-01.43.33:976][183]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2019.12.05-01.44.22:254][ 60]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1
+[2019.12.05-01.45.16:172][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1
+[2019.12.05-01.51.21:278][ 61]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.51.21:280][ 61]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.51.21:473][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.05-01.51.21:477][ 61]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [0972.75] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 199 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.51.22:111][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.05-01.51.22:123][ 96]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.51.22:126][ 96]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [0973.40] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 4 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.51.22:484][ 96]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial189AD604943C5513A93E2998E3C2B77C5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.51.22:532][ 96]LogFileHelpers: Saving map 'level_tutorial1' took 0.455
+[2019.12.05-01.51.48:912][672]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.51.48:915][672]LogBlueprint: Error: [Compiler PersistentLevel.level_tutorial1] The type of  Object  is undetermined.  Connect something to  Cast To BP_trap_spike_fall1  to imply a specific type.
+[2019.12.05-01.51.48:915][672]LogBlueprint: Error: [Compiler PersistentLevel.level_tutorial1] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.12.05-01.51.49:109][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.05-01.51.49:115][672]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1000.39] Compile of PersistentLevel.level_tutorial1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 203 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.51.49:793][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.05-01.51.49:798][708]LogBlueprint: Error: [Compiler PersistentLevel.level_tutorial1] The type of  Object  is undetermined.  Connect something to  Cast To BP_trap_spike_fall1  to imply a specific type.
+[2019.12.05-01.51.49:799][708]LogBlueprint: Error: [Compiler PersistentLevel.level_tutorial1] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.12.05-01.51.49:800][708]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1001.07] Compile of PersistentLevel.level_tutorial1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.51.50:148][708]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial17D45BBFC493769EDEF5A90BCE1BEB8C6.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.51.50:196][708]LogFileHelpers: Saving map 'level_tutorial1' took 0.443
+[2019.12.05-01.52.00:541][322]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.52.00:543][322]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.52.00:727][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.05-01.52.00:733][322]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1012.00] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 191 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.52.16:701][279]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.52.16:703][279]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.52.16:886][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.12.05-01.52.16:892][279]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1028.16] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 191 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.52.42:036][776]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.52.42:038][776]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.52.42:234][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.05-01.52.42:239][776]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1053.51] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 203 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.53.35:524][954]LogSlate: Took 0.005867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.05-01.54.07:200][837]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.54.07:202][837]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] Cast To BP_trap_spike_fall1  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.05-01.54.07:392][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.05-01.54.07:398][837]LogBlueprint: Warning: [Compiler PersistentLevel.level_tutorial1] [1138.67] Compile of PersistentLevel.level_tutorial1 successful, but with 1 Warning(s) [in 198 ms] (/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.level_tutorial1)
+[2019.12.05-01.54.34:895][482]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.54.35:082][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.05-01.54.35:920][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.05-01.54.36:274][528]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial13B630B3A4E5F0FB0FACF468F49A5588B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.54.36:324][528]LogFileHelpers: Saving map 'level_tutorial1' took 0.442
+[2019.12.05-01.54.39:890][729]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.54.39:946][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.05-01.54.42:334][729]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-01.54.42:339][729]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.12.05-01.54.42:339][729]PIE: Warning: PIE failed because map save was canceled
+[2019.12.05-01.54.43:763][814]LogSlate: Window 'Message Log' being destroyed
+[2019.12.05-01.54.43:768][814]LogSlate: Window 'Message Log' being destroyed
+[2019.12.05-01.54.51:350][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.05-01.54.51:726][259]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1C84C568448D32CC5C0A57D8EE233346C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.54.52:586][302]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.54.52:646][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.05-01.54.54:047][302]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-01.54.54:090][302]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/BP_trap_spike_fall158ABFC1C43B381B6B8C7A4B6DD0D881A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/Traps/BP_trap_spike_fall1.uasset'
+[2019.12.05-01.54.56:375][419]LogEditorViewport: Clicking Background
+[2019.12.05-01.55.04:600][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-01.55.08:211][692]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.05-01.55.10:188][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.05-01.55.14:658][ 55]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.55.14:715][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.05-01.55.15:855][ 55]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-01.55.15:902][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.05-01.55.16:263][ 55]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1E9344AA34805EE90565FFEAE2EB81087.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.55.16:314][ 55]LogFileHelpers: Saving map 'level_tutorial1' took 0.442
+[2019.12.05-01.55.29:730][373]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.55.29:788][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.05-01.55.30:793][373]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-01.55.30:839][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.05-01.55.31:253][373]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial16D2D1DE145881B2C477D09A3BCA9B832.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.55.31:306][373]LogFileHelpers: Saving map 'level_tutorial1' took 0.496
+[2019.12.05-01.56.11:078][302]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall_C (BP_trap_spike_fall)
+[2019.12.05-01.56.17:728][689]Cmd: DELETE
+[2019.12.05-01.56.17:728][689]Cmd: ACTOR DELETE
+[2019.12.05-01.56.17:731][689]LogEditorActor: Deleted Actor: BP_trap_spike_fall_C
+[2019.12.05-01.56.17:767][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.05-01.56.17:768][689]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.12.05-01.56.18:717][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-01.56.22:469][895]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.05-01.56.27:414][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-01.56.27:513][187]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-01.56.27:568][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.05-01.56.29:521][187]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-01.56.29:569][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.05-01.56.29:945][187]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial11402A15D4F8C611312628E846CE42247.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.56.29:994][187]LogFileHelpers: Saving map 'level_tutorial1' took 0.455
+[2019.12.05-01.56.57:625][462]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall1_C (BP_trap_spike_fall1)
+[2019.12.05-01.56.59:933][598]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.05-01.57.01:690][700]Cmd: DELETE
+[2019.12.05-01.57.01:690][700]Cmd: ACTOR DELETE
+[2019.12.05-01.57.01:698][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-01.57.03:763][700]LogSlate: Window 'Message' being destroyed
+[2019.12.05-01.57.03:807][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.05-01.57.03:808][700]LogEditorActor: Deleted 0 Actors (2.118 secs)
+[2019.12.05-01.57.13:310][264]BlueprintLog: New page: Compile level_tutorial1
+[2019.12.05-01.57.13:496][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.05-01.57.13:893][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.05-01.57.14:252][284]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial161F5C34145D62456BD68898C450700CC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-01.57.14:300][284]LogFileHelpers: Saving map 'level_tutorial1' took 0.447
+[2019.12.05-01.57.18:792][538]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TriggerBox /Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.TriggerBox_1) from referencer (K2Node_ActorBoundEvent /Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1:EventGraph.K2Node_ActorBoundEvent_0).  Import failed...
+[2019.12.05-01.57.18:792][538]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Andre/Levels/level_tutorial1.level_tutorial1:PersistentLevel.TriggerBox_1"''
+[2019.12.05-01.58.59:526][528]BlueprintLog: New page: Compile BP_trap_spike_fall1
+[2019.12.05-01.58.59:528][528]LogBlueprint: Warning: [Compiler BP_trap_spike_fall1] Could not find a variable named "trap location" in 'BP_trap_spike_fall1_C'.
+Make sure 'BP_trap_spike_fall1_C' has been compiled for  Get trap location
+[2019.12.05-01.58.59:528][528]LogBlueprint: Warning: [Compiler BP_trap_spike_fall1] Could not find a variable named "start" in 'BP_trap_spike_fall1_C'.
+Make sure 'BP_trap_spike_fall1_C' has been compiled for  Get start
+[2019.12.05-01.58.59:529][528]LogBlueprint: Error: [Compiler BP_trap_spike_fall1] The property associated with  Start  could not be found in '/Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1_C'
+[2019.12.05-01.58.59:529][528]LogBlueprint: Error: [Compiler BP_trap_spike_fall1] The property associated with  Trap Location  could not be found in '/Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1_C'
+[2019.12.05-01.58.59:724][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.05-01.58.59:730][528]LogBlueprint: Warning: [Compiler BP_trap_spike_fall1] [1431.00] Compile of BP_trap_spike_fall1 failed. 2 Fatal Issue(s) 2 Warning(s) [in 204 ms] (/Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1)
+[2019.12.05-01.59.26:775][145]LogEditorTransaction: Undo Create Pin Link
+[2019.12.05-01.59.27:158][166]LogEditorTransaction: Undo Move Node
+[2019.12.05-01.59.27:686][196]LogEditorTransaction: Undo Add Node
+[2019.12.05-01.59.28:166][223]LogEditorTransaction: Undo Delete current selection
+[2019.12.05-01.59.29:114][278]LogEditorTransaction: Undo Delete current selection
+[2019.12.05-01.59.29:325][289]LogEditorTransaction: Undo Move Node
+[2019.12.05-01.59.33:109][514]BlueprintLog: New page: Compile BP_trap_spike_fall1
+[2019.12.05-01.59.33:112][514]LogBlueprint: Warning: [Compiler BP_trap_spike_fall1] Could not find a variable named "trap location" in 'BP_trap_spike_fall1_C'.
+Make sure 'BP_trap_spike_fall1_C' has been compiled for  Get trap location
+[2019.12.05-01.59.33:113][514]LogBlueprint: Error: [Compiler BP_trap_spike_fall1] The property associated with  Trap Location  could not be found in '/Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1_C'
+[2019.12.05-01.59.33:306][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.05-01.59.33:312][514]LogBlueprint: Warning: [Compiler BP_trap_spike_fall1] [1464.58] Compile of BP_trap_spike_fall1 failed. 1 Fatal Issue(s) 1 Warning(s) [in 203 ms] (/Game/Andre/BluePrints/Traps/BP_trap_spike_fall1.BP_trap_spike_fall1)
+[2019.12.05-01.59.43:250][100]LogSlate: Window 'Platform_long' being destroyed
+[2019.12.05-01.59.43:258][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.05-01.59.46:463][287]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall1_C (BP_trap_spike_fall1)
+[2019.12.05-01.59.49:933][493]Cmd: DELETE
+[2019.12.05-01.59.49:933][493]Cmd: ACTOR DELETE
+[2019.12.05-01.59.49:937][493]LogEditorActor: Deleted Actor: BP_trap_spike_fall1_C
+[2019.12.05-01.59.49:972][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.05-01.59.49:972][493]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.12.05-01.59.50:859][546]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.05-01.59.51:205][564]Cmd: DELETE
+[2019.12.05-01.59.51:205][564]Cmd: ACTOR DELETE
+[2019.12.05-01.59.51:209][564]LogEditorActor: Deleted Actor: TriggerBox
+[2019.12.05-01.59.51:238][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.05-01.59.51:239][564]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.05-01.59.56:009][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-02.00.06:381][466]Cmd: TRANSACTION UNDO
+[2019.12.05-02.00.06:381][466]LogEditorTransaction: Undo Move Actors
+[2019.12.05-02.00.07:845][553]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall_C (BP_trap_spike_fall)
+[2019.12.05-02.00.13:323][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-02.00.13:433][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.05-02.00.13:773][884]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1CDB1A3304FC8F76EDDF381AF0CB1C56B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
