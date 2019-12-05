@@ -775,3 +775,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-19.00.35:795][223]LogSlate: Window 'NewParticleSystem' being destroyed
 [2019.12.05-19.00.35:801][223]LogSlate: Window 'NewParticleSystem' being destroyed
 [2019.12.05-19.00.35:802][223]LogCascade: Quitting Cascade. FXSystem=0x00000211371859C0
+[2019.12.05-19.05.26:756][727]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.12.05-19.05.26:756][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/Victory/Victory' took 0.078
+[2019.12.05-19.05.26:757][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Andre/Levels/Victory/NewParticleSystem] ([1] browsable assets)...
+[2019.12.05-19.05.26:765][727]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Andre/Levels/Victory/NewParticleSystem.NewParticleSystem]
+[2019.12.05-19.05.26:765][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/Levels/Victory/NewParticleSystem]
+[2019.12.05-19.05.26:777][727]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.05-19.05.26:800][727]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/NewParticleSystem_Auto240B4F79B4B8E907B1933589AFA05FBC3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/Victory/NewParticleSystem_Auto2.uasset'
+[2019.12.05-19.05.26:801][727]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.12.05-19.09.08:281][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.09.08:281][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading NULL.
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.09.08:282][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.09.08:283][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.09.08:283][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.09.08:283][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2019.12.05-19.09.08:283][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading NULL.
+[2019.12.05-19.09.08:285][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Spark'
+[2019.12.05-19.09.08:285][ 14]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Spark.M_Spark Referenced by ParticleModuleRequired_0
+[2019.12.05-19.09.08:285][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Spark' while loading NULL.
+[2019.12.05-19.09.08:285][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2019.12.05-19.09.08:285][ 14]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2019.12.05-19.09.08:285][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2019.12.05-19.09.08:286][ 14]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Radial_Gradient'
+[2019.12.05-19.09.08:286][ 14]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_4
+[2019.12.05-19.09.08:286][ 14]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Radial_Gradient' while loading NULL.
+[2019.12.05-19.09.11:730][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.09.15:016][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.09.15:099][420]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-19.09.15:171][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.05-19.09.16:658][420]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-19.09.16:686][420]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/game_victory_pageA039491748FD909AC1F434993BD36312.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/game_victory_page.uasset'
+[2019.12.05-19.09.16:717][420]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/NewParticleSystemB18B63D94B7C2E9F7966E7AAB224E132.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/NewParticleSystem.uasset'
+[2019.12.05-19.09.16:747][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.12.05-19.09.16:913][420]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory84A0F6CA4897E178DF9EEB8B9F7DE66E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.05-19.09.16:970][420]LogFileHelpers: Saving map 'Victory' took 0.247
+[2019.12.05-19.09.29:335][569]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particle/P_Sparks.P_Sparks
+[2019.12.05-19.09.42:301][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.09.52:424][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.09.53:817][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.09.56:222][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.09.57:805][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.09.58:931][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.10.00:444][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.10.00:561][426]LogSlate: Window 'P_Sparks' being destroyed
+[2019.12.05-19.10.00:565][426]LogCascade: Quitting Cascade. FXSystem=0x00000211373D4DC0
