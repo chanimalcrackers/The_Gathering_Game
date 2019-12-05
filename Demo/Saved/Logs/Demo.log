@@ -1068,3 +1068,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-00.40.24:242][190]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap395D230454D96C2E2D27E0D8CF002588D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
 [2019.12.05-00.40.28:231][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.05-00.40.28:635][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.40.58:630][618]LogEditorViewport: Clicking Background
+[2019.12.05-00.41.10:052][765]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion3)
+[2019.12.05-00.41.28:764][ 28]Cmd: TRANSACTION UNDO
+[2019.12.05-00.41.28:764][ 28]LogEditorTransaction: Undo Move Actors
+[2019.12.05-00.41.29:728][123]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.41.30:745][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.41.32:325][405]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion6)
+[2019.12.05-00.41.43:519][187]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.41.45:234][350]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.41.46:481][485]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.41.47:219][559]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.41.48:414][689]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door4)
+[2019.12.05-00.42.29:800][373]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.42.30:820][470]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.42.31:447][532]LogEditorViewport: Clicking on Actor (LMB): key_bp1_C (key_bp2)
+[2019.12.05-00.42.34:839][825]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.42.37:649][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.42.37:804][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.05-00.42.38:243][ 62]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial1ADE76AEB41891A3C83D6B8A2B09CC0AC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-00.42.39:681][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-00.42.43:103][170]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap353E2FC034E39F5422730489BCCF7A253.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
+[2019.12.05-00.42.43:341][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.42.43:442][188]LogSlate: Window 'KnyctosTileMap3' being destroyed
+[2019.12.05-00.42.44:270][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.42.44:389][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.05-00.42.44:739][282]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial10A942FB041AA276FA67868ACC2F011EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
