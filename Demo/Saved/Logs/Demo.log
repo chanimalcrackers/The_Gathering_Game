@@ -1094,3 +1094,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-00.42.44:270][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.05-00.42.44:389][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2019.12.05-00.42.44:739][282]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial10A942FB041AA276FA67868ACC2F011EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
+[2019.12.05-00.43.00:967][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.43.02:206][ 91]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.12.05-00.43.02:208][ 91]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.12.05-00.43.02:231][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.12.05-00.43.02:232][ 91]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-00.43.02:233][ 91]LightingResults: New page: Lighting Build
+[2019.12.05-00.43.02:233][ 91]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.12.05-00.43.02:237][ 91]MapCheck: New page: Map Check
+[2019.12.05-00.43.02:237][ 91]LightingResults: New page: Lighting Build
+[2019.12.05-00.43.02:288][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.05-00.43.02:291][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-00.43.02:315][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.05-00.43.02:354][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-00.43.02:354][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.12.05-00.43.02:354][ 91]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.124
+[2019.12.05-00.43.13:548][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
