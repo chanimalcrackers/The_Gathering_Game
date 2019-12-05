@@ -1110,3 +1110,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-00.43.02:354][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
 [2019.12.05-00.43.02:354][ 91]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.124
 [2019.12.05-00.43.13:548][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.45.13:512][341]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\David Chan\Desktop\The_Gathering_Game\Art Assets\Menu\knyctos_title_screen.png)
+[2019.12.05-00.45.13:800][341]LogTexture: Display: Building textures: knyctos_title_screen (AutoDXT, 4800X3300)
+[2019.12.05-00.45.19:959][799]LogTexture: Display: Building textures: knyctos_title_screen (BGRA8, 4800X3300)
+[2019.12.05-00.45.22:435][ 33]LogMaterial: Display: Missing cached shader map for material knyctos_title_screen_Mat, compiling. 
+[2019.12.05-00.45.31:524][ 87]Cmd: EDCALLBACK SURFPROPS
+[2019.12.05-00.45.34:517][442]Cmd: DELETE
+[2019.12.05-00.45.34:517][442]Cmd: ACTOR DELETE
+[2019.12.05-00.45.34:519][442]LogEditorActor: Deleted Actor: Brush
+[2019.12.05-00.45.34:543][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.05-00.45.34:545][442]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.05-00.45.36:329][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.45.42:979][447]LogActorFactory: Actor Factory created Plane
+[2019.12.05-00.45.43:953][560]LogActorFactory: Actor Factory created Plane
+[2019.12.05-00.46.08:155][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.46.09:309][587]LogAIModule: Creating AISystem for world level_tutorial1
+[2019.12.05-00.46.09:337][587]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/level_tutorial1.level_tutorial1
+[2019.12.05-00.46.09:364][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.05-00.46.11:625][587]LogSlate: Window 'Save Content' being destroyed
+[2019.12.05-00.46.11:639][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/menu/knyctos_title_screen" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/knyctos_title_screen.uasset" SILENT=true
+[2019.12.05-00.46.12:654][587]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/knyctos_title_screen2B0CD3894924A17498D1D1BB5106D871.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/knyctos_title_screen.uasset'
+[2019.12.05-00.46.12:683][587]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/knyctos_title_screen_Mat3D6217034C4C490E703864B42FD93E25.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/knyctos_title_screen_Mat.uasset'
+[2019.12.05-00.46.12:709][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.05-00.46.12:857][587]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_Menu_Map0285C4644424A229E135308DA0704CF1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap'
+[2019.12.05-00.46.12:901][587]LogFileHelpers: Saving map 'Main_Menu_Map' took 0.216
+[2019.12.05-00.46.12:902][587]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-00.46.12:903][587]LightingResults: New page: Lighting Build
+[2019.12.05-00.46.12:903][587]LoadErrors: New page: Loading map: level_tutorial1.umap
+[2019.12.05-00.46.12:904][587]MapCheck: New page: Map Check
+[2019.12.05-00.46.12:904][587]LightingResults: New page: Lighting Build
+[2019.12.05-00.46.12:929][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.05-00.46.12:965][587]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-00.46.12:991][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.05-00.46.13:033][587]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-00.46.13:033][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2019.12.05-00.46.13:033][587]LogFileHelpers: Loading map 'level_tutorial1' took 0.131
+[2019.12.05-00.46.13:099][587]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.12.05-00.46.14:266][715]LogTemp: Repeating last play command: Standalone Game
+[2019.12.05-00.46.14:311][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.05-00.48.26:066][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.48.31:045][146]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.48.31:877][185]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (KnyctosTileMap3)
+[2019.12.05-00.48.31:946][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-00.48.32:657][227]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.05-00.48.32:663][227]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Demo/Sprites/Environment/KnyctosTileMap3.KnyctosTileMap3
+[2019.12.05-00.48.43:814][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.48.53:992][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.49.01:270][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.49.06:299][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.49.11:154][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.49.26:654][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.04:159][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.09:883][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.35:264][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.39:031][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.48:804][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.50.56:055][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.51.35:255][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.51.37:308][500]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap3B2D8971E47744F8593C6978E4813FAE5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
+[2019.12.05-00.51.49:258][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-00.52.09:862][650]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap389ADC4304DA845F677CAE38EA7DC311F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
+[2019.12.05-00.52.11:557][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.52.11:636][722]LogSlate: Window 'KnyctosTileMap3' being destroyed
+[2019.12.05-00.52.13:981][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.52.25:951][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/KnyctosTileMap3" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/KnyctosTileMap3.uasset" SILENT=true
+[2019.12.05-00.52.27:818][573]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap3FC8BAA7F4051E060CC0CF9AA23BED390.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/KnyctosTileMap3.uasset'
+[2019.12.05-00.52.27:834][573]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap337DBB7254EE17764E1C35698FF816446.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
+[2019.12.05-00.52.31:515][791]LogEditorViewport: Clicking Background
+[2019.12.05-00.52.36:302][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.52.46:315][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.05-00.52.48:224][647]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapEA816C9C451753FCEEE32BB3231F6351.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.05-00.52.48:373][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.05-00.52.48:430][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.05-00.52.48:451][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.12.05-00.52.48:473][647]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/KnyctosTileMap3605686EB4E95220DCF8AFBB7FAE8E620.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Environment/KnyctosTileMap3.uasset'
+[2019.12.05-00.52.59:422][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.53.09:024][758]Cmd: DELETE
+[2019.12.05-00.53.09:024][758]Cmd: ACTOR DELETE
+[2019.12.05-00.53.09:027][758]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2019.12.05-00.53.09:051][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.05-00.53.09:052][758]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.12.05-00.53.10:498][842]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.05-00.53.17:331][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-00.53.17:417][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.05-00.53.17:719][217]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial10E21C7DF40A6C53353E62FB21F9A79DF.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial1.umap'
