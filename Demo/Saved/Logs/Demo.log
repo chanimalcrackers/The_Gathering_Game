@@ -975,3 +975,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-15.41.57:701][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2019.12.09-15.41.57:739][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
 [2019.12.09-15.41.57:765][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.09-15.42.30:278][169]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.42.50:981][364]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.42.54:704][581]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/Levels/Victory/Victory.Victory:PersistentLevel.Victory
+[2019.12.09-15.44.33:508][487]LogSlate: Window 'Victory' being destroyed
+[2019.12.09-15.44.34:455][541]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.44.34:507][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.09-15.44.37:820][541]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.44.37:866][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.09-15.44.38:027][541]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryBFD1146F49E0586C8F9E8DBAE79CE32D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.44.38:090][541]LogFileHelpers: Saving map 'Victory' took 0.253
+[2019.12.09-15.44.38:121][541]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget88CA310E46AA1FB648C235ADA92328BC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.45.01:139][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.45.01:240][233]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.45.01:293][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.09-15.45.04:682][233]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.45.04:730][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.12.09-15.45.04:902][233]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryEBD9F109462168A88152DDB3ED1E1F17.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.45.04:950][233]LogFileHelpers: Saving map 'Victory' took 0.251
+[2019.12.09-15.45.16:794][369]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.45.40:953][764]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.45.41:001][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.09-15.45.41:843][809]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget75DEF9544CF1394F741D01B5FF0DFF1A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.45.42:801][864]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.45.43:766][919]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.45.43:819][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.09-15.45.52:325][ 49]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm5)
+[2019.12.09-15.45.53:829][138]Cmd: DELETE
+[2019.12.09-15.45.53:829][138]Cmd: ACTOR DELETE
+[2019.12.09-15.45.53:831][138]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-15.45.53:858][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.09-15.45.53:859][138]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.12.09-15.45.54:186][158]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm3)
+[2019.12.09-15.45.54:407][170]Cmd: DELETE
+[2019.12.09-15.45.54:407][170]Cmd: ACTOR DELETE
+[2019.12.09-15.45.54:409][170]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-15.45.54:437][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.09-15.45.54:437][170]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.12.09-15.45.54:999][204]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm4)
+[2019.12.09-15.45.55:152][212]Cmd: DELETE
+[2019.12.09-15.45.55:152][212]Cmd: ACTOR DELETE
+[2019.12.09-15.45.55:153][212]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-15.45.55:186][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.09-15.45.55:187][212]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.12.09-15.45.55:914][256]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm6)
+[2019.12.09-15.45.56:070][264]Cmd: DELETE
+[2019.12.09-15.45.56:070][264]Cmd: ACTOR DELETE
+[2019.12.09-15.45.56:071][264]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-15.45.56:100][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.09-15.45.56:100][264]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.12.09-15.45.58:394][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.45.58:478][407]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.45.58:526][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.09-15.45.59:886][407]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.45.59:931][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.09-15.46.00:109][407]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryBF74F5394DB7D850A38BEDB3B8CFFFC3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.46.00:156][407]LogFileHelpers: Saving map 'Victory' took 0.256
+[2019.12.09-15.46.37:721][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.46.39:351][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.46.41:703][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.46.41:786][461]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.46.41:847][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.09-15.46.43:027][461]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.46.43:071][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.09-15.46.43:237][461]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryEA6C8C024DA06967BCF1AB80123B2743.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.46.43:288][461]LogFileHelpers: Saving map 'Victory' took 0.245
+[2019.12.09-15.47.00:975][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.09-15.47.01:141][714]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryB7729D344688C5A29233D48AF0DD7656.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
