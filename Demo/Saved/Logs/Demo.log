@@ -926,3 +926,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-14.49.31:719][873]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.12.09-14.49.31:719][873]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Developers/DavidChan/Collections/' because it could not be accessed. Aborting watch request...
 [2019.12.09-14.49.31:719][873]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.09-14.50.48:570][397]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion)
+[2019.12.09-14.50.49:588][456]Cmd: DELETE
+[2019.12.09-14.50.49:588][456]Cmd: ACTOR DELETE
+[2019.12.09-14.50.49:608][456]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-14.50.49:687][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.09-14.50.49:688][456]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.12.09-14.50.50:542][507]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion2)
+[2019.12.09-14.50.51:083][538]Cmd: DELETE
+[2019.12.09-14.50.51:083][538]Cmd: ACTOR DELETE
+[2019.12.09-14.50.51:084][538]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-14.50.51:111][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.09-14.50.51:112][538]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.12.09-14.50.52:936][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-14.51.02:967][246]LogMaterial: Display: Missing cached shader map for material M_TS_FireworksSimple, compiling. 
+[2019.12.09-14.51.03:017][246]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-14.51.03:017][246]LogMaterial: Display: Missing cached shader map for material M_TS_FireworksSmoke, compiling. 
+[2019.12.09-14.51.03:148][246]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TS_Fireworks/Particles/PS_TS_Fireworks_Burst_ShellsWithinShells.PS_TS_Fireworks_Burst_ShellsWithinShells
+[2019.12.09-14.51.12:343][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-14.51.12:411][777]LogCascade: Quitting Cascade. FXSystem=0x000001978EECB700
+[2019.12.09-14.51.14:533][895]LogSlate: Window 'NewParticleSystem' being destroyed
+[2019.12.09-14.51.14:537][895]LogCascade: Quitting Cascade. FXSystem=0x00000197AE058340
+[2019.12.09-14.51.14:611][895]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2019.12.09-14.51.33:991][ 49]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-14.51.34:000][ 49]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TS_Fireworks/Particles/PS_TS_Fireworks_Burst_Chrys.PS_TS_Fireworks_Burst_Chrys
+[2019.12.09-14.51.38:041][277]LogSlate: Window 'PS_TS_Fireworks_Burst_Chrys' being destroyed
+[2019.12.09-14.51.38:046][277]LogCascade: Quitting Cascade. FXSystem=0x000001978EA25600
+[2019.12.09-14.52.54:784][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.12.09-14.52.55:014][864]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Auto2BA376F2F482313E167A96F8E71DDB197.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/Victory/Victory_Auto2.umap'
+[2019.12.09-14.52.55:018][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/Victory/Victory' took 0.277
+[2019.12.09-14.52.55:018][864]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2019.12.09-15.38.23:671][536]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-15.38.23:680][536]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TS_Fireworks/Particles/PS_TS_Fireworks_Burst_Circle.PS_TS_Fireworks_Burst_Circle
+[2019.12.09-15.38.38:174][386]LogSlate: Window 'PS_TS_Fireworks_Burst_Circle' being destroyed
+[2019.12.09-15.38.38:181][386]LogCascade: Quitting Cascade. FXSystem=0x000001978EA25F00
+[2019.12.09-15.38.39:561][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-15.38.39:568][458]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TS_Fireworks/Particles/PS_TS_Fireworks_Burst_Palm.PS_TS_Fireworks_Burst_Palm
+[2019.12.09-15.38.44:081][715]LogSlate: Window 'PS_TS_Fireworks_Burst_Palm' being destroyed
+[2019.12.09-15.38.44:087][715]LogCascade: Quitting Cascade. FXSystem=0x0000019781F871C0
+[2019.12.09-15.40.28:123][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.40.59:759][458]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2019.12.09-15.41.00:016][458]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Auto3F5D0EE894E57A0B5E7D5E58B023A062B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/Victory/Victory_Auto3.umap'
+[2019.12.09-15.41.00:020][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/Victory/Victory' took 0.309
+[2019.12.09-15.41.00:020][458]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2019.12.09-15.41.16:011][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.41.56:375][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.09-15.41.57:626][916]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.09-15.41.57:701][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.09-15.41.57:739][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.09-15.41.57:765][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
