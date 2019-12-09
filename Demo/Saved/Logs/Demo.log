@@ -1471,3 +1471,422 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-16.32.01:105][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.09-16.32.01:225][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
 [2019.12.09-16.32.01:566][290]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial01912D5745FF866164F536A678C938EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-16.33.51:650][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.34.28:801][125]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.34.28:894][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.34.32:219][324]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.35.00:582][755]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.35.00:665][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.35.01:563][809]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-16.35.01:569][809]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-16.35.07:711][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.35.26:457][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.35.37:305][127]Cmd: TRANSACTION UNDO
+[2019.12.09-16.35.37:305][127]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.35.38:559][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.35.42:543][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.36.00:960][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.36.17:483][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.36.21:462][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.36.30:891][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.04:551][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.11:496][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.20:804][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.24:442][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.28:826][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.35:215][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.38:233][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.44:199][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.55:965][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.58:760][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.37.58:848][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.38.00:665][549]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapE5DCB00242F9EED894FDFC8346A3E49D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.38.02:894][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.38.13:378][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.38.18:889][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.38.48:078][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.39.14:156][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.39.18:277][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.39.33:960][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.39.34:102][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.39.35:985][905]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap80EF8AB14362BB26279AE4A45A52B419.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.39.54:266][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.39.56:999][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.01:153][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.04:454][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.15:057][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.23:386][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.30:942][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.42:377][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.40.50:528][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.00:869][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.07:510][709]Cmd: TRANSACTION UNDO
+[2019.12.09-16.41.07:510][709]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.41.07:754][712]Cmd: TRANSACTION UNDO
+[2019.12.09-16.41.07:754][712]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.41.10:995][823]Cmd: TRANSACTION UNDO
+[2019.12.09-16.41.10:995][823]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.41.11:474][836]Cmd: TRANSACTION UNDO
+[2019.12.09-16.41.11:475][836]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.41.16:338][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.21:959][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.28:995][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.44:551][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.41.52:700][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.42.09:057][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.42.28:121][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.42.28:212][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.42.30:271][473]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapA6A036CE49207BFB8223CBBEA16031E4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.42.31:557][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.42.31:720][525]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.43.52:521][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.43.55:277][301]LogAIModule: Creating AISystem for world Victory
+[2019.12.09-16.43.55:281][301]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/Victory/Victory.Victory
+[2019.12.09-16.43.55:318][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.09-16.43.55:321][301]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-16.43.55:321][301]LightingResults: New page: Lighting Build
+[2019.12.09-16.43.55:322][301]LoadErrors: New page: Loading map: Victory.umap
+[2019.12.09-16.43.55:325][301]MapCheck: New page: Map Check
+[2019.12.09-16.43.55:325][301]LightingResults: New page: Lighting Build
+[2019.12.09-16.43.55:367][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.09-16.43.55:368][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-16.43.55:403][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.09-16.43.55:449][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-16.43.55:449][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2019.12.09-16.43.55:449][301]LogFileHelpers: Loading map 'Victory' took 0.130
+[2019.12.09-16.43.59:616][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.44.25:415][ 90]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm)
+[2019.12.09-16.44.26:740][168]Cmd: DELETE
+[2019.12.09-16.44.26:740][168]Cmd: ACTOR DELETE
+[2019.12.09-16.44.26:741][168]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-16.44.26:769][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.12.09-16.44.26:770][168]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.12.09-16.44.27:199][194]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys)
+[2019.12.09-16.44.27:370][203]Cmd: DELETE
+[2019.12.09-16.44.27:370][203]Cmd: ACTOR DELETE
+[2019.12.09-16.44.27:371][203]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-16.44.27:402][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.12.09-16.44.27:402][203]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.09-16.44.28:047][242]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm2)
+[2019.12.09-16.44.28:453][265]Cmd: DELETE
+[2019.12.09-16.44.28:453][265]Cmd: ACTOR DELETE
+[2019.12.09-16.44.28:454][265]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-16.44.28:482][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.09-16.44.28:482][265]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.12.09-16.44.28:826][286]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys2)
+[2019.12.09-16.44.28:980][294]Cmd: DELETE
+[2019.12.09-16.44.28:980][294]Cmd: ACTOR DELETE
+[2019.12.09-16.44.28:981][294]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-16.44.29:009][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.09-16.44.29:010][294]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.12.09-16.44.29:770][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.44.32:851][518]LogBlueprint: Warning: [Compiler TS_FireworksLauncher] Input pin  Spawn Even if Colliding  specifying non-default value no longer exists on node  SpawnActor TS Fireworks Shell . Please refresh node or reset pin to default value to remove pin.
+[2019.12.09-16.44.32:852][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_0.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_CallFunction_12069' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_CallFunction_11705' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_VariableGet_893' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_VariableSet_223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_CallFunction_11265' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_CommutativeAssociativeBinaryOperator_246' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_VariableGet_814' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_CallFunction_8560' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_VariableGet_764' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_IfThenElse_18' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:853][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EdGraph_1.K2Node_FunctionEntry_82' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:859][518]LogBlueprint: Warning: [Compiler TS_FireworksLauncher] [8535.33] Compile of TS_FireworksLauncher successful, but with 1 Warning(s) [in 28 ms] (/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher)
+[2019.12.09-16.44.32:904][518]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-16.44.32:904][518]LogSkeletalMesh: Building Skeletal Mesh SK_Teapot...
+[2019.12.09-16.44.32:920][518]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/TS_Fireworks/Meshes/SK_Teapot.SK_Teapot
+[2019.12.09-16.44.32:930][518]LogMaterial: Display: Missing cached shader map for material M_Blank, compiling. 
+[2019.12.09-16.44.32:947][518]LogSkeletalMesh: Building Skeletal Mesh SK_Star...
+[2019.12.09-16.44.32:953][518]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/TS_Fireworks/Meshes/SK_Star.SK_Star
+[2019.12.09-16.44.32:954][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.EdGraphNode_Comment_36' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:954][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.EdGraphNode_Comment_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:954][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.EdGraphNode_Comment_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:954][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.EdGraphNode_Comment_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallArrayFunction_270' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallArrayFunction_285' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_107499' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_11265' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_11705' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_12069' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_39836' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_46464' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:955][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_46963' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_47120' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_58135' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_58406' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_58407' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_58408' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_8245' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CallFunction_8560' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_CallFunction_11265' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_CallFunction_11705' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_CallFunction_12069' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_CallFunction_8560' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_246' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_843' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_848' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_849' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:956][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_CommutativeAssociativeBinaryOperator_246' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_CustomEvent_20' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_Event_124' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_FunctionEntry_82' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:UserConstructionScript.K2Node_FunctionEntry_7' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_IfThenElse_15' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_IfThenElse_18' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_IfThenElse_18' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_SpawnActorFromClass_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_128' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_135' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_154' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_183' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_1940' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2014' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2091' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2132' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_215' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2194' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2235' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_2332' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_247' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_248' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_249' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_250' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_251' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_252' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_253' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_291' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_3264' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_332' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:957][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_376' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_393' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_4646' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_475' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_5260' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_585' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_587' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_760' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_762' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_764' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_814' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableGet_893' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_VariableGet_764' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_VariableGet_814' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_VariableGet_893' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:EventGraph.K2Node_VariableSet_223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.32:958][518]LogBlueprint: Warning: Node '/Game/TS_Fireworks/Blueprints/TS_FireworksLauncher.TS_FireworksLauncher:LaunchTimedShell.K2Node_VariableSet_223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.12.09-16.44.37:000][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.44.45:996][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.44.46:079][297]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.44.46:138][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.09-16.44.47:333][297]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-16.44.47:344][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.44.47:379][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.09-16.44.47:551][297]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory64A5209047904BAA315149AC8FE11DC3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.44.47:600][297]LogFileHelpers: Saving map 'Victory' took 0.250
+[2019.12.09-16.45.00:229][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.01:004][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.05:724][561]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher)
+[2019.12.09-16.46.07:033][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.11:875][927]LogEditorViewport: Clicking Background
+[2019.12.09-16.46.12:376][956]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher2)
+[2019.12.09-16.46.13:232][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.15:192][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.09-16.46.15:358][120]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory83B890F84E6E272EF5C1A6A1CD451355.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.46.15:907][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.16:006][155]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.46.16:061][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.09-16.46.30:093][385]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher)
+[2019.12.09-16.46.31:461][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.33:370][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.09-16.46.33:529][578]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory172B41B2442A4CBB91EED2A6CCEEBDA5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.46.34:202][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.46.34:657][642]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.46.34:712][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.12.09-16.46.55:496][181]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher2)
+[2019.12.09-16.46.56:517][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.47.01:052][512]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher)
+[2019.12.09-16.47.03:022][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.47.03:105][634]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.47.03:159][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.09-16.47.04:734][634]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-16.47.04:744][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.47.04:781][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.09-16.47.04:946][634]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory3CCC5C7740E0320521CB6F9C3336E8B7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.47.05:004][634]LogFileHelpers: Saving map 'Victory' took 0.255
+[2019.12.09-16.47.28:905][264]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher2)
+[2019.12.09-16.47.31:722][432]LogEditorViewport: Clicking on Actor (LMB): TS_FireworksLauncher_C (TS_FireworksLauncher)
+[2019.12.09-16.47.34:109][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.47.34:191][579]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.47.34:245][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.09-16.47.35:486][579]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-16.47.35:496][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.47.35:533][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.09-16.47.35:692][579]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryE23098B44F80EAB64EE6B5927AA420A5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.47.35:758][579]LogFileHelpers: Saving map 'Victory' took 0.256
+[2019.12.09-16.47.54:165][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.00:542][200]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.09-16.48.02:316][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.07:452][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.09:806][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.12:130][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.12:230][895]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.48.12:284][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.09-16.48.13:645][895]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-16.48.13:658][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.48.13:695][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.09-16.48.13:883][895]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory27AD83094857603BFB78D393564D5FE6.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.48.13:934][895]LogFileHelpers: Saving map 'Victory' took 0.270
+[2019.12.09-16.48.26:722][ 32]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm)
+[2019.12.09-16.48.29:266][183]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_FireworksShell_Palm)
+[2019.12.09-16.48.30:757][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.30:841][276]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.48.30:893][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.09-16.48.31:909][276]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-16.48.31:921][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.48.31:954][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.09-16.48.32:120][276]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory24456706412166F1C36C1AAAAE8B88F6.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.48.32:169][276]LogFileHelpers: Saving map 'Victory' took 0.243
+[2019.12.09-16.48.45:183][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.45:391][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.09-16.48.45:568][415]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory72E192504B941FC1DE74AC8377BC126C.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-16.48.50:710][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.48.57:063][ 98]LogAIModule: Creating AISystem for world level_tutorial
+[2019.12.09-16.48.57:094][ 98]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/level_tutorial.level_tutorial
+[2019.12.09-16.48.57:125][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.09-16.48.57:127][ 98]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-16.48.57:127][ 98]LightingResults: New page: Lighting Build
+[2019.12.09-16.48.57:127][ 98]LoadErrors: New page: Loading map: level_tutorial.umap
+[2019.12.09-16.48.57:128][ 98]MapCheck: New page: Map Check
+[2019.12.09-16.48.57:128][ 98]LightingResults: New page: Lighting Build
+[2019.12.09-16.48.57:157][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.09-16.48.57:195][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-16.48.57:224][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.09-16.48.57:269][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-16.48.57:269][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2019.12.09-16.48.57:269][ 98]LogFileHelpers: Loading map 'level_tutorial' took 0.143
+[2019.12.09-16.49.01:682][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.49.01:782][337]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.49.01:831][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.09-16.50.19:709][670]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.50.19:964][672]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.50.20:052][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.50.21:047][731]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-16.50.21:052][731]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-16.50.26:388][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.50.29:725][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.37:830][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.42:776][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.51:822][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.51:928][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.50.53:702][815]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap2DC9CEFA4DA4CB51A39E32A675E36552.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.50.54:318][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.54:398][841]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.50.55:582][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.50.55:684][912]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.50.55:739][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.09-16.51.31:432][852]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Demo/Sprites/Tileset_Update_ver_3_TileSet.Tileset_Update_ver_3_TileSet
+[2019.12.09-16.51.31:612][852]LogRenderer: Reallocating scene render targets to support 1916x960 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-16.51.43:623][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.51.43:628][564]LogSlate: Window 'Tileset_Update_ver_3_TileSet' being destroyed
+[2019.12.09-16.51.49:116][877]LogSlate: Window 'Tileset_Update_ver_3_TileSet' being destroyed
+[2019.12.09-16.51.52:331][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.51.52:487][ 74]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Demo/Sprites/Tileset_Update_ver_3_TileSet.Tileset_Update_ver_3_TileSet
+[2019.12.09-16.51.53:781][138]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Tileset_Update_ver_3_TileSet7C09556D42270CE5DA33CE898CEB32F3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Demo/Sprites/Tileset_Update_ver_3_TileSet.uasset'
+[2019.12.09-16.51.54:801][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.51.54:932][204]LogSlate: Window 'Tileset_Update_ver_3_TileSet' being destroyed
+[2019.12.09-16.51.55:808][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.51.57:004][313]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-16.51.57:010][313]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-16.52.03:250][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.11:437][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.19:802][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.27:165][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.27:254][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.52.28:826][385]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap7B609D4F46FF03A676D8F3B8627AFCAC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.52.29:825][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.29:891][425]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.52.31:124][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.52.31:207][499]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-16.52.31:265][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.09-16.53.19:109][741]LogEditorViewport: Clicking Background
+[2019.12.09-16.53.20:560][818]LogEditorViewport: Clicking Background
+[2019.12.09-16.53.23:115][967]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.53.24:461][ 35]LogEditorViewport: Clicking Background
+[2019.12.09-16.53.33:010][454]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_73)
+[2019.12.09-16.53.42:972][836]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_76)
+[2019.12.09-16.53.45:706][959]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_74)
+[2019.12.09-16.53.47:999][ 64]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_73)
+[2019.12.09-16.53.48:681][ 94]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.53.51:625][251]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.53.53:688][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.54.03:674][852]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_75)
+[2019.12.09-16.54.14:696][308]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_79)
+[2019.12.09-16.54.15:506][346]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_78)
+[2019.12.09-16.54.16:397][391]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_75)
+[2019.12.09-16.54.33:301][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.54.44:233][549]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.54.45:308][602]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.54.46:892][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.54.59:127][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.55.42:113][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.55.56:200][654]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.12.09-16.55.57:725][743]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Sprites/Props/torch/Item_Spritesheet.Item_Spritesheet
+[2019.12.09-16.56.19:510][ 37]LogSlate: Window 'Item_Spritesheet' being destroyed
+[2019.12.09-16.56.28:948][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.56.29:155][587]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Andre/Sprites/Props/torch/Item_Spritesheet.Item_Spritesheet
+[2019.12.09-16.56.33:027][810]LogSlate: Window 'Item_Spritesheet' being destroyed
+[2019.12.09-16.56.34:944][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.09-16.56.36:003][919]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.09-16.56.36:066][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.09-16.56.51:793][806]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-16.57.03:684][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.57.08:763][582]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_49)
+[2019.12.09-16.57.10:335][651]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_48)
+[2019.12.09-16.57.14:851][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.57.21:922][ 86]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.57.30:521][561]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.57.39:971][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.57.54:153][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.58.07:299][369]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_60)
+[2019.12.09-16.58.08:335][418]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_59)
+[2019.12.09-16.58.46:447][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.59.02:209][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.59.06:074][327]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-16.59.09:492][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.59.14:214][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.59.18:123][866]Cmd: DELETE
+[2019.12.09-16.59.18:123][866]Cmd: ACTOR DELETE
+[2019.12.09-16.59.18:127][866]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-16.59.18:158][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.09-16.59.18:159][866]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.12.09-16.59.20:011][975]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_52)
+[2019.12.09-16.59.21:180][ 34]Cmd: DELETE
+[2019.12.09-16.59.21:180][ 34]Cmd: ACTOR DELETE
+[2019.12.09-16.59.21:184][ 34]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-16.59.21:213][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.09-16.59.21:213][ 34]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.09-16.59.21:829][ 69]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-16.59.24:092][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.59.55:576][478]Cmd: DELETE
+[2019.12.09-16.59.55:576][478]Cmd: ACTOR DELETE
+[2019.12.09-16.59.55:580][478]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-16.59.55:611][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.09-16.59.55:612][478]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.12.09-16.59.56:352][520]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-16.59.58:688][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.00.05:795][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.00.05:902][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.09-17.00.06:266][ 78]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialB1907D544B9D4A82ADD36299ECD9642A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.00.18:339][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.00.31:921][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.00.34:435][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-17.00.40:843][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.00.44:849][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.00.52:748][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.01.04:524][810]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_57)
+[2019.12.09-17.01.07:614][930]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_63)
+[2019.12.09-17.01.12:901][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.01.13:041][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.09-17.01.13:391][161]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialCAC1558E4A996D0E54ADABB34CAD41E7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
