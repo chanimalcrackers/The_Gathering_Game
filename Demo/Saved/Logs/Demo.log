@@ -1890,3 +1890,335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-17.01.12:901][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.09-17.01.13:041][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
 [2019.12.09-17.01.13:391][161]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialCAC1558E4A996D0E54ADABB34CAD41E7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.06.41:400][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.06.41:483][254]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-17.06.41:541][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.09-17.11.54:874][300]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.11.56:667][381]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.11.56:741][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.11.57:545][429]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.11.57:551][429]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.12.06:611][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.06:672][726]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.12.14:635][127]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.12.14:711][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.12.15:622][181]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.12.15:627][181]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.12.27:946][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.35:067][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.37:762][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.40:435][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.43:175][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.46:078][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.50:031][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.53:017][472]Cmd: TRANSACTION UNDO
+[2019.12.09-17.12.53:017][472]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.12.55:566][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.12.59:289][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.13.04:600][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.13.10:616][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.13.20:316][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.14.45:207][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.15.04:674][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.15.07:465][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.15.29:650][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.15.36:027][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.15.55:628][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.15.59:988][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.16.07:979][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.16.33:444][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.16.40:023][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.16.55:642][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.17.04:762][ 35]Cmd: TRANSACTION UNDO
+[2019.12.09-17.17.04:762][ 35]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.17.08:204][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.17.08:326][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-17.17.10:385][175]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap7CF00C3747856B0D6DB6BB8B73588FEB.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-17.17.10:749][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.17.10:862][195]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.17.11:842][247]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion2)
+[2019.12.09-17.17.24:837][870]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.17.25:570][903]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.17.25:641][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.17.26:657][964]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.17.26:663][964]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.17.31:897][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.17.35:508][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.17.38:011][345]Cmd: TRANSACTION UNDO
+[2019.12.09-17.17.38:012][345]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.17.52:082][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.18.01:365][220]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.01:365][220]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.01:603][223]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.01:603][223]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.01:767][225]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.01:767][225]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.01:906][227]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.01:906][227]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:094][231]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:094][231]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:249][235]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:249][235]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:404][239]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:405][239]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:558][243]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:558][243]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:714][247]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:714][247]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.02:896][252]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.02:896][252]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.03:025][255]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.03:025][255]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.03:181][259]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.03:181][259]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.03:338][263]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.03:339][263]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.03:524][268]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.03:524][268]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.12:387][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.18.19:950][847]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.19:950][847]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.21:256][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.18.29:296][182]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.29:296][182]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.29:554][186]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.29:554][186]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.29:717][188]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.29:717][188]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.29:882][191]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.29:882][191]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.30:041][193]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.30:041][193]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.30:185][195]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.30:185][195]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.30:342][198]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.30:342][198]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.30:496][200]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.30:496][200]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.30:691][204]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.30:691][204]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.31:065][214]Cmd: TRANSACTION UNDO
+[2019.12.09-17.18.31:065][214]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.18.32:639][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.18.34:961][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.18.36:893][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.18.41:838][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.18.56:991][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.02:580][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.07:429][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.12:906][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.16:034][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.19:534][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.22:845][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.25:725][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.34:221][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.40:643][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.49:097][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.19.55:579][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.20.06:929][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.20.25:691][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.20.30:067][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.20.54:500][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.06:279][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.09:611][955]Cmd: TRANSACTION UNDO
+[2019.12.09-17.21.09:611][955]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.21.11:795][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.17:593][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.23:865][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.33:384][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.41:313][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.47:499][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.52:597][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.21.59:157][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.02:341][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.08:036][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.14:205][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.18:428][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.23:240][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.28:710][767]Cmd: TRANSACTION UNDO
+[2019.12.09-17.22.28:710][767]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.22.28:910][769]Cmd: TRANSACTION UNDO
+[2019.12.09-17.22.28:910][769]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.22.33:225][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.38:243][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.45:528][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.48:385][429]Cmd: TRANSACTION UNDO
+[2019.12.09-17.22.48:385][429]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.22.48:603][431]Cmd: TRANSACTION UNDO
+[2019.12.09-17.22.48:603][431]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.22.48:796][434]Cmd: TRANSACTION UNDO
+[2019.12.09-17.22.48:796][434]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.22.49:789][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.22.55:422][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.01:899][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.05:142][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.08:505][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.15:709][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.23:836][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.35:523][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.40:024][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.43:766][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.47:609][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.51:615][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.23.59:085][899]Cmd: TRANSACTION UNDO
+[2019.12.09-17.23.59:085][899]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.24.00:063][927]Cmd: TRANSACTION UNDO
+[2019.12.09-17.24.00:063][927]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.24.01:641][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.06:773][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.12:857][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.24:547][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.47:109][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.54:259][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.24.59:139][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.25.07:394][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.25.36:812][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.25.36:917][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-17.25.39:992][242]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap3A6D8FC24448D5C9CEE2B9ACAF49126E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-17.25.40:610][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.25.41:124][286]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.25.43:752][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.26.11:103][ 26]LogEditorViewport: Clicking Background
+[2019.12.09-17.26.59:644][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.09-17.27.00:015][297]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial_Auto54B0ABF6A43FA6C98AE9A3DAC97AFDF4E.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/level_tutorial_Auto5.umap'
+[2019.12.09-17.27.00:020][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial' took 0.423
+[2019.12.09-17.27.00:020][297]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.423
+[2019.12.09-17.28.34:008][ 28]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-17.28.35:142][ 83]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.28.36:337][145]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-17.28.49:276][812]Cmd: DELETE
+[2019.12.09-17.28.49:276][812]Cmd: ACTOR DELETE
+[2019.12.09-17.28.49:280][812]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-17.28.49:311][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.09-17.28.49:311][812]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.12.09-17.28.53:738][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.29.17:684][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.29.28:427][800]Cmd: TRANSACTION UNDO
+[2019.12.09-17.29.28:427][800]LogEditorTransaction: Undo Move Actors
+[2019.12.09-17.29.32:446][958]Cmd: TRANSACTION UNDO
+[2019.12.09-17.29.32:446][958]LogEditorTransaction: Undo Move Actors
+[2019.12.09-17.29.36:787][127]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_83)
+[2019.12.09-17.29.37:480][159]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_82)
+[2019.12.09-17.29.38:308][200]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_81)
+[2019.12.09-17.29.45:212][474]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.29.48:505][631]LogEditorViewport: Clicking Background
+[2019.12.09-17.30.05:828][510]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.30.07:337][583]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.30.07:407][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.30.08:432][644]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.30.08:439][644]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.30.16:755][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.30.26:361][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.30.33:040][539]Cmd: TRANSACTION UNDO
+[2019.12.09-17.30.33:040][539]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.30.34:646][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.30.39:245][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.30.42:328][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.31.00:439][542]Cmd: TRANSACTION UNDO
+[2019.12.09-17.31.00:439][542]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.31.02:722][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.31.13:526][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.31.23:410][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.31.48:651][297]Cmd: TRANSACTION UNDO
+[2019.12.09-17.31.48:651][297]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.31.49:050][305]Cmd: TRANSACTION UNDO
+[2019.12.09-17.31.49:050][305]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.31.51:815][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.02:220][776]Cmd: TRANSACTION UNDO
+[2019.12.09-17.32.02:220][776]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.32.06:036][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.10:485][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.31:269][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.37:447][  3]Cmd: TRANSACTION UNDO
+[2019.12.09-17.32.37:447][  3]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.32.41:009][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.47:050][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.53:031][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.32.57:830][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.00:962][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.04:173][941]Cmd: TRANSACTION UNDO
+[2019.12.09-17.33.04:173][941]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.33.06:662][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.31:131][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.36:349][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.43:544][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.33.54:377][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.34.03:322][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.34.40:029][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.35.07:795][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.35.37:096][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.35.37:185][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-17.35.39:065][373]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapB3B8EED74E5AC257CE1B698225129A7B.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-17.35.39:764][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.35.39:845][401]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.35.54:661][123]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_50)
+[2019.12.09-17.35.57:542][283]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_49)
+[2019.12.09-17.35.59:124][367]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_48)
+[2019.12.09-17.36.08:222][834]Cmd: TRANSACTION UNDO
+[2019.12.09-17.36.08:222][834]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-17.36.46:506][510]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.36.47:150][539]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.36.47:218][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.36.47:988][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.36.47:995][585]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.37.14:522][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.37.19:068][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.37.29:124][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.37.29:230][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-17.37.31:262][950]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap4B82E9664D80B347C563F8A13EE43256.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-17.37.32:259][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.37.32:342][988]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.37.34:543][100]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.37.35:666][160]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_50)
+[2019.12.09-17.37.37:108][237]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_48)
+[2019.12.09-17.37.37:896][274]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_49)
+[2019.12.09-17.37.49:104][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.37.49:240][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.09-17.37.49:590][687]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial3ADD98F64DC67B702D58909BA418DB86.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.38.07:190][607]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_ShadowBird_C (BP_Enemy_ShadowBird)
+[2019.12.09-17.38.12:315][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.38.23:825][540]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.38.24:765][586]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_ShadowBird_C (BP_Enemy_ShadowBird)
+[2019.12.09-17.38.26:065][654]Cmd: DELETE
+[2019.12.09-17.38.26:065][654]Cmd: ACTOR DELETE
+[2019.12.09-17.38.26:069][654]LogEditorActor: Deleted Actor: BP_Enemy_ShadowBird_C
+[2019.12.09-17.38.26:098][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.09-17.38.26:098][654]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.09-17.38.26:676][686]LogEditorViewport: Clicking on Actor (LMB): BP_enmy_skull_C (BP_enmy_skull3)
+[2019.12.09-17.38.32:286][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.38.32:407][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.09-17.38.32:759][938]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial39F0BF6749FB2132CB312DBF3F0814B4.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.38.57:256][ 82]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.38.57:694][ 97]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.38.57:765][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.38.58:841][161]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.38.58:847][161]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-17.39.06:711][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.39.10:517][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.39.21:930][968]Cmd: TRANSACTION UNDO
+[2019.12.09-17.39.21:930][968]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-17.39.24:216][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.39.31:606][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.39.31:734][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-17.39.33:354][344]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapA4C82405497ED7EE2D8886BCF2767714.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-17.39.34:888][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.39.35:077][404]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-17.39.45:651][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.40.19:799][827]Cmd: DELETE
+[2019.12.09-17.40.19:799][827]Cmd: ACTOR DELETE
+[2019.12.09-17.40.19:803][827]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-17.40.19:836][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.09-17.40.19:837][827]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.12.09-17.40.22:021][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.40.35:473][643]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-17.40.38:791][767]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_52)
+[2019.12.09-17.40.41:899][919]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_52)
+[2019.12.09-17.40.45:828][ 73]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-17.40.46:493][105]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-17.40.49:090][221]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_52)
+[2019.12.09-17.41.02:001][864]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Item_Spritesheet_Sprite_52)
+[2019.12.09-17.41.03:935][964]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_53)
+[2019.12.09-17.41.05:131][ 27]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Item_Spritesheet_Sprite_51)
+[2019.12.09-17.41.12:537][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.41.12:730][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.09-17.41.13:087][471]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial05F231034676CE312775B6BF5F7637EE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
