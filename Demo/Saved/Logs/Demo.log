@@ -1042,3 +1042,432 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-15.46.43:288][461]LogFileHelpers: Saving map 'Victory' took 0.245
 [2019.12.09-15.47.00:975][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
 [2019.12.09-15.47.01:141][714]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryB7729D344688C5A29233D48AF0DD7656.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.49.15:852][208]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.49.15:907][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.09-15.49.52:643][223]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm)
+[2019.12.09-15.49.56:799][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.50.03:802][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.50.07:075][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.50.07:077][ 75]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/Levels/Victory/Victory.Victory:PersistentLevel.Victory
+[2019.12.09-15.50.23:065][  1]BlueprintLog: New page: Compile Victory
+[2019.12.09-15.50.23:227][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.09-15.50.23:623][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.09-15.50.23:810][ 21]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory634AFE5A4AABC17133874AA23F68DDEF.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.50.23:860][ 21]LogFileHelpers: Saving map 'Victory' took 0.270
+[2019.12.09-15.50.24:327][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.50.24:459][ 53]LogSlate: Window 'Victory' being destroyed
+[2019.12.09-15.50.25:629][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.50.25:695][124]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.50.25:749][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.12.09-15.50.27:573][124]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.50.27:584][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.50.27:618][124]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/game_victory_page_Sprite0553500748FE55F3322FB68432054831.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/game_victory_page_Sprite.uasset'
+[2019.12.09-15.50.41:494][265]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (game_victory_page_Sprite)
+[2019.12.09-15.50.57:313][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.50.59:132][320]LogEditorViewport: Clicking Background
+[2019.12.09-15.50.59:968][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.51.02:607][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.51.05:020][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.51.05:067][670]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.12.09-15.51.06:174][670]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.09-15.51.17:811][343]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.09-15.51.17:814][343]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.09-15.51.25:443][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.51.30:505][ 85]LogAIModule: Creating AISystem for world Main_Menu_Map
+[2019.12.09-15.51.30:660][ 85]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map
+[2019.12.09-15.51.30:785][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.12.09-15.51.30:787][ 85]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/menu/Main_Menu_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-15.51.30:787][ 85]LightingResults: New page: Lighting Build
+[2019.12.09-15.51.30:788][ 85]LoadErrors: New page: Loading map: Main_Menu_Map.umap
+[2019.12.09-15.51.30:789][ 85]MapCheck: New page: Map Check
+[2019.12.09-15.51.30:789][ 85]LightingResults: New page: Lighting Build
+[2019.12.09-15.51.30:851][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.09-15.51.30:885][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.09-15.51.30:920][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.09-15.51.30:922][ 85]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-15.51.30:948][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.09-15.51.30:994][ 85]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-15.51.30:995][ 85]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.12.09-15.51.30:995][ 85]LogFileHelpers: Loading map 'Main_Menu_Map' took 0.210
+[2019.12.09-15.51.32:477][167]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.09-15.51.32:487][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.51.34:045][260]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/menu/Main_Menu_Map.Main_Menu_Map:PersistentLevel.Main_Menu_Map
+[2019.12.09-15.51.43:152][781]LogSlate: Window 'Main_Menu_Map' being destroyed
+[2019.12.09-15.51.48:802][116]LogAIModule: Creating AISystem for world Victory
+[2019.12.09-15.51.48:806][116]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/Victory/Victory.Victory
+[2019.12.09-15.51.48:834][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.09-15.51.48:835][116]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-15.51.48:835][116]LightingResults: New page: Lighting Build
+[2019.12.09-15.51.48:836][116]LoadErrors: New page: Loading map: Victory.umap
+[2019.12.09-15.51.48:836][116]MapCheck: New page: Map Check
+[2019.12.09-15.51.48:836][116]LightingResults: New page: Lighting Build
+[2019.12.09-15.51.48:866][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.09-15.51.48:869][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-15.51.48:893][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.09-15.51.48:938][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-15.51.48:939][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.12.09-15.51.48:939][116]LogFileHelpers: Loading map 'Victory' took 0.105
+[2019.12.09-15.51.57:801][644]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.52.16:929][702]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.52.16:965][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.09-15.52.17:465][726]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget09B645994945969821B806A6B504C7C1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.52.18:591][792]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.52.20:138][882]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (game_victory_page_Sprite)
+[2019.12.09-15.52.21:004][932]Cmd: DELETE
+[2019.12.09-15.52.21:004][932]Cmd: ACTOR DELETE
+[2019.12.09-15.52.21:005][932]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-15.52.21:036][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.09-15.52.21:037][932]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.09-15.52.22:803][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.52.24:140][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.52.24:142][117]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Andre/Levels/Victory/Victory.Victory:PersistentLevel.Victory
+[2019.12.09-15.52.27:607][303]BlueprintLog: New page: Compile Victory
+[2019.12.09-15.52.27:774][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.09-15.52.28:120][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.52.28:604][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.09-15.52.28:781][348]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory58B6F41E4FBDED0EEC7DADA68D69E626.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.52.28:830][348]LogFileHelpers: Saving map 'Victory' took 0.258
+[2019.12.09-15.52.29:872][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.52.29:987][414]LogSlate: Window 'Victory' being destroyed
+[2019.12.09-15.52.30:787][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.52.31:397][496]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.52.31:454][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.09-15.52.43:634][692]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.52.47:919][896]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.52.47:957][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.09-15.52.48:473][922]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget16B0B5824C874204C5644081C6D169B0.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.52.49:064][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.52.49:512][983]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.52.50:362][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.52.50:445][ 36]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.52.50:501][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.09-15.53.01:916][320]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.53.30:420][987]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.53.30:457][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.09-15.53.30:890][  8]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_WidgetA55A90614A6F1FD238005B8E8E369ACC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.53.35:264][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.53.35:346][274]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.53.36:078][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.53.36:178][321]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.53.36:230][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.09-15.53.45:167][456]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.53.49:691][673]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.53.49:730][673]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.09-15.53.50:127][692]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget6A54CB924BFC6E062BE745AF85ED70DB.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.53.50:604][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.53.51:036][746]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.53.51:736][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.53.51:835][791]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.53.51:887][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.12.09-15.54.12:126][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.12:316][252]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.54.15:020][373]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.54.15:054][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.09-15.54.15:537][397]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_WidgetEC4660344B7A0C74B034118E52D723A3.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.54.16:235][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.17:630][510]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.54.17:660][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.09-15.54.18:182][536]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_WidgetAA7700784CC3B44DE5EBA78D5F709770.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.54.18:832][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.18:930][580]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.54.20:020][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.20:103][647]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.54.20:156][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.09-15.54.32:495][832]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Andre/Levels/Victory/Victory_Widget.Victory_Widget
+[2019.12.09-15.54.38:563][117]BlueprintLog: New page: Compile Victory_Widget
+[2019.12.09-15.54.38:600][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.09-15.54.39:082][141]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory_Widget7739A0B5408099D1B5126282B016381F.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory_Widget.uasset'
+[2019.12.09-15.54.39:917][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.40:015][196]LogSlate: Window 'Victory_Widget' being destroyed
+[2019.12.09-15.54.43:900][425]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Circle)
+[2019.12.09-15.54.46:452][576]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Circle)
+[2019.12.09-15.54.47:640][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.54.48:609][703]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/TS_Fireworks/Particles/PS_TS_Fireworks_Burst_Circle.PS_TS_Fireworks_Burst_Circle
+[2019.12.09-15.54.53:917][  7]LogSlate: Window 'PS_TS_Fireworks_Burst_Circle' being destroyed
+[2019.12.09-15.54.53:922][  7]LogCascade: Quitting Cascade. FXSystem=0x00000197A76D1600
+[2019.12.09-15.54.55:797][113]Cmd: DELETE
+[2019.12.09-15.54.55:797][113]Cmd: ACTOR DELETE
+[2019.12.09-15.54.55:798][113]LogEditorActor: Deleted Actor: Emitter
+[2019.12.09-15.54.55:831][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.09-15.54.55:832][113]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.12.09-15.54.56:872][176]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys)
+[2019.12.09-15.54.58:726][286]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Palm)
+[2019.12.09-15.55.00:314][380]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys2)
+[2019.12.09-15.55.01:818][469]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (PS_TS_Fireworks_Burst_Palm2)
+[2019.12.09-15.55.04:071][602]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys2)
+[2019.12.09-15.55.05:057][660]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (PS_TS_Fireworks_Burst_Palm2)
+[2019.12.09-15.55.08:212][848]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_TS_Fireworks_Burst_Chrys)
+[2019.12.09-15.55.09:165][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.55.09:248][909]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.55.09:295][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.09-15.55.10:495][909]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-15.55.10:542][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.09-15.55.10:704][909]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Victory5A58108A4605F48A547883BC2718B692.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.55.10:757][909]LogFileHelpers: Saving map 'Victory' took 0.246
+[2019.12.09-15.55.24:941][ 52]LogTemp: Repeating last play command: Standalone Game
+[2019.12.09-15.55.24:999][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.09-15.56.09:928][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.09-15.56.10:089][450]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/VictoryEE7B8BE3472FDF10A29165A814A5DFDC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/Victory/Victory.umap'
+[2019.12.09-15.56.21:545][130]LogAIModule: Creating AISystem for world level_tutorial
+[2019.12.09-15.56.21:583][130]LogAssetEditorManager: Opening Asset editor for World /Game/Andre/Levels/level_tutorial.level_tutorial
+[2019.12.09-15.56.21:615][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.09-15.56.21:616][130]Cmd: MAP LOAD FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-15.56.21:617][130]LightingResults: New page: Lighting Build
+[2019.12.09-15.56.21:617][130]LoadErrors: New page: Loading map: level_tutorial.umap
+[2019.12.09-15.56.21:618][130]MapCheck: New page: Map Check
+[2019.12.09-15.56.21:618][130]LightingResults: New page: Lighting Build
+[2019.12.09-15.56.21:647][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.09-15.56.21:686][130]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-15.56.21:722][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.09-15.56.21:767][130]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-15.56.21:768][130]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2019.12.09-15.56.21:768][130]LogFileHelpers: Loading map 'level_tutorial' took 0.153
+[2019.12.09-15.57.01:017][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.57.12:102][829]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint3)
+[2019.12.09-15.57.15:475][ 20]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-15.57.18:352][162]LogEditorViewport: Clicking on Actor (LMB): BP_enmy_shadowbug_C (BP_enmy_shadowbug3)
+[2019.12.09-15.57.22:556][352]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-15.57.24:402][453]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-15.57.24:476][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-15.57.25:346][505]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-15.57.25:351][505]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-15.57.38:390][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.57.45:656][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.57.54:867][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-15.58.22:229][543]Cmd: TRANSACTION UNDO
+[2019.12.09-15.58.22:230][543]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-15.58.22:488][551]Cmd: TRANSACTION UNDO
+[2019.12.09-15.58.22:488][551]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-15.58.22:648][554]Cmd: TRANSACTION UNDO
+[2019.12.09-15.58.22:648][554]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-15.59.00:761][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.06:399][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.20:304][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.26:769][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.37:633][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.44:306][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.00.47:028][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.00.57:957][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.01.01:169][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.10:344][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.12:652][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.15:542][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.23:883][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.26:204][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.35:053][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.45:885][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.01.55:776][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.03:021][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.14:825][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.17:926][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.25:761][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.38:428][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.46:874][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.51:218][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.02.56:700][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.03.09:638][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.03.15:216][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.03.33:440][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.03.44:007][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.03.53:708][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.01:803][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.08:432][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.15:292][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.25:600][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.44:224][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.49:374][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.04.54:264][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.05.08:379][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.05.13:528][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.05.21:790][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.05.25:894][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.05.34:508][166]Cmd: TRANSACTION UNDO
+[2019.12.09-16.05.34:508][166]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.05.56:316][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.01:512][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.05:203][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.10:736][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.20:911][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.28:045][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.32:176][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.36:148][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.47:268][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.06.52:277][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.03:698][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.12:448][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.19:270][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.23:759][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.31:308][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.43:202][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.07.53:931][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.08.06:144][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.08.17:138][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.08.17:241][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.08.20:456][269]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap451635D0485574FB6A7CB7A2BB2ACA06.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.08.22:243][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.08.22:388][344]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.08.32:561][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.09.22:204][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.09.38:311][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.09.49:850][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.10.00:507][746]Cmd: DELETE
+[2019.12.09-16.10.00:507][746]Cmd: ACTOR DELETE
+[2019.12.09-16.10.00:510][746]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.12.09-16.10.00:556][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.09-16.10.00:557][746]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.12.09-16.10.01:228][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.10.11:090][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.10.13:967][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.10.23:674][937]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2019.12.09-16.10.32:224][316]Cmd: TRANSACTION UNDO
+[2019.12.09-16.10.32:224][316]LogEditorTransaction: Undo Move Actors
+[2019.12.09-16.10.33:122][359]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2019.12.09-16.10.44:118][871]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion2)
+[2019.12.09-16.10.53:538][308]LogEditorViewport: Clicking Background
+[2019.12.09-16.10.54:281][352]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall_C (BP_trap_spike_fall)
+[2019.12.09-16.10.58:807][601]LogEditorViewport: Clicking Background
+[2019.12.09-16.11.10:544][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.11.19:611][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.12.02:437][707]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.12.02:935][726]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.12.03:006][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.12.03:912][779]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-16.12.03:918][779]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-16.12.09:261][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.12.33:775][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.12.41:626][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.12.54:773][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.13.07:820][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.13.10:836][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.13.20:294][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.13.47:274][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.04:380][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.10:578][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.18:335][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.26:181][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.34:280][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.14.44:509][883]Cmd: TRANSACTION UNDO
+[2019.12.09-16.14.44:509][883]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.14.45:423][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.15.13:272][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.15.13:319][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.09-16.15.13:655][962]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial_Auto4D394935842D192B477552F802FE7905D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/Levels/level_tutorial_Auto4.umap'
+[2019.12.09-16.15.13:659][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Andre/Levels/level_tutorial' took 0.372
+[2019.12.09-16.15.13:659][962]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2019.12.09-16.15.13:661][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andre/TileMaps/Main_TileMap] ([1] browsable assets)...
+[2019.12.09-16.15.13:661][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andre/TileMaps/Main_TileMap]
+[2019.12.09-16.15.15:279][962]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_Auto4EAEAF70F4283E6C6507C08AAB43E7ABC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Autosaves/Game/Andre/TileMaps/Main_TileMap_Auto4.uasset'
+[2019.12.09-16.15.15:280][962]LogFileHelpers: Auto-saving content packages took 1.620
+[2019.12.09-16.15.41:741][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.15.48:164][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.16.17:018][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.16.30:123][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.16.33:747][947]Cmd: TRANSACTION UNDO
+[2019.12.09-16.16.33:747][947]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.16.34:635][973]Cmd: TRANSACTION UNDO
+[2019.12.09-16.16.34:635][973]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.16.36:854][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.16.41:099][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.17.08:887][247]Cmd: TRANSACTION UNDO
+[2019.12.09-16.17.08:887][247]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.17.10:627][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.17.14:916][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.18.44:444][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.18.48:419][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.18.54:760][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.19.00:298][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.19.03:799][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.19.07:937][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.19.17:295][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.05:017][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.11:237][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.20:131][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.25:478][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.38:326][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.42:224][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.46:607][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.20.54:257][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.21.01:909][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.21.16:677][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.21.30:636][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.21.30:723][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.21.32:584][163]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap3F5D05A04BCCF8D67A645E90A1A378AE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.21.38:815][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.21.41:549][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.21.47:417][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.22.25:140][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.22.51:402][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.09:368][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.20:112][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.27:473][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.34:468][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.37:204][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.41:296][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.45:344][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.51:448][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.23.56:708][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.24.05:956][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.24.15:431][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.24.32:729][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.24.56:449][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.09:708][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.14:053][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.25:199][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.30:980][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.36:297][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.25.47:126][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.05:497][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.12:100][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.17:858][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.26:628][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.30:464][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.42:602][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.26.55:325][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.27.00:978][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.27.13:099][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.27.19:325][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.27.31:396][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.27.41:118][ 43]Cmd: TRANSACTION UNDO
+[2019.12.09-16.27.41:118][ 43]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.27.41:349][ 46]Cmd: TRANSACTION UNDO
+[2019.12.09-16.27.41:349][ 46]LogEditorTransaction: Undo Tile Painting
+[2019.12.09-16.27.51:010][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.02:153][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.08:705][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.12:919][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.15:698][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.25:249][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.29:526][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.38:375][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.42:805][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.56:831][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.28.59:737][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.29.07:557][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.29.07:644][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.29.09:988][317]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapCC51D2DC4A5465F451C158BA1A4BFE41.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.29.10:943][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.29.11:410][373]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.29.19:576][760]LogEditorViewport: Clicking Background
+[2019.12.09-16.29.35:873][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.29.42:797][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion2)
+[2019.12.09-16.29.51:579][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.09-16.30.30:144][999]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.30.30:744][ 25]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.30.30:812][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.30.32:745][141]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-16.30.32:751][141]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap.Main_TileMap
+[2019.12.09-16.30.38:733][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.30.43:912][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.30.53:970][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.30.54:464][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andre/TileMaps/Main_TileMap" FILE="../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset" SILENT=true
+[2019.12.09-16.30.56:821][946]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMapA922616A40806B012BB6528429D46901.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap.uasset'
+[2019.12.09-16.30.57:507][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.30.57:601][976]LogSlate: Window 'Main_TileMap' being destroyed
+[2019.12.09-16.31.01:699][208]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.31.07:011][494]LogEditorViewport: Clicking on Actor (LMB): BP_potion_C (BP_potion8)
+[2019.12.09-16.31.26:651][367]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.31.26:789][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-16.31.27:752][418]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap)
+[2019.12.09-16.32.01:105][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-16.32.01:225][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.09-16.32.01:566][290]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial01912D5745FF866164F536A678C938EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
