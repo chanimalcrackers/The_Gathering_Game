@@ -2222,3 +2222,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-17.41.12:537][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.09-17.41.12:730][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
 [2019.12.09-17.41.13:087][471]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial05F231034676CE312775B6BF5F7637EE.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.41.38:896][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.41.40:789][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.09-17.41.41:133][860]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialB8DDF3D747088E2C6BC3BD95C1E048DC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.09-17.41.50:380][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.41.50:526][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.12.09-17.41.50:869][368]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialCE99E4D5476E3F2636EE2F8527738C7D.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
