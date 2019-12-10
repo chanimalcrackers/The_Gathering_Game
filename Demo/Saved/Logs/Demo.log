@@ -677,3 +677,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-01.39.59:148][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.10-01.40.01:523][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.10-01.40.18:571][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.41.06:190][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.41.48:668][783]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_editE3DDA01C4BC813BEA6AA41A4149A9566.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
