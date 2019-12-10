@@ -571,3 +571,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-00.27.43:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2019.12.10-00.29.19:239][  0]LogTcpMessaging: Initializing TcpMessaging bridge
 [2019.12.10-00.29.20:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.10-00.29.26:130][  0]SourceControl: Source control is disabled
+[2019.12.10-00.29.26:179][  0]SourceControl: Source control is disabled
+[2019.12.10-00.29.27:841][  0]SourceControl: Source control is disabled
+[2019.12.10-00.29.28:221][  0]SourceControl: Source control is disabled
