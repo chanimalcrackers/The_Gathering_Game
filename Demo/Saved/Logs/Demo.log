@@ -664,3 +664,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-00.44.12:141][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.10-00.44.12:240][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2019.12.10-00.44.12:548][224]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial38E5C00B4F89E11144699E84F26318ED.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-00.45.11:246][208]LogEditorViewport: Clicking on Actor (LMB): BP_trap_spike_fall_C (BP_trap_spike_fall)
+[2019.12.10-00.47.07:897][535]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.10-00.47.13:148][640]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-00.47.16:052][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.47.20:227][856]LogEditorViewport: Clicking Background
+[2019.12.10-00.47.20:968][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.47.21:092][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.10-00.47.21:415][872]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial68FAC9A34BEC26AD81803F9DB6687CE5.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-00.47.57:317][476]LogEditorViewport: Clicking Background
+[2019.12.10-00.48.24:153][995]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-00.48.28:074][ 65]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-00.48.28:238][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.48.28:959][146]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-00.48.28:965][146]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Andre/TileMaps/Main_TileMap_z_edit.Main_TileMap_z_edit
+[2019.12.10-00.48.29:101][146]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.10-00.48.31:876][204]LogRenderer: Reallocating scene render targets to support 1208x960 Format 10 NumSamples 1 (Frame:1).
+[2019.12.10-00.48.45:179][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.49.06:360][701]Cmd: TRANSACTION UNDO
+[2019.12.10-00.49.06:360][701]LogEditorTransaction: Undo Tile Painting
+[2019.12.10-00.49.17:458][875]Cmd: TRANSACTION UNDO
+[2019.12.10-00.49.17:458][875]LogEditorTransaction: Undo Tile Painting
+[2019.12.10-00.49.27:095][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.49.28:837][ 32]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_edit7BD405A9450D09C538A9999F0FD1D971.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
+[2019.12.10-00.49.29:085][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.49.34:310][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.49.57:437][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.50.03:480][814]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Demo/Sprites/Tileset_Update_ver_3.Tileset_Update_ver_3
+[2019.12.10-00.50.03:501][814]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.10-00.50.09:358][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.50.13:768][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.50.14:009][989]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Demo/Sprites/Tileset_Update_ver_3_TileSet.Tileset_Update_ver_3_TileSet
+[2019.12.10-00.50.14:199][990]LogRenderer: Reallocating scene render targets to support 1916x960 Format 10 NumSamples 1 (Frame:1).
+[2019.12.10-00.50.43:336][404]Cmd: TRANSACTION UNDO
+[2019.12.10-00.50.43:336][404]LogEditorTransaction: Undo Tile Painting
+[2019.12.10-00.50.44:055][449]Cmd: TRANSACTION UNDO
+[2019.12.10-00.50.44:055][449]LogEditorTransaction: Undo Tile Painting
+[2019.12.10-00.50.57:870][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.51.08:993][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.51.13:269][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.51.22:118][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.51.31:705][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.51.37:379][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.51.45:896][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.52.43:531][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.03:696][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.08:693][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.13:275][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.18:970][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.23:493][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.26:330][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.29:770][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.32:466][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.36:211][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.39:834][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.46:122][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.53.56:057][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.54.37:539][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.54.40:145][599]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_editA7EC5AB14B3400611FD5949540EB3FE2.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
+[2019.12.10-00.54.40:507][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.54.41:826][622]LogEditorViewport: Clicking Background
+[2019.12.10-00.55.01:916][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.55.02:020][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.10-00.55.02:322][975]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialD4B0099849D8B2A00FE02787D20CE6D7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-00.55.02:801][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.55.02:894][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.10-00.55.03:267][986]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialA05A79174346148B1FC230AC8B73B0EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-00.55.05:507][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
