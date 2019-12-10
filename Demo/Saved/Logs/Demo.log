@@ -731,3 +731,179 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-00.55.02:894][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2019.12.10-00.55.03:267][986]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorialA05A79174346148B1FC230AC8B73B0EC.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
 [2019.12.10-00.55.05:507][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.58.37:111][680]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-00.58.38:062][693]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-00.58.38:213][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.59.03:664][740]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-00.59.08:475][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-00.59.11:377][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.59.25:259][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.59.33:101][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.59.40:945][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.59.50:789][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-00.59.55:984][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.01:297][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.16:658][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.24:884][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.27:593][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.33:149][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.37:401][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.00.59:201][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.01.35:288][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.01.40:756][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.01.42:918][506]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_edit811A6A944578CA3221E5BC82A4A4CCB7.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
+[2019.12.10-01.01.44:337][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.01.45:831][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.01.45:901][547]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.01.45:949][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.12.10-01.02.06:981][789]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.02.07:027][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.10-01.02.09:446][789]LogSlate: Window 'Save Content' being destroyed
+[2019.12.10-01.02.09:453][789]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.12.10-01.02.09:453][789]PIE: Warning: PIE failed because map save was canceled
+[2019.12.10-01.02.09:454][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.02.11:062][825]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-01.02.11:065][825]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-01.02.12:088][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.02.24:548][113]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.02.24:596][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.10-01.02.25:796][113]LogSlate: Window 'Save Content' being destroyed
+[2019.12.10-01.02.25:805][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.02.25:835][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.10-01.02.26:144][113]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial0177E01B48134E245CC08C9B2107A7D0.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-01.02.26:191][113]LogFileHelpers: Saving map 'level_tutorial' took 0.380
+[2019.12.10-01.03.48:456][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.03.51:686][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.BP_Andre_Dude2
+[2019.12.10-01.03.51:935][521]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.10-01.04.30:724][218]BlueprintLog: New page: Compile BP_Andre_Dude2
+[2019.12.10-01.04.31:079][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.10-01.04.31:950][229]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/BP_Andre_Dude24E4F8340422A194782A229BBE270A03A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/BluePrints/Main_Chararacter/BP_Andre_Dude2.uasset'
+[2019.12.10-01.04.32:805][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.04.33:951][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.04.34:054][271]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.04.34:112][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.10-01.07.44:025][901]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.07.44:081][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.10-01.07.59:921][ 37]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.08.00:204][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.08.01:173][129]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.08.01:230][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.10-01.08.02:962][129]LogSlate: Window 'Save Content' being destroyed
+[2019.12.10-01.08.02:973][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.08.03:012][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.12.10-01.08.03:380][129]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial0C700B594B4CDED11A0A24BE6DFE213A.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-01.08.03:430][129]LogFileHelpers: Saving map 'level_tutorial' took 0.450
+[2019.12.10-01.08.21:009][252]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.08.22:363][274]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Checkpoint_C (BP_Checkpoint3)
+[2019.12.10-01.08.27:762][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.08.31:571][442]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.08.33:558][471]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.08.33:715][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.08.35:337][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.12.10-01.08.35:342][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-01.08.35:344][588]PIE: New page: PIE session: level_tutorial (Dec 9, 2019, 1:08:35 PM)
+[2019.12.10-01.08.35:359][588]LogPlayLevel: Creating play world package: /Game/Andre/Levels/UEDPIE_0_level_tutorial
+[2019.12.10-01.08.35:374][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014890s)
+[2019.12.10-01.08.35:374][588]LogAIModule: Creating AISystem for world level_tutorial
+[2019.12.10-01.08.35:374][588]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.12.10-01.08.35:374][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andre/Levels/level_tutorial.level_tutorial to /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial (0.015842s)
+[2019.12.10-01.08.35:402][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.10-01.08.35:412][588]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-01.08.35:437][588]LogInit: FAudioDevice initialized.
+[2019.12.10-01.08.35:438][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.08.35:479][588]LogLoad: Game class is 'Rand_test_C'
+[2019.12.10-01.08.35:493][588]LogWorld: Bringing World /Game/Andre/Levels/UEDPIE_0_level_tutorial.level_tutorial up for play (max tick rate 0) at 2019.12.09-19.08.35
+[2019.12.10-01.08.35:497][588]LogWorld: Bringing up level for play took: 0.016111
+[2019.12.10-01.08.35:511][588]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.12.10-01.08.35:513][588]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.12.10-01.08.35:514][588]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.10-01.08.35:520][588]LogBlueprintUserMessages: [BP_Checkpoint3_5] Checkpoint Cleared
+[2019.12.10-01.08.35:522][588]LogBlueprintUserMessages: [BP_Checkpoint3_5] Checkpoint Cleared
+[2019.12.10-01.08.35:523][588]PIE: Play in editor start time for /Game/Andre/Levels/UEDPIE_0_level_tutorial 0.916
+[2019.12.10-01.08.35:524][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.12.10-01.08.35:591][588]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.35:892][589]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.35:899][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.35:952][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:012][592]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:061][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:109][594]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:158][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:213][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:264][597]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:312][598]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:360][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:411][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:461][601]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:508][602]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:557][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:605][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:656][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:702][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:749][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:797][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:845][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:895][610]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:943][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.36:993][612]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:043][613]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:094][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:142][615]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:194][616]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:243][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:290][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:338][619]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:387][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:436][621]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:488][622]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:537][623]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:587][624]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:639][625]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:686][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andre/BluePrints/HUD/BP_HUD.BP_HUD_C:GetPercent_1'!
+[2019.12.10-01.08.37:733][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.12.10-01.08.37:733][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-01.08.37:869][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-01.08.37:869][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial' with GeneratedClass '/Game/Andre/Levels/level_tutorial.level_tutorial_C' with ClassGeneratedBy '/Game/Andre/Levels/level_tutorial.level_tutorial:PersistentLevel.level_tutorial'
+[2019.12.10-01.08.37:914][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-01.08.37:939][627]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.10-01.08.37:953][628]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.10-01.08.39:463][657]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint3)
+[2019.12.10-01.08.40:934][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.08.42:697][715]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.08.42:758][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.10-01.08.44:189][715]LogSlate: Window 'Save Content' being destroyed
+[2019.12.10-01.08.44:198][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.08.44:232][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.10-01.08.44:592][715]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial135F188B45F20D5D84DC18A0DD0D99A2.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
+[2019.12.10-01.08.44:645][715]LogFileHelpers: Saving map 'level_tutorial' took 0.440
+[2019.12.10-01.09.18:163][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.09.18:253][842]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.09.18:314][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.10-01.09.30:899][927]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.09.31:535][935]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.09.31:701][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.09.32:708][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-01.09.40:500][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.09.59:812][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.08:385][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.10:383][390]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_edit53F47A1B4D9416FDC9D9BAB31BBAD355.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
+[2019.12.10-01.10.12:466][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.13:541][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.13:648][434]LogTemp: Repeating last play command: Standalone Game
+[2019.12.10-01.10.13:707][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.10-01.10.21:500][482]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Main_TileMap_z_edit)
+[2019.12.10-01.10.21:638][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-01.10.22:657][603]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-01.10.34:071][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.40:728][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.45:636][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.10.55:010][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.11.05:955][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.11.12:832][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.11.14:705][156]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/Main_TileMap_z_edit06F068C848AAE447B42F4398EFEEC577.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/TileMaps/Main_TileMap_z_edit.uasset'
+[2019.12.10-01.11.16:141][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.11.16:248][172]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.12.10-01.11.16:261][172]LogSlate: Window 'BP_Andre_Dude2' being destroyed
+[2019.12.10-01.11.17:165][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-01.11.17:326][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.10-01.11.17:696][190]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Saved/level_tutorial3CC7EC92490ABB53A9F890B9C772A7A1.tmp' to '../../../../../../Users/David Chan/Desktop/The_Gathering_Game/Demo/Content/Andre/Levels/level_tutorial.umap'
